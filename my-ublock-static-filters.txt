@@ -1,3 +1,7 @@
+! Title: My Static Filters
+! Version: 1
+! Description: My Personal Filters for uBlock Origin
+!
 !*$font,third-party
 
 !$3p,frame,redirect-rule=click2load.html
