@@ -1,5 +1,7 @@
-! 2021-05-01 https://www.google.com
-www.google.com###taw
+!*$font,third-party
+
+!$3p,frame,redirect-rule=click2load.html
+!$3p,frame,redirect=click2load.html
 
 ! 2021-05-26 https://www.anandabazar.com
 www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
@@ -26,6 +28,9 @@ www.psypost.org##.ads_google_ads
 
 ! 2021-05-31 https://www.sportskeeda.com
 www.sportskeeda.com##.app-download-modal
+
+! 2021-06-01 https://www.google.com
+www.google.com###taw
 
 ! 2021-06-03 https://www.xvideos3.com
 www.xvideos3.com###ad-header-mobile-contener
@@ -98,11 +103,106 @@ m.filmfare.com###filmfare_app-popover-container
 m.filmfare.com##.only_three.social_footer
 
 ! 2021-06-22 https://www.anandabazar.com
+!www.anandabazar.com##div.msladbox.mb-4.background-ad
+!www.anandabazar.com##.bigadbox.mb-4.background-ad
+
+! 2021-06-22 https://www.anandabazar.com
 www.anandabazar.com##.background-ad
 
 ! 2021-06-22 https://coingape.com
 coingape.com###quads-ad86063
 
-! 2021-06-27 https://who.is
+! 2021-07-19 https://who.is
 who.is##center
+who.is###domainAvailabilityPowerBar
+
+! 2021-07-19 https://infotakers.com
+infotakers.com##body > center
+
+! 2021-07-24 https://www.91mobiles.com
+www.91mobiles.com##.wp-video
+
+! 2021-07-24 https://www.ft.com
+www.ft.com##.article__content-sign-up
+
+! 2021-07-24 https://m.economictimes.com
+m.economictimes.com##.appInstlBnr
+
+! 2021-07-24 https://www.hitc.com
+www.hitc.com##div.mobile.GRVMpuWrapper
+www.hitc.com##.wp-block-grvmedia-grv-video.GRVVideo
+
+! 2021-07-24 https://www.independent.co.uk
+www.independent.co.uk##.pb-20.hzrKbO.sc-qXiqU
+
+! 2021-07-24 https://www.esquire.com
+www.esquire.com##div.mobile-breaker-ad.standard-article-breaker-ad.article-breaker-ad.breaker-ad
+
+! 2021-07-26 https://www.google.co.in
+www.google.co.in##.FSIemd
+
+! 2021-07-27 https://www.anandabazar.com
+www.anandabazar.com##.pf-top-sponsor-sec
+www.anandabazar.com##.hnwbanner
+
+! 2021-07-31 https://www.investopedia.com
+www.investopedia.com##.mntl-block.mntl-sc-block-adslot.mntl-sc-block.comp
+
+! 2021-08-01 https://history.howstuffworks.com
+history.howstuffworks.com##div.mb-6.h-min-400.md\:hidden.print\:hidden.sticky-container
+history.howstuffworks.com##.z-999.h-50.bg-light-gray.right-0.left-0.bottom-0.fixed.md\:hidden.print\:hidden
+
+! 2021-08-02 https://www.dexerto.com
+www.dexerto.com###dex-ad-mobile-article-1
+
+! 2021-08-03 https://m.timesofindia.com
+m.timesofindia.com##.sticky.social_mrg
+m.timesofindia.com###amp_float_whtsapp
+m.timesofindia.com##div.amp_iframe
+
+! 2021-08-03 https://www.ndtv.com
+www.ndtv.com##.video_wrapper
+
+! 2021-08-03 https://zeenews.india.com
+zeenews.india.com##i-amphtml-sizer
+
+! 2021-08-03 https://foreignpolicy.com
+foreignpolicy.com##.header-alt-layout__title
+foreignpolicy.com##.sidebar-big-box-ad
+
+! 2021-08-04 https://www.anandabazar.com
+www.anandabazar.com##.sponsor-header.justify-content-center.d-flex
+
+! 2021-08-04 https://foreignpolicy.com
+foreignpolicy.com##.home-ad-region-2
+
+! 2021-09-01 https://www.news18.com
+www.news18.com##.article_main.jsx-1913434547 > div.jsx-1913434547:nth-of-type(2)
+www.news18.com##.stky-ad-footer.jsx-230332353
+
+! 2021-09-02 https://www.firstpost.com
+www.firstpost.com##.add-section
+
+! 2021-09-07 https://www.siliconvalleyrealestateteam.com
+www.siliconvalleyrealestateteam.com###modal-container
+www.siliconvalleyrealestateteam.com##div.schedule-showing
+
+! 2021-09-12 https://theprint.in
+theprint.in##.stiky_surveyBtn
+
+! 2021-09-12 https://scroll.in
+scroll.in##.below-navigation-banner-wrapper
+
+! 2021-09-14 https://mediafiles.cc
+||mediafiles.cc/*$image
+
+! 2021-09-17 https://bengali.indianexpress.com
+bengali.indianexpress.com##.ad-bg-container
+
+! 2021-09-23 https://indianexpress.com
+indianexpress.com##.top-ads-amp
+
+! 2021-09-25 https://www.entrepreneur.com
+www.entrepreneur.com##.stickyBottomAd.fixed.tad.adbox
+www.entrepreneur.com##.stickyTopAd.sticky.tad.adbox
 
