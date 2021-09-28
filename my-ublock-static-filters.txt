@@ -1,4 +1,4 @@
-! Title: My Static Filters
+! Title: আমার Static Filters
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
