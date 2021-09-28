@@ -2,6 +2,7 @@
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
+! Expires: 10 days
 $font,third-party
 
 !$3p,frame,redirect-rule=click2load.html
