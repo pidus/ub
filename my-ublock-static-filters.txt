@@ -6,17 +6,6 @@ $font,third-party
 
 !$3p,frame,redirect-rule=click2load.html
 
-||youtube.com^$3p,frame,redirect=click2load.html
-||youtube-nocookie.com^$3p,frame,redirect=click2load.html
-||player.vimeo.com/video^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com
-||scribd.com^$3p,frame,redirect=click2load.html
-||docs.google.com/document/d/e/$3p,frame,redirect=click2load.html
-||docs.google.com/presentation/d/e/$3p,frame,redirect=click2load.html
-||drive.google.com/file/$3p,frame,redirect=click2load.html
-||s3.amazonaws.com/embed.animoto.com/$3p,frame,redirect=click2load.html
-||player.twitch.tv^$3p,frame,redirect=click2load.html
-||platform.twitter.com/widgets^$3p,frame,redirect=click2load.html
-
 ! 2021-05-26 https://www.anandabazar.com
 www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
 www.anandabazar.com##.flex-column.mb-4.pb-3.mobheaderad.background-ad.align-items-center.row
