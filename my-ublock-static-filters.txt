@@ -2,10 +2,20 @@
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
-!*$font,third-party
+$font,third-party
 
 !$3p,frame,redirect-rule=click2load.html
-!$3p,frame,redirect=click2load.html
+
+||youtube.com^$3p,frame,redirect=click2load.html
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html
+||player.vimeo.com/video^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com
+||scribd.com^$3p,frame,redirect=click2load.html
+||docs.google.com/document/d/e/$3p,frame,redirect=click2load.html
+||docs.google.com/presentation/d/e/$3p,frame,redirect=click2load.html
+||drive.google.com/file/$3p,frame,redirect=click2load.html
+||s3.amazonaws.com/embed.animoto.com/$3p,frame,redirect=click2load.html
+||player.twitch.tv^$3p,frame,redirect=click2load.html
+||platform.twitter.com/widgets^$3p,frame,redirect=click2load.html
 
 ! 2021-05-26 https://www.anandabazar.com
 www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
@@ -209,4 +219,15 @@ indianexpress.com##.top-ads-amp
 ! 2021-09-25 https://www.entrepreneur.com
 www.entrepreneur.com##.stickyBottomAd.fixed.tad.adbox
 www.entrepreneur.com##.stickyTopAd.sticky.tad.adbox
+! 2021-09-27 https://www.oneindia.com
+www.oneindia.com##.one-ad
+
+! 2021-09-28 https://www.foreignaffairs.com
+www.foreignaffairs.com##.site-header__top-bar
+
+! 2021-09-28 https://www.telegraphindia.com
+www.telegraphindia.com##.adboxbdr
+www.telegraphindia.com##.ad250
+www.telegraphindia.com##.adtext
+
 
