@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               XVIDEOS
-// @namespace          https://github.com/pidus
-// @description        Always redirects to nitter
+// @namespace          https://github.com/pidus/adblock
+// @description        Always redirects
 // @include            *://*xvideos.com/*
 // @version            1.0
 // @run-at             document-start
