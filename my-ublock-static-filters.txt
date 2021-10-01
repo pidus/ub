@@ -220,4 +220,24 @@ www.telegraphindia.com##.adboxbdr
 www.telegraphindia.com##.ad250
 www.telegraphindia.com##.adtext
 
+! 2021-09-26 https://www.independent.co.uk
+www.independent.co.uk##.liykVx.sc-iJminA.gRURpq.sc-iMeepW
+
+! 2021-09-27 https://www.livemint.com
+www.livemint.com##div.fixadheight
+
+! 2021-09-28 https://eisamay.com
+eisamay.com##.ad1
+eisamay.com##.ads-between-story.story-content
+eisamay.com##.adCANContainer
+eisamay.com##.ads-center
+eisamay.com##.alaskamasthead
+
+! 2021-09-29 https://www.xvideos2.com
+www.xvideos2.com###ad-header-mobile
+www.xvideos2.com###mobile-slogan
+
+! 2021-09-29 https://www.ghacks.net
+www.ghacks.net###snippet-box
+
 
