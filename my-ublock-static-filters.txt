@@ -209,6 +209,7 @@ indianexpress.com##.top-ads-amp
 ! 2021-09-25 https://www.entrepreneur.com
 www.entrepreneur.com##.stickyBottomAd.fixed.tad.adbox
 www.entrepreneur.com##.stickyTopAd.sticky.tad.adbox
+
 ! 2021-09-27 https://www.oneindia.com
 www.oneindia.com##.one-ad
 
@@ -239,5 +240,43 @@ www.xvideos2.com###mobile-slogan
 
 ! 2021-09-29 https://www.ghacks.net
 www.ghacks.net###snippet-box
+
+! 2021-09-30 https://www.goabroad.com
+www.goabroad.com###scrollElement
+
+! 2021-10-01 https://www.digitalcameraworld.com
+www.digitalcameraworld.com##.van_vid_carousel
+www.digitalcameraworld.com##.van_taboola
+
+! 2021-10-01 https://petapixel.com
+petapixel.com##div.instream_ad:nth-of-type(n+1)
+petapixel.com##.video-aspect-wrapper
+
+! 2021-10-01 https://moddingunited.xyz
+moddingunited.xyz##.code-block
+
+! 2021-10-01 https://www.thehindu.com
+||www.thehindu.com/static/img/1x1_spacer.png$image
+www.thehindu.com##.mob-top-add
+
+! 2021-10-02 https://nationalpost.com
+nationalpost.com##.widget--distroscale.widget
+
+! 2021-10-02 https://www.xda-developers.com
+www.xda-developers.com##.entry_media
+
+! 2021-10-03 https://m.timesofindia.com
+m.timesofindia.com##.article-section.clearfix.article-txt > .clearfix .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+
+! 2021-10-06 https://www.firstpost.com
+www.firstpost.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element
+www.firstpost.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+
+! 2021-10-06 https://m.cricbuzz.com
+m.cricbuzz.com##.cbz-leaderboard-banner
+
+! 2021-10-06 https://newsmeter.in
+newsmeter.in##.left_level_ad
+
 
 
