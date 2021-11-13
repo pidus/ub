@@ -1,4 +1,4 @@
-! Title: আমার Static Filters
+! Title: আমার uBO Static Filters
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
@@ -277,6 +277,31 @@ m.cricbuzz.com##.cbz-leaderboard-banner
 
 ! 2021-10-06 https://newsmeter.in
 newsmeter.in##.left_level_ad
+
+! 2021-10-19 https://indianexpress.com
+indianexpress.com##p > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+
+! 2021-10-26 https://www.hindustantimes.com
+www.hindustantimes.com##.top250Ad
+
+! 2021-10-26 https://managementconsulted.com
+managementconsulted.com##.card-body
+
+! 2021-10-26 https://www.1mg.com
+www.1mg.com##.Cart__overlay___3VsvU
+
+! 2021-10-26 https://m.netmeds.com
+m.netmeds.com###haptik-xdk-wrapper
+
+! 2021-10-30 https://www.adorama.com
+www.adorama.com##p:nth-of-type(2)
+
+! 2021-10-30 https://www.techradar.com
+www.techradar.com##.ad-unit
+www.techradar.com##.vid-present.van_vid_carousel
+
+! 2021-10-30 https://okmagazine.com
+okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 
 
 
