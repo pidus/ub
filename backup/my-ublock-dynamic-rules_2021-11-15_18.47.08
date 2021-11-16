@@ -1,0 +1,21 @@
+no-csp-reports: * true
+no-large-media: behind-the-scene false
+no-large-media: www.linkedin.com false
+no-large-media: mobile.twitter.com false
+no-large-media: m.youtube.com false
+no-remote-fonts: * true
+no-remote-fonts: opensea.io false
+no-remote-fonts: www.xvideos2.com false
+no-remote-fonts: www.xvideos3.com false
+* * 3p-frame block
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+blog.google * 3p-frame noop
+www.linkedin.com * 3p-frame noop
+www.xvideos2.com * 3p-frame noop
+www.xvideos5.com * 3p-frame noop
