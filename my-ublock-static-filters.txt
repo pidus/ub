@@ -3,9 +3,6 @@
 ! Description: My Personal Filters for uBlock Origin
 !
 ! Expires: 10 days
-!$font,third-party
-
-!$3p,frame,redirect-rule=click2load.html
 
 ! 2021-05-26 https://www.anandabazar.com
 www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
@@ -234,9 +231,15 @@ eisamay.com##.adCANContainer
 eisamay.com##.ads-center
 eisamay.com##.alaskamasthead
 
-! 2021-09-29 https://www.xvideos2.com
+! 2021-09-29 https://www.xvideos.com
+www.xvideos.com###ad-header-mobile
+www.xvideos.com###mobile-slogan
 www.xvideos2.com###ad-header-mobile
 www.xvideos2.com###mobile-slogan
+www.xvideos3.com###ad-header-mobile
+www.xvideos3.com###mobile-slogan
+www.xvideos5.com###ad-header-mobile
+www.xvideos5.com###mobile-slogan
 
 ! 2021-09-29 https://www.ghacks.net
 www.ghacks.net###snippet-box
@@ -302,6 +305,67 @@ www.techradar.com##.vid-present.van_vid_carousel
 
 ! 2021-10-30 https://okmagazine.com
 okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
+
+! 2021-11-13 https://psmag.com
+psmag.com##aside.not-size-d.not-size-c.not-size-b.l-inline.m-in-content-ad-row
+
+! 2021-11-17 https://www.anandabazar.com
+www.anandabazar.com##.wmslogocontainer
+www.anandabazar.com##.wmlogo
+
+! 2021-11-19 https://www.themarysue.com
+www.themarysue.com##.primis-player
+www.themarysue.com###sticky-bottom
+
+! 2021-11-20 https://psyche.co
+psyche.co##.hoejUR.styled__Wrapper-sc-1ypitke-0
+
+! 2021-11-21 https://byjus.com
+byjus.com###social-sharing-btns
+
+! 2021-11-23 https://gadgets.ndtv.com
+gadgets.ndtv.com##.clear
+gadgets.ndtv.com##.taboola.innerContainer
+
+! 2021-11-23 https://www.independent.co.uk
+www.independent.co.uk##.dOgrqQ.sc-eTDZHU.gMypII.sc-fSLPxG
+
+! 2021-11-24 https://www.theregister.com
+www.theregister.com##.gtag_display.adun
+
+! 2021-11-24 https://forums.theregister.com
+forums.theregister.com##.thread_breaker
+
+! 2021-11-25 https://www.indiatoday.in
+www.indiatoday.in###taboola-below-article-thumbnails
+
+! 2021-11-27 https://www.cntraveler.com
+www.cntraveler.com##.ad-ratio.ad
+www.cntraveler.com##.cne-interlude.cne
+
+! 2021-11-28 https://nypost.com
+nypost.com##.ad--container.ad
+
+! 2021-12-01 https://cheerleading.lovetoknow.com
+cheerleading.lovetoknow.com##.ad
+
+! 2021-12-02 https://www.pinkvilla.com
+www.pinkvilla.com##.topads
+www.pinkvilla.com##.articleads
+
+! 2021-12-02 https://auto.hindustantimes.com
+auto.hindustantimes.com##.mainArea > div
+auto.hindustantimes.com##div:nth-of-type(6)
+
+! 2021-12-03 https://www.moneycontrol.com
+www.moneycontrol.com##.ad-section
+
+! 2021-12-05 https://dotesports.com
+dotesports.com##.primis-player
+dotesports.com##.proper-ad-unit
+
+! 2021-12-06 https://www.technologynetworks.com
+www.technologynetworks.com##.adverts_footer_scrolling_advert
 
 
 
