@@ -5,8 +5,9 @@
 ! Expires: 10 days
 
 ! 2021-05-26 https://www.anandabazar.com
-www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
-www.anandabazar.com##.flex-column.mb-4.pb-3.mobheaderad.background-ad.align-items-center.row
+!www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
+!www.anandabazar.com##.flex-column.mb-4.pb-3.mobheaderad.background-ad.align-items-center.row
+!www.anandabazar.com##.sponsor-header.justify-content-center.d-flex
 !www.anandabazar.com##div.msladbox.mb-4.background-ad
 !www.anandabazar.com##.bigadbox.mb-4.background-ad
 www.anandabazar.com##.background-ad
@@ -14,15 +15,14 @@ www.anandabazar.com##.pf-top-sponsor-sec
 www.anandabazar.com##.hnwbanner
 www.anandabazar.com##.wmslogocontainer
 www.anandabazar.com##.wmlogo
+www.anandabazar.com##.mobheaderad
+www.anandabazar.com##.sponsor-header
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
 
 ! 2021-05-27 https://foreignpolicy.com
 foreignpolicy.com##.cookie_message_displayed.sticky_content
-
-! 2021-05-28 https://www.anandabazar.com
-www.anandabazar.com##.mb-3.pb-3.mobheaderad.background-ad.text-center
 
 ! 2021-05-28 https://www.psychologytoday.com
 www.psychologytoday.com###block-adblock-16
@@ -39,12 +39,6 @@ www.sportskeeda.com##.app-download-modal
 
 ! 2021-06-01 https://www.google.com
 www.google.com###taw
-
-! 2021-06-03 https://www.xvideos3.com
-www.xvideos3.com###ad-header-mobile-contener
-
-! 2021-06-03 https://www.anandabazar.com
-www.anandabazar.com##.pb-3.mobheaderad.background-ad.text-center
 
 ! 2021-06-06 https://www.refinery29.com
 www.refinery29.com##.full-bleed.ad-container
@@ -163,9 +157,6 @@ zeenews.india.com##i-amphtml-sizer
 ! 2021-08-03 https://foreignpolicy.com
 foreignpolicy.com##.header-alt-layout__title
 foreignpolicy.com##.sidebar-big-box-ad
-
-! 2021-08-04 https://www.anandabazar.com
-www.anandabazar.com##.sponsor-header.justify-content-center.d-flex
 
 ! 2021-08-04 https://foreignpolicy.com
 foreignpolicy.com##.home-ad-region-2
