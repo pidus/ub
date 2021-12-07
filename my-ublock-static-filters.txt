@@ -7,6 +7,13 @@
 ! 2021-05-26 https://www.anandabazar.com
 www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
 www.anandabazar.com##.flex-column.mb-4.pb-3.mobheaderad.background-ad.align-items-center.row
+!www.anandabazar.com##div.msladbox.mb-4.background-ad
+!www.anandabazar.com##.bigadbox.mb-4.background-ad
+www.anandabazar.com##.background-ad
+www.anandabazar.com##.pf-top-sponsor-sec
+www.anandabazar.com##.hnwbanner
+www.anandabazar.com##.wmslogocontainer
+www.anandabazar.com##.wmlogo
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
@@ -38,9 +45,6 @@ www.xvideos3.com###ad-header-mobile-contener
 
 ! 2021-06-03 https://www.anandabazar.com
 www.anandabazar.com##.pb-3.mobheaderad.background-ad.text-center
-
-! 2021-06-05 https://www.xvideos3.com
-www.xvideos3.com##.with-links.mobile-portrait-show
 
 ! 2021-06-06 https://www.refinery29.com
 www.refinery29.com##.full-bleed.ad-container
@@ -103,13 +107,6 @@ www.bollywoodlife.com##.adsFixed
 m.filmfare.com###filmfare_app-popover-container
 m.filmfare.com##.only_three.social_footer
 
-! 2021-06-22 https://www.anandabazar.com
-!www.anandabazar.com##div.msladbox.mb-4.background-ad
-!www.anandabazar.com##.bigadbox.mb-4.background-ad
-
-! 2021-06-22 https://www.anandabazar.com
-www.anandabazar.com##.background-ad
-
 ! 2021-06-22 https://coingape.com
 coingape.com###quads-ad86063
 
@@ -141,10 +138,6 @@ www.esquire.com##div.mobile-breaker-ad.standard-article-breaker-ad.article-break
 
 ! 2021-07-26 https://www.google.co.in
 www.google.co.in##.FSIemd
-
-! 2021-07-27 https://www.anandabazar.com
-www.anandabazar.com##.pf-top-sponsor-sec
-www.anandabazar.com##.hnwbanner
 
 ! 2021-07-31 https://www.investopedia.com
 www.investopedia.com##.mntl-block.mntl-sc-block-adslot.mntl-sc-block.comp
@@ -308,10 +301,6 @@ okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 
 ! 2021-11-13 https://psmag.com
 psmag.com##aside.not-size-d.not-size-c.not-size-b.l-inline.m-in-content-ad-row
-
-! 2021-11-17 https://www.anandabazar.com
-www.anandabazar.com##.wmslogocontainer
-www.anandabazar.com##.wmlogo
 
 ! 2021-11-19 https://www.themarysue.com
 www.themarysue.com##.primis-player
