@@ -1,11 +1,14 @@
+# NextDNS
+oisd
+
 # AdGuard
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_2_English/filter.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_3_Spyware/filter.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_4_Social/filter.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_4_Social/filter.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_14_Annoyances/filter.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_11_Mobile/filter.txt
+https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_17_TrackParam/filter.txt
 
 # AdGuard Optimised
 https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
@@ -42,19 +45,20 @@ https://github.com/DandelionSprout/adfilt/raw/master/BrowseWebsitesWithoutLoggin
 
 # Yuki2718
 https://github.com/Yuki2718/adblock/raw/master/adguard/social-plus.txt
+https://github.com/Yuki2718/adblock/raw/master/no_gen_cosm/phhider.txt
 https://github.com/Yuki2718/adblock/raw/master/adguard/anti-antiadb.txt
 https://github.com/Yuki2718/adblock/raw/master/adguard/tracking-plus.txt
-https://github.com/Yuki2718/adblock/raw/master/no_gen_cosm/phhider.txt
 
 ## extra
 https://github.com/pidus/adblock/raw/master/static
 
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
-https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
+https://github.com/curbengh/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/TOP_EU_US_Ads_Trackers_ABP
 
 https://crapblock.theel0ja.info/crapblock-annoyances.txt
 https://crapblock.theel0ja.info/even-cleaner-news-sites.txt
 
-https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+https://github.com/xarantolus/nervig/raw/main/annoyances.txt
+https://github.com/robonxt/CleanYourTwitter/raw/master/CleanYourTwitter.txt
+
