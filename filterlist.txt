@@ -18,31 +18,36 @@ https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt
 
 # Easy List
-# https://www.fanboy.co.nz/r/fanboy-ultimate.txt
-# https://fanboy.co.nz/fanboy-antifacebook.txt
 https://fanboy.co.nz/fanboy-antifonts.txt
+https://fanboy.co.nz/fanboy-antifacebook.txt
+https://www.fanboy.co.nz/r/fanboy-ultimate.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # uB0 
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/annoyances.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 
 # DandelionSprout
 https://github.com/DandelionSprout/adfilt/raw/master/AnnoyancesList
-https://github.com/DandelionSprout/adfilt/raw/master/AdRemovalListForUnusualAds.txt
-https://github.com/DandelionSprout/adfilt/raw/master/BrowseWebsitesWithoutLoggingIn.txt
+
 https://github.com/DandelionSprout/adfilt/raw/master/EmptyPaddingRemover.txt
 https://github.com/DandelionSprout/adfilt/raw/master/StopAutoplayOnYouTube.txt
+https://github.com/DandelionSprout/adfilt/raw/master/LegitimateURLShortener.txt
+https://github.com/DandelionSprout/adfilt/raw/master/AdRemovalListForUnusualAds.txt
+https://github.com/DandelionSprout/adfilt/raw/master/BrowseWebsitesWithoutLoggingIn.txt
 
-# extra
+# Yuki2718
+https://github.com/Yuki2718/adblock/raw/master/adguard/social-plus.txt
+https://github.com/Yuki2718/adblock/raw/master/adguard/anti-antiadb.txt
+https://github.com/Yuki2718/adblock/raw/master/adguard/tracking-plus.txt
+https://github.com/Yuki2718/adblock/raw/master/no_gen_cosm/phhider.txt
+
+## extra
 https://github.com/pidus/adblock/raw/master/static
-
-https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
 
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
