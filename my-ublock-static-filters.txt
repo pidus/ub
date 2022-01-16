@@ -347,5 +347,14 @@ dotesports.com##.proper-ad-unit
 ! 2021-12-06 https://www.technologynetworks.com
 www.technologynetworks.com##.adverts_footer_scrolling_advert
 
+! 2021-12-06 https://www.news-medical.net
+www.news-medical.net###mobile-middle-mrec-promo-spot
+www.news-medical.net##.share-box
+
+! 2021-12-07 https://www.gizbot.com
+www.gizbot.com###first-ad
+www.gizbot.com##.amp-inner-ad
+www.gizbot.com###mobifooterad
+
 
 
