@@ -4,12 +4,13 @@
 !
 ! Expires: 10 days
 
+! 2021-05-01 https://www.google.com
+www.google.com###taw
+
+! 2021-05-11 https://www.google.co.in
+www.google.co.in##.FSIemd
+
 ! 2021-05-26 https://www.anandabazar.com
-!www.anandabazar.com##.mt-3.pb-3.mobheaderad.background-ad.text-center
-!www.anandabazar.com##.flex-column.mb-4.pb-3.mobheaderad.background-ad.align-items-center.row
-!www.anandabazar.com##.sponsor-header.justify-content-center.d-flex
-!www.anandabazar.com##div.msladbox.mb-4.background-ad
-!www.anandabazar.com##.bigadbox.mb-4.background-ad
 www.anandabazar.com##.background-ad
 www.anandabazar.com##.pf-top-sponsor-sec
 www.anandabazar.com##.hnwbanner
@@ -17,6 +18,7 @@ www.anandabazar.com##.wmslogocontainer
 www.anandabazar.com##.wmlogo
 www.anandabazar.com##.mobheaderad
 www.anandabazar.com##.sponsor-header
+www.anandabazar.com##.mbannerbox
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
@@ -36,9 +38,6 @@ www.psypost.org##.ads_google_ads
 
 ! 2021-05-31 https://www.sportskeeda.com
 www.sportskeeda.com##.app-download-modal
-
-! 2021-06-01 https://www.google.com
-www.google.com###taw
 
 ! 2021-06-06 https://www.refinery29.com
 www.refinery29.com##.full-bleed.ad-container
@@ -129,9 +128,6 @@ www.independent.co.uk##.pb-20.hzrKbO.sc-qXiqU
 
 ! 2021-07-24 https://www.esquire.com
 www.esquire.com##div.mobile-breaker-ad.standard-article-breaker-ad.article-breaker-ad.breaker-ad
-
-! 2021-07-26 https://www.google.co.in
-www.google.co.in##.FSIemd
 
 ! 2021-07-31 https://www.investopedia.com
 www.investopedia.com##.mntl-block.mntl-sc-block-adslot.mntl-sc-block.comp
