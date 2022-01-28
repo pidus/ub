@@ -1,8 +1,8 @@
-! Title: আমার uBO Static Filters
+! Title: আমার uBO Annoyances
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
-! Expires: 10 days
+! Expires: 7 days
 
 ! 2021-05-01 https://www.google.com
 www.google.com###taw
@@ -24,9 +24,6 @@ www.anandabazar.com##.stckyadbox
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
 
-! 2021-05-27 https://foreignpolicy.com
-foreignpolicy.com##.cookie_message_displayed.sticky_content
-
 ! 2021-05-28 https://www.psychologytoday.com
 www.psychologytoday.com###block-adblock-16
 www.psychologytoday.com###block-adblock-17
@@ -41,7 +38,7 @@ www.psypost.org##.ads_google_ads
 www.sportskeeda.com##.app-download-modal
 
 ! 2021-06-06 https://www.refinery29.com
-www.refinery29.com##.full-bleed.ad-container
+www.refinery29.com##.ad-container
 
 ! 2021-06-07 https://www.livemint.com
 www.livemint.com##.close-btn.sticky2.btnClose
@@ -51,11 +48,11 @@ www.drivespark.com###taboola-mid-article-thumbnails
 
 ! 2021-06-08 https://www.timesnownews.com
 www.timesnownews.com##._tn_audio_bt
-www.timesnownews.com##div.tncls_ad_300.tncls_ad.common_ad_wrap:nth-of-type(n)
+www.timesnownews.com##.tncls_ad_300.tncls_ad.common_ad_wrap
 
 ! 2021-06-11 https://www.livemint.com
 www.livemint.com###story-ads-0
-www.livemint.com##div.trendingSimilarHeight:nth-of-type(n)
+www.livemint.com##.trendingSimilarHeight
 
 ! 2021-06-11 https://www.plansinfo.com
 www.plansinfo.com##.mob-ad-top
@@ -120,23 +117,6 @@ www.ft.com##.article__content-sign-up
 ! 2021-07-24 https://m.economictimes.com
 m.economictimes.com##.appInstlBnr
 
-! 2021-07-24 https://www.hitc.com
-www.hitc.com##div.mobile.GRVMpuWrapper
-www.hitc.com##.wp-block-grvmedia-grv-video.GRVVideo
-
-! 2021-07-24 https://www.independent.co.uk
-www.independent.co.uk##.pb-20.hzrKbO.sc-qXiqU
-
-! 2021-07-24 https://www.esquire.com
-www.esquire.com##div.mobile-breaker-ad.standard-article-breaker-ad.article-breaker-ad.breaker-ad
-
-! 2021-07-31 https://www.investopedia.com
-www.investopedia.com##.mntl-block.mntl-sc-block-adslot.mntl-sc-block.comp
-
-! 2021-08-01 https://history.howstuffworks.com
-history.howstuffworks.com##div.mb-6.h-min-400.md\:hidden.print\:hidden.sticky-container
-history.howstuffworks.com##.z-999.h-50.bg-light-gray.right-0.left-0.bottom-0.fixed.md\:hidden.print\:hidden
-
 ! 2021-08-02 https://www.dexerto.com
 www.dexerto.com###dex-ad-mobile-article-1
 
@@ -158,16 +138,12 @@ foreignpolicy.com##.sidebar-big-box-ad
 ! 2021-08-04 https://foreignpolicy.com
 foreignpolicy.com##.home-ad-region-2
 
-! 2021-09-01 https://www.news18.com
-www.news18.com##.article_main.jsx-1913434547 > div.jsx-1913434547:nth-of-type(2)
-www.news18.com##.stky-ad-footer.jsx-230332353
-
 ! 2021-09-02 https://www.firstpost.com
 www.firstpost.com##.add-section
 
 ! 2021-09-07 https://www.siliconvalleyrealestateteam.com
 www.siliconvalleyrealestateteam.com###modal-container
-www.siliconvalleyrealestateteam.com##div.schedule-showing
+www.siliconvalleyrealestateteam.com##.schedule-showing
 
 ! 2021-09-12 https://theprint.in
 theprint.in##.stiky_surveyBtn
@@ -199,11 +175,8 @@ www.telegraphindia.com##.adboxbdr
 www.telegraphindia.com##.ad250
 www.telegraphindia.com##.adtext
 
-! 2021-09-26 https://www.independent.co.uk
-www.independent.co.uk##.liykVx.sc-iJminA.gRURpq.sc-iMeepW
-
 ! 2021-09-27 https://www.livemint.com
-www.livemint.com##div.fixadheight
+www.livemint.com##.fixadheight
 
 ! 2021-09-28 https://eisamay.com
 eisamay.com##.ad1
@@ -212,7 +185,7 @@ eisamay.com##.adCANContainer
 eisamay.com##.ads-center
 eisamay.com##.alaskamasthead
 
-! 2021-09-29 https://www.xvideos.com
+! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
 www.xvideos.com###mobile-slogan
 www.xvideos2.com###ad-header-mobile
@@ -221,9 +194,6 @@ www.xvideos3.com###ad-header-mobile
 www.xvideos3.com###mobile-slogan
 www.xvideos5.com###ad-header-mobile
 www.xvideos5.com###mobile-slogan
-
-! 2021-09-29 https://www.ghacks.net
-www.ghacks.net###snippet-box
 
 ! 2021-09-30 https://www.goabroad.com
 www.goabroad.com###scrollElement
@@ -249,21 +219,11 @@ nationalpost.com##.widget--distroscale.widget
 ! 2021-10-02 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
 
-! 2021-10-03 https://m.timesofindia.com
-m.timesofindia.com##.article-section.clearfix.article-txt > .clearfix .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
-
-! 2021-10-06 https://www.firstpost.com
-www.firstpost.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element
-www.firstpost.com##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
-
 ! 2021-10-06 https://m.cricbuzz.com
 m.cricbuzz.com##.cbz-leaderboard-banner
 
 ! 2021-10-06 https://newsmeter.in
 newsmeter.in##.left_level_ad
-
-! 2021-10-19 https://indianexpress.com
-indianexpress.com##p > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
 
 ! 2021-10-26 https://www.hindustantimes.com
 www.hindustantimes.com##.top250Ad
@@ -287,15 +247,9 @@ www.techradar.com##.vid-present.van_vid_carousel
 ! 2021-10-30 https://okmagazine.com
 okmagazine.com##div.jRAIxB.sc-1o6mqs2-0
 
-! 2021-11-13 https://psmag.com
-psmag.com##aside.not-size-d.not-size-c.not-size-b.l-inline.m-in-content-ad-row
-
 ! 2021-11-19 https://www.themarysue.com
 www.themarysue.com##.primis-player
 www.themarysue.com###sticky-bottom
-
-! 2021-11-20 https://psyche.co
-psyche.co##.hoejUR.styled__Wrapper-sc-1ypitke-0
 
 ! 2021-11-21 https://byjus.com
 byjus.com###social-sharing-btns
@@ -303,10 +257,7 @@ byjus.com###social-sharing-btns
 ! 2021-11-23 https://gadgets.ndtv.com
 gadgets.ndtv.com##._ad
 gadgets.ndtv.com##.clear
-gadgets.ndtv.com##.taboola.innerContainer
-
-! 2021-11-23 https://www.independent.co.uk
-www.independent.co.uk##.dOgrqQ.sc-eTDZHU.gMypII.sc-fSLPxG
+gadgets.ndtv.com##.taboola
 
 ! 2021-11-24 https://www.theregister.com
 www.theregister.com##.gtag_display.adun
@@ -315,6 +266,10 @@ www.theregister.com##.gtag_display.adun
 forums.theregister.com##.thread_breaker
 
 ! 2021-11-25 https://www.indiatoday.in
+www.indiatoday.in###shoppingWidget_mobile
+www.indiatoday.in##.inline-story-add
+www.indiatoday.in##.block-itg-ads
+www.indiatoday.in##.odd.block-block
 www.indiatoday.in###taboola-below-article-thumbnails
 
 ! 2021-11-27 https://www.cntraveler.com
@@ -337,6 +292,8 @@ auto.hindustantimes.com##div:nth-of-type(6)
 
 ! 2021-12-03 https://www.moneycontrol.com
 www.moneycontrol.com##.ad-section
+www.moneycontrol.com##.show-moblie
+www.moneycontrol.com##.mobile_section
 
 ! 2021-12-05 https://dotesports.com
 dotesports.com##.primis-player
@@ -353,6 +310,20 @@ www.news-medical.net##.share-box
 www.gizbot.com###first-ad
 www.gizbot.com##.amp-inner-ad
 www.gizbot.com###mobifooterad
+
+! 2022-01-27 https://www.91mobiles.com
+www.91mobiles.com###footer_ad1
+www.91mobiles.com##.td-header-sp-recs
+
+! 2022-01-27 https://www.banglachotikahinii.com
+www.banglachotikahinii.com###divExoLayerWrapper
+www.banglachotikahinii.com###mhead
+
+! 2022-01-27 https://www.indiatoday.in
+www.indiatoday.in###shoppingWidget_mobile
+www.indiatoday.in##.inline-story-add
+www.indiatoday.in##.block-itg-ads
+www.indiatoday.in##.odd.block-block
 
 
 
