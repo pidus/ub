@@ -19,6 +19,7 @@ www.anandabazar.com##.wmlogo
 www.anandabazar.com##.mobheaderad
 www.anandabazar.com##.sponsor-header
 www.anandabazar.com##.mbannerbox
+www.anandabazar.com##.stckyadbox
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
@@ -300,6 +301,7 @@ psyche.co##.hoejUR.styled__Wrapper-sc-1ypitke-0
 byjus.com###social-sharing-btns
 
 ! 2021-11-23 https://gadgets.ndtv.com
+gadgets.ndtv.com##._ad
 gadgets.ndtv.com##.clear
 gadgets.ndtv.com##.taboola.innerContainer
 
