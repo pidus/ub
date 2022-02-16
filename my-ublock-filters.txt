@@ -48,7 +48,6 @@ www.drivespark.com###taboola-mid-article-thumbnails
 
 ! 2021-06-08 https://www.timesnownews.com
 www.timesnownews.com##._tn_audio_bt
-www.timesnownews.com##.tncls_ad_300.tncls_ad.common_ad_wrap
 
 ! 2021-06-11 https://www.livemint.com
 www.livemint.com###story-ads-0
@@ -234,10 +233,6 @@ m.netmeds.com###haptik-xdk-wrapper
 ! 2021-10-30 https://www.adorama.com
 www.adorama.com##p:nth-of-type(2)
 
-! 2021-10-30 https://www.techradar.com
-www.techradar.com##.ad-unit
-www.techradar.com##.vid-present.van_vid_carousel
-
 ! 2021-11-19 https://www.themarysue.com
 www.themarysue.com##.primis-player
 www.themarysue.com###sticky-bottom
@@ -304,17 +299,24 @@ www.gizbot.com###mobifooterad
 
 ! 2022-01-27 https://www.91mobiles.com
 www.91mobiles.com###footer_ad1
+www.91mobiles.com##.app-dwn-bnr
 www.91mobiles.com##.td-header-sp-recs
 
 ! 2022-01-27 https://www.banglachotikahinii.com
 www.banglachotikahinii.com###divExoLayerWrapper
 www.banglachotikahinii.com###mhead
 
-! 2022-01-27 https://www.indiatoday.in
-www.indiatoday.in###shoppingWidget_mobile
-www.indiatoday.in##.inline-story-add
-www.indiatoday.in##.block-itg-ads
-www.indiatoday.in##.odd.block-block
+! 2022-01-28 https://www.ghacks.net
+www.ghacks.net##.snippet-type-10
+www.ghacks.net###post-author
+ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
+! 2022-02-04 https://www.techradar.com
+www.techradar.com###taboola-mobile-below-article-thumbnails
+www.techradar.com##.related-articles-block
+www.techradar.com##.ad-unit
+www.techradar.com##.vid-present.van_vid_carousel
 
+! 2022-02-04 https://1337x.to
+1337x.to##.user-box
 
