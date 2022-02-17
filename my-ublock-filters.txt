@@ -130,8 +130,6 @@ zeenews.india.com##i-amphtml-sizer
 ! 2021-08-03 https://foreignpolicy.com
 foreignpolicy.com##.header-alt-layout__title
 foreignpolicy.com##.sidebar-big-box-ad
-
-! 2021-08-04 https://foreignpolicy.com
 foreignpolicy.com##.home-ad-region-2
 
 ! 2021-09-02 https://www.firstpost.com
@@ -309,6 +307,7 @@ www.banglachotikahinii.com###mhead
 ! 2022-01-28 https://www.ghacks.net
 www.ghacks.net##.snippet-type-10
 www.ghacks.net###post-author
+! Exception for comments
 ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
 ! 2022-02-04 https://www.techradar.com
