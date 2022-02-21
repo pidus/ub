@@ -319,3 +319,38 @@ www.techradar.com##.vid-present.van_vid_carousel
 ! 2022-02-04 https://1337x.to
 1337x.to##.user-box
 
+! 2022-02-17 https://medium.com
+medium.com##.cy.cj.an.cx
+medium.com##.af.ae.ac.ab.z.y.x.w.v
+
+! 2022-02-17 https://www.psypost.org
+www.psypost.org##.jeg_share_float_container
+
+! 2022-02-18 https://www.policybazaar.com
+www.policybazaar.com##.stickFooter_info
+www.policybazaar.com##.mb-20.card
+www.policybazaar.com##.widgetMobile
+www.policybazaar.com##.bannertermredirect
+www.policybazaar.com##.topBanner
+www.policybazaar.com##.mainForm
+www.policybazaar.com##.top_plans
+
+! 2022-02-19 https://gadgets360.com
+gadgets360.com##._adholder
+
+! 2022-02-19 https://www.glassdoor.co.in
+www.glassdoor.co.in###SmarterBannerContainer
+
+! 2022-02-19 https://unherd.com
+unherd.com##.mobile.article-image
+
+! 2022-02-19 https://www.bgr.in
+www.bgr.in##.ads-fixed
+
+! 2022-02-20 https://www.reuters.com
+www.reuters.com##.RCOMVideo-container-Lo9AA
+
+! 2022-02-20 https://unherd.com
+unherd.com##.please_membership
+
+
