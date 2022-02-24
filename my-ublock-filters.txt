@@ -1,4 +1,4 @@
-! Title: আমার uBO Annoyances
+! Title: আমার annoyances
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
@@ -6,6 +6,7 @@
 
 ! 2021-05-01 https://www.google.com
 www.google.com###taw
+www.google.com##.bg9urf
 
 ! 2021-05-11 https://www.google.co.in
 www.google.co.in##.FSIemd
@@ -182,6 +183,8 @@ eisamay.com##.alaskamasthead
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
 www.xvideos.com###mobile-slogan
+www.xv-videos1.com###ad-header-mobile
+www.xv-videos1.com###mobile-slogan
 www.xvideos2.com###ad-header-mobile
 www.xvideos2.com###mobile-slogan
 www.xvideos3.com###ad-header-mobile
@@ -307,6 +310,7 @@ www.banglachotikahinii.com###mhead
 ! 2022-01-28 https://www.ghacks.net
 www.ghacks.net##.snippet-type-10
 www.ghacks.net###post-author
+www.ghacks.net##.box-banner
 ! Exception for comments
 ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
