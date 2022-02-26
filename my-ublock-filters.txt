@@ -7,6 +7,7 @@
 ! 2021-05-01 https://www.google.com
 www.google.com###taw
 www.google.com##.bg9urf
+www.google.com##.ptJHdc
 
 ! 2021-05-11 https://www.google.co.in
 www.google.co.in##.FSIemd
@@ -105,9 +106,6 @@ who.is###domainAvailabilityPowerBar
 ! 2021-07-19 https://infotakers.com
 infotakers.com##body > center
 
-! 2021-07-24 https://www.91mobiles.com
-www.91mobiles.com##.wp-video
-
 ! 2021-07-24 https://www.ft.com
 www.ft.com##.article__content-sign-up
 
@@ -124,9 +122,6 @@ m.timesofindia.com##.amp_iframe
 
 ! 2021-08-03 https://www.ndtv.com
 www.ndtv.com##.video_wrapper
-
-! 2021-08-03 https://zeenews.india.com
-zeenews.india.com##i-amphtml-sizer
 
 ! 2021-08-03 https://foreignpolicy.com
 foreignpolicy.com##.header-alt-layout__title
@@ -264,7 +259,7 @@ www.cntraveler.com##.ad-ratio.ad
 www.cntraveler.com##.cne-interlude.cne
 
 ! 2021-11-28 https://nypost.com
-nypost.com##.ad--container.ad
+nypost.com##.ad
 
 ! 2021-12-01 https://cheerleading.lovetoknow.com
 cheerleading.lovetoknow.com##.ad
@@ -302,6 +297,7 @@ www.gizbot.com###mobifooterad
 www.91mobiles.com###footer_ad1
 www.91mobiles.com##.app-dwn-bnr
 www.91mobiles.com##.td-header-sp-recs
+www.91mobiles.com##.wp-video
 
 ! 2022-01-27 https://www.banglachotikahinii.com
 www.banglachotikahinii.com###divExoLayerWrapper
@@ -311,6 +307,7 @@ www.banglachotikahinii.com###mhead
 www.ghacks.net##.snippet-type-10
 www.ghacks.net###post-author
 www.ghacks.net##.box-banner
+www.ghacks.net##.wide-ad
 ! Exception for comments
 ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
@@ -356,5 +353,80 @@ www.reuters.com##.RCOMVideo-container-Lo9AA
 
 ! 2022-02-20 https://unherd.com
 unherd.com##.please_membership
+
+! 2022-02-24 https://m.gsmarena.com
+m.gsmarena.com##.adv-bottom
+
+! 2022-02-24 https://www.verywellmind.com
+www.verywellmind.com##.mntl-sc-block-adslot
+www.verywellmind.com###mntl-toc__mobile-toggle_1-0
+www.verywellmind.com###adhesive_1-0
+www.verywellmind.com##.block-list-item.g-item.content.loc
+
+! 2022-02-25 https://www.moksh16.com
+www.moksh16.com##.country-page-popup.mxdialog
+www.moksh16.com##.btn-pnl
+www.moksh16.com##.topbar
+www.moksh16.com##.live-couns
+
+! 2022-02-25 https://www.indiatoday.in
+www.indiatoday.in##.rhs-fixwhtsapp
+www.indiatoday.in###trinity
+
+! 2022-02-25 https://www.businesstoday.in
+www.businesstoday.in##.story__top__ad
+www.businesstoday.in##.sponsored_widget
+!www.businesstoday.in##.left-child-contianer
+www.businesstoday.in##.secondAdPosition
+www.businesstoday.in##.ad-300X250-body
+www.businesstoday.in##.newsltter-iframe
+
+! 2022-02-25 https://www.businesstoday.in
+www.businesstoday.in##.top-add-section
+
+! 2022-02-25 https://www.digit.in
+www.digit.in##.center-add
+www.digit.in###topten-footer-stky
+www.digit.in##.Normal-add
+www.digit.in##.hot_deals
+www.digit.in##.install_app
+
+! 2022-02-25 https://www.news18.com
+www.news18.com##.stky-ad-footer
+www.news18.com##.newftrshare
+www.news18.com##.article_socials
+www.news18.com##.ad_container
+
+! 2022-02-25 https://www.bgr.in
+www.bgr.in##.ads-box
+
+! 2022-02-25 https://zeenews.india.com
+zeenews.india.com##.ad_container
+zeenews.india.com##.share_article
+zeenews.india.com##i-amphtml-sizer
+
+! 2022-02-25 https://www.notebookcheck.net
+www.notebookcheck.net##.tx-nbc2fe-incontent-column
+
+! 2022-02-25 https://trak.in
+trak.in##.adsbygoogle
+
+! 2022-02-25 https://www.quora.com
+www.quora.com##.ad
+
+! 2022-02-25 https://www.india.com
+www.india.com##.footerNav-add
+www.india.com##.add-box
+
+! 2022-02-25 https://www.indiatoday.in
+www.indiatoday.in###block-block-64
+
+! 2022-02-26 https://greasyfork.org
+greasyfork.org##.ad-content
+
+! 2022-02-26 https://www.politico.eu
+www.politico.eu##.ad
+www.politico.eu##.ad__mobile
+
 
 
