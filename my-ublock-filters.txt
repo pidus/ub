@@ -2,7 +2,7 @@
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
-! Expires: 7 days
+! Expires: 10 days
 
 ! 2021-05-01 https://www.google.com
 www.google.com###taw
@@ -320,10 +320,6 @@ www.techradar.com##.vid-present.van_vid_carousel
 ! 2022-02-04 https://1337x.to
 1337x.to##.user-box
 
-! 2022-02-17 https://medium.com
-medium.com##.cy.cj.an.cx
-medium.com##.af.ae.ac.ab.z.y.x.w.v
-
 ! 2022-02-17 https://www.psypost.org
 www.psypost.org##.jeg_share_float_container
 
@@ -376,12 +372,9 @@ www.indiatoday.in###trinity
 ! 2022-02-25 https://www.businesstoday.in
 www.businesstoday.in##.story__top__ad
 www.businesstoday.in##.sponsored_widget
-!www.businesstoday.in##.left-child-contianer
 www.businesstoday.in##.secondAdPosition
 www.businesstoday.in##.ad-300X250-body
 www.businesstoday.in##.newsltter-iframe
-
-! 2022-02-25 https://www.businesstoday.in
 www.businesstoday.in##.top-add-section
 
 ! 2022-02-25 https://www.digit.in
@@ -428,5 +421,58 @@ greasyfork.org##.ad-content
 www.politico.eu##.ad
 www.politico.eu##.ad__mobile
 
+! 2022-02-26 https://www.financialexpress.com
+www.financialexpress.com##.ad-bg-container
+
+! 2022-02-26 https://m.imgur.com
+m.imgur.com##.Ad-adhesive
+
+! 2022-02-27 https://1337x.to
+1337x.to##center
+1337x.to##li:nth-of-type(15)
+
+! 2022-02-27 https://forums.tomshardware.com
+forums.tomshardware.com###header_leaderboard
+
+! 2022-02-27 https://www.omgubuntu.co.uk
+www.omgubuntu.co.uk##.adsbygoogle
+
+! 2022-02-28 https://m.imdb.com
+m.imdb.com##.mdot_inline_ad_styles
+
+! 2022-03-01 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.modal-content
+
+! 2022-03-01 https://www.digitaltrends.com
+www.digitaltrends.com##.dtvideos-container
+www.digitaltrends.com##.dtads-slot
+
+! 2022-03-01 https://www.tomsguide.com
+www.tomsguide.com##.ad-unit
+www.tomsguide.com##.vid-present
+www.tomsguide.com###taboola-mobile-below-article-thumbnails
+
+! 2022-03-01 https://studyeu.org
+studyeu.org###genesis-nav-social
+
+! 2022-03-01 https://www.tmz.com
+www.tmz.com##.ad-container
+
+! 2022-03-01 https://productivityspot.com
+productivityspot.com##.adthrive
+productivityspot.com##.adthrive-ad
+
+! 2022-03-02 https://www.webmd.com
+www.webmd.com##.ad-wrapper
+
+! 2022-03-02 https://cytecare.com
+cytecare.com##.show.footer-nav
+
+! 2022-03-04 https://linuxize.com
+linuxize.com###ezmobfooter
+linuxize.com##.ezoic-ad
+
+! 2022-03-04 https://calcuttanews.tv
+calcuttanews.tv##.adsbygoogle
 
 
