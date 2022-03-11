@@ -32,6 +32,8 @@ www.psychologytoday.com###block-adblock-17
 www.psychologytoday.com###block-adblock-18
 www.psychologytoday.com###block-adblock-19
 www.psychologytoday.com###block-adblock-20
+www.psychologytoday.com##.collection__td_callout__container
+www.psychologytoday.com##.find-therapist-subheader-block
 
 ! 2021-05-28 https://www.psypost.org
 www.psypost.org##.ads_google_ads
@@ -151,8 +153,7 @@ bengali.indianexpress.com##.ad-bg-container
 indianexpress.com##.top-ads-amp
 
 ! 2021-09-25 https://www.entrepreneur.com
-www.entrepreneur.com##.stickyBottomAd.fixed.tad.adbox
-www.entrepreneur.com##.stickyTopAd.sticky.tad.adbox
+www.entrepreneur.com##.tad.adbox
 
 ! 2021-09-27 https://www.oneindia.com
 www.oneindia.com##.one-ad
@@ -170,7 +171,7 @@ www.livemint.com##.fixadheight
 
 ! 2021-09-28 https://eisamay.com
 eisamay.com##.ad1
-eisamay.com##.ads-between-story.story-content
+eisamay.com##.ads-between-story
 eisamay.com##.adCANContainer
 eisamay.com##.ads-center
 eisamay.com##.alaskamasthead
@@ -178,14 +179,10 @@ eisamay.com##.alaskamasthead
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
 www.xvideos.com###mobile-slogan
+www.xvideos.com###ad-header-mobile
 www.xv-videos1.com###ad-header-mobile
 www.xv-videos1.com###mobile-slogan
-www.xvideos2.com###ad-header-mobile
-www.xvideos2.com###mobile-slogan
-www.xvideos3.com###ad-header-mobile
-www.xvideos3.com###mobile-slogan
-www.xvideos5.com###ad-header-mobile
-www.xvideos5.com###mobile-slogan
+www.xv-videos1.com##.banner-slider
 
 ! 2021-09-30 https://www.goabroad.com
 www.goabroad.com###scrollElement
@@ -331,6 +328,8 @@ www.policybazaar.com##.bannertermredirect
 www.policybazaar.com##.topBanner
 www.policybazaar.com##.mainForm
 www.policybazaar.com##.top_plans
+www.policybazaar.com##.bannerhealthredirectnew
+www.policybazaar.com##.grid:nth-of-type(5)
 
 ! 2022-02-19 https://gadgets360.com
 gadgets360.com##._adholder
@@ -475,4 +474,89 @@ linuxize.com##.ezoic-ad
 ! 2022-03-04 https://calcuttanews.tv
 calcuttanews.tv##.adsbygoogle
 
+! 2022-03-05 https://linuxhint.com
+linuxhint.com##.adthrive
+linuxhint.com##.adthrive-ad
+
+! 2022-03-05 https://www.theregister.com
+theregister.com##.adun
+
+! 2022-03-05 https://getpocket.com
+getpocket.com##.brandingMessage
+getpocket.com##.wds22lz
+
+! 2022-03-05 https://asia.nikkei.com
+asia.nikkei.com##.cookie-banner
+asia.nikkei.com##.advertorial
+
+! 2022-03-05 https://www.psypost.org
+www.psypost.org##.jnews-cookie-law-policy
+www.psypost.org##.jeg_ad
+
+! 2022-03-06 https://www.guru99.com
+www.guru99.com##.mobileadunit
+www.guru99.com##.code-block
+
+! 2022-03-06 https://www.ssbcrack.com
+www.ssbcrack.com##.td_spot_img_mob
+
+! 2022-03-06 https://www.indiatimes.com
+www.indiatimes.com##.ad-300
+
+! 2022-03-06 https://www.thehindu.com
+www.thehindu.com##.dfp-ad
+
+! 2022-03-06 https://military-history.fandom.com
+military-history.fandom.com##.top-ads-container
+
+! 2022-03-06 https://m.economictimes.com
+m.economictimes.com##.adContainer
+m.economictimes.com##._2N5FY
+
+! 2022-03-06 https://www.bankbazaar.com
+www.bankbazaar.com##.blocking-banner
+www.bankbazaar.com###div-gpt-ad-1630156666310-0
+www.bankbazaar.com###div-gpt-ad-1630156786503-0
+www.bankbazaar.com##.ct-img-web-banner
+
+! 2022-03-06 https://m.timesofindia.com
+m.timesofindia.com##.zIkUV
+
+! 2022-03-07 https://www.insurancedekho.com
+www.insurancedekho.com##.newClaim
+
+! 2022-03-08 https://www.tvguide.com
+www.tvguide.com##.c-adSkyBox
+
+! 2022-03-08 https://www.cinemablend.com
+www.cinemablend.com##.ad-unit
+www.cinemablend.com##.read-more-container
+www.cinemablend.com##.van_taboola
+www.cinemablend.com##.related-articles-block
+www.cinemablend.com##.newsletter-signup.box
+
+! 2022-03-08 https://www.psychiatrictimes.com
+www.psychiatrictimes.com##.leaderboard-ad-wrapper
+
+! 2022-03-08 https://www.forbes.com
+www.forbes.com##amp-img
+www.forbes.com##.ad-unit
+
+! 2022-03-08 https://www.livemint.com
+www.livemint.com##.adHeight280
+www.livemint.com##.adMinHeight280
+
+! 2022-03-09 https://psyche.co
+psyche.co##.hoejUR
+psyche.co##.ciZXlT
+psyche.co##.styled__InSituNewsletterSignup-sc-mut07i-2
+
+! 2022-03-09 https://www.esquire.com
+www.esquire.com##.breaker-ad
+
+! 2022-03-09 https://www.esquire.com
+www.esquire.com##.leaderboard-ad
+
+! 2022-03-10 https://wellversed.in
+wellversed.in##.sywh-open-services
 
