@@ -560,3 +560,80 @@ www.esquire.com##.leaderboard-ad
 ! 2022-03-10 https://wellversed.in
 wellversed.in##.sywh-open-services
 
+! 2022-03-11 https://www.newyorker.com
+www.newyorker.com##.ad
+www.newyorker.com##.ad-stickyhero
+
+! 2022-03-11 https://linuxconfig.org
+linuxconfig.org##.incontent_ads
+
+! 2022-03-12 https://www.ottawapublichealth.ca
+www.ottawapublichealth.ca###footerLogo
+
+! 2022-03-12 https://firststepbh.com
+firststepbh.com###floating-call1
+
+! 2022-03-12 https://intellipaat.com
+intellipaat.com##.mobile-sticky-cta
+
+! 2022-03-12 https://nypost.com
+nypost.com##.floating-share-wrap
+nypost.com##.brightcove-video
+
+! 2022-03-13 https://xhamster18.desi
+xhamster18.desi###top_menu_items
+xhamster18.desi##.wio-ypremium-overlay
+xhamster18.desi##.wio-y
+xhamster18.desi##.wio-ybanner-container
+xhamster18.desi##.big-thumb-block
+xhamster18.desi##.thumb-list-mobile-item--widget
+xhamster18.desi##.recomm-promo-banner
+
+! 2022-03-13 https://www.buzzfeed.com
+www.buzzfeed.com##.ad-inline
+www.buzzfeed.com##.Ad
+
+! 2022-03-13 https://www.hollywoodreporter.com
+www.hollywoodreporter.com##.admz
+
+! 2022-03-14 https://9to5google.com
+9to5google.com##.ad-container
+9to5google.com##.adsbygoogle
+9to5google.com##.ad-disclaimer-container
+
+! 2022-03-15 https://www.kiplinger.com
+www.kiplinger.com##.polaris__ad
+
+! 2022-03-15 https://thegrio.com
+thegrio.com##.tpd-banner-ad-container
+
+! 2022-03-16 https://www.britannica.com
+www.britannica.com##.google-ad-iframe
+
+! 2022-03-17 https://miuithemes.tk
+miuithemes.tk##.adsbygoogle
+
+! 2022-03-18 https://m.youtube.com
+m.youtube.com###YtSparklesVisibilityIdentifier
+
+! 2022-03-19 https://thenextweb.com
+thenextweb.com##.tnw-ad-wrapper
+
+! 2022-03-19 https://www.redgifs.com
+www.redgifs.com##.multiple-ad
+www.redgifs.com##.ad-wrapper
+
+! 2022-03-19 https://eurasiantimes.com
+eurasiantimes.com##amp-ad
+eurasiantimes.com##.td-a-rec
+
+! 2022-03-19 http://www.military-today.com
+www.military-today.com##.adsbygoogle
+
+! 2022-03-19 https://www.forbes.com
+www.forbes.com##fbs-embedly
+
+! 2022-03-19 https://www.androidheadlines.com
+www.androidheadlines.com##.ad-wrapper
+
+
