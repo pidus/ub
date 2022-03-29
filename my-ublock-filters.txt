@@ -35,9 +35,6 @@ www.psychologytoday.com###block-adblock-20
 www.psychologytoday.com##.collection__td_callout__container
 www.psychologytoday.com##.find-therapist-subheader-block
 
-! 2021-05-28 https://www.psypost.org
-www.psypost.org##.ads_google_ads
-
 ! 2021-05-31 https://www.sportskeeda.com
 www.sportskeeda.com##.app-download-modal
 
@@ -78,9 +75,6 @@ edurev.in##.crshdrdv.ed_innerBox
 www.hindustantimes.com##.close-btn.closeStory
 www.hindustantimes.com##.adMinHeight313
 
-! 2021-06-14 https://indianexpress.com
-indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
-
 ! 2021-06-14 https://www.mykhel.com
 www.mykhel.com###ad0
 www.mykhel.com##.inarticlead.oi-add-block.refreshInarticleAd
@@ -89,10 +83,8 @@ www.mykhel.com###taboola-mid-article-thumbnails
 ! 2021-06-14 https://indianexpress.com
 indianexpress.com##.ie-adsbox
 indianexpress.com##.add-section
-
-! 2021-06-14 https://www.indiatoday.in
-www.indiatoday.in##.story-header-ad
-www.indiatoday.in##.story-recommended-chunk
+indianexpress.com##.top-ads-amp
+indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
 
 ! 2021-06-15 https://www.bollywoodlife.com
 www.bollywoodlife.com##.adsFixed
@@ -121,6 +113,7 @@ www.dexerto.com###dex-ad-mobile-article-1
 m.timesofindia.com##.sticky.social_mrg
 m.timesofindia.com###amp_float_whtsapp
 m.timesofindia.com##.amp_iframe
+m.timesofindia.com##.zIkUV
 
 ! 2021-08-03 https://www.ndtv.com
 www.ndtv.com##.video_wrapper
@@ -148,9 +141,6 @@ scroll.in##.below-navigation-banner-wrapper
 
 ! 2021-09-17 https://bengali.indianexpress.com
 bengali.indianexpress.com##.ad-bg-container
-
-! 2021-09-23 https://indianexpress.com
-indianexpress.com##.top-ads-amp
 
 ! 2021-09-25 https://www.entrepreneur.com
 www.entrepreneur.com##.tad.adbox
@@ -248,6 +238,11 @@ forums.theregister.com##.thread_breaker
 www.indiatoday.in###shoppingWidget_mobile
 www.indiatoday.in##.inline-story-add
 www.indiatoday.in##.block-itg-ads
+www.indiatoday.in##.rhs-fixwhtsapp
+www.indiatoday.in###trinity
+www.indiatoday.in##.story-header-ad
+www.indiatoday.in##.story-recommended-chunk
+www.indiatoday.in###block-block-64
 www.indiatoday.in##.odd.block-block
 www.indiatoday.in###taboola-below-article-thumbnails
 
@@ -306,7 +301,7 @@ www.ghacks.net###post-author
 www.ghacks.net##.box-banner
 www.ghacks.net##.wide-ad
 ! Exception for comments
-ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
+! ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
 ! 2022-02-04 https://www.techradar.com
 www.techradar.com###taboola-mobile-below-article-thumbnails
@@ -316,9 +311,6 @@ www.techradar.com##.vid-present.van_vid_carousel
 
 ! 2022-02-04 https://1337x.to
 1337x.to##.user-box
-
-! 2022-02-17 https://www.psypost.org
-www.psypost.org##.jeg_share_float_container
 
 ! 2022-02-18 https://www.policybazaar.com
 www.policybazaar.com##.stickFooter_info
@@ -364,10 +356,6 @@ www.moksh16.com##.btn-pnl
 www.moksh16.com##.topbar
 www.moksh16.com##.live-couns
 
-! 2022-02-25 https://www.indiatoday.in
-www.indiatoday.in##.rhs-fixwhtsapp
-www.indiatoday.in###trinity
-
 ! 2022-02-25 https://www.businesstoday.in
 www.businesstoday.in##.story__top__ad
 www.businesstoday.in##.sponsored_widget
@@ -409,9 +397,6 @@ www.quora.com##.ad
 ! 2022-02-25 https://www.india.com
 www.india.com##.footerNav-add
 www.india.com##.add-box
-
-! 2022-02-25 https://www.indiatoday.in
-www.indiatoday.in###block-block-64
 
 ! 2022-02-26 https://greasyfork.org
 greasyfork.org##.ad-content
@@ -492,6 +477,8 @@ asia.nikkei.com##.advertorial
 ! 2022-03-05 https://www.psypost.org
 www.psypost.org##.jnews-cookie-law-policy
 www.psypost.org##.jeg_ad
+www.psypost.org##.jeg_share_float_container
+www.psypost.org##.ads_google_ads
 
 ! 2022-03-06 https://www.guru99.com
 www.guru99.com##.mobileadunit
@@ -518,9 +505,6 @@ www.bankbazaar.com##.blocking-banner
 www.bankbazaar.com###div-gpt-ad-1630156666310-0
 www.bankbazaar.com###div-gpt-ad-1630156786503-0
 www.bankbazaar.com##.ct-img-web-banner
-
-! 2022-03-06 https://m.timesofindia.com
-m.timesofindia.com##.zIkUV
 
 ! 2022-03-07 https://www.insurancedekho.com
 www.insurancedekho.com##.newClaim
