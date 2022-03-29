@@ -479,6 +479,8 @@ www.psypost.org##.jnews-cookie-law-policy
 www.psypost.org##.jeg_ad
 www.psypost.org##.jeg_share_float_container
 www.psypost.org##.ads_google_ads
+www.psypost.org##.widget_jnews_social
+www.psypost.org##.widget_mc4wp_form_widget
 
 ! 2022-03-06 https://www.guru99.com
 www.guru99.com##.mobileadunit
@@ -620,4 +622,6 @@ www.forbes.com##fbs-embedly
 ! 2022-03-19 https://www.androidheadlines.com
 www.androidheadlines.com##.ad-wrapper
 
+! 2022-03-29 https://bartamanpatrika.com
+bartamanpatrika.com##share-buttons
 
