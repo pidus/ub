@@ -625,3 +625,61 @@ www.androidheadlines.com##.ad-wrapper
 ! 2022-03-29 https://bartamanpatrika.com
 bartamanpatrika.com##share-buttons
 
+! 2022-03-29 https://www.cinemablend.com
+www.cinemablend.com##.jwplayer__widthsetter
+www.cinemablend.com##.socialite-widget
+
+! 2022-03-29 https://www.businessinsider.com
+www.businessinsider.com##.notification-prompt-wrapper
+
+! 2022-03-29 https://www.bustle.com
+www.bustle.com##.adWrapper
+
+! 2022-03-30 https://www.cnet.com
+www.cnet.com##.stickySkyboxSpacing
+
+! 2022-03-30 https://www.windowscentral.com
+www.windowscentral.com##.adunit-purch
+www.windowscentral.com##.article-body__suppl_content--taboola-mid-article
+
+! 2022-03-30 https://www.gadgetsnow.com
+www.gadgetsnow.com##.UEmdU
+
+! 2022-03-31 https://www.cpubenchmark.net
+www.cpubenchmark.net##.mobileadunit
+
+! 2022-03-31 https://www.anandabazar.com
+www.anandabazar.com##.addvert
+
+! 2022-03-31 https://www.indiatoday.in
+www.indiatoday.in###block-block-70
+www.indiatoday.in##.newsltter-iframe-new
+
+! 2022-04-02 https://www.financialexpress.com
+www.financialexpress.com##.top-iframe
+
+! 2022-04-02 https://www.espncricinfo.com
+www.espncricinfo.com##.ad-placeholder
+
+! 2022-04-02 https://m.cricbuzz.com
+m.cricbuzz.com##div#ads-strip
+m.cricbuzz.com###miniscore-branding
+
+! 2022-04-02 https://indianexpress.com
+indianexpress.com##.ads-container
+indianexpress.com##.rhs-banner-carousel
+
+! 2022-04-02 https://www.tomshardware.com
+www.tomshardware.com##.video-aspect-box
+www.tomshardware.com###taboola-mobile-below-article-thumbnails
+
+! 2022-04-02 https://arstechnica.com
+arstechnica.com##.instream-container
+
+! 2022-04-02 https://highlysensitiverefuge.com
+highlysensitiverefuge.com##.adthrive-ad
+
+! 2022-04-03 https://markets.businessinsider.com
+markets.businessinsider.com##div.only-mobile.in-post-sticky:nth-of-type(n+1)
+
+
