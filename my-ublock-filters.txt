@@ -22,6 +22,7 @@ www.anandabazar.com##.mobheaderad
 www.anandabazar.com##.sponsor-header
 www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.stckyadbox
+www.anandabazar.com##.manyawarbox
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
@@ -300,8 +301,9 @@ www.ghacks.net##.snippet-type-10
 www.ghacks.net###post-author
 www.ghacks.net##.box-banner
 www.ghacks.net##.wide-ad
-! Exception for comments
+! Exception for comments; yokoffing's annoyances list
 ! ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
+ghacks.net#@##comments, [href*="/#comments"], [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
 ! 2022-02-04 https://www.techradar.com
 www.techradar.com###taboola-mobile-below-article-thumbnails
@@ -682,4 +684,27 @@ highlysensitiverefuge.com##.adthrive-ad
 ! 2022-04-03 https://markets.businessinsider.com
 markets.businessinsider.com##div.only-mobile.in-post-sticky:nth-of-type(n+1)
 
+! 2022-04-08 https://www.iplt20.com
+www.iplt20.com##.cookie
+
+! 2022-04-11 https://www.zdnet.com
+www.zdnet.com##.mobile-nav-ad-plus-banner
+
+! 2022-04-13 https://psyche.co
+psyche.co##.cgmueU
+
+! 2022-04-14 https://technosports.co.in
+technosports.co.in##.adsbyvli
+
+! 2022-04-14 https://www.webmd.com
+www.webmd.com##.medianet-ad
+
+! 2022-04-15 https://auto.hindustantimes.com
+auto.hindustantimes.com##.topGadgetsWrapper
+
+! 2022-04-15 https://www.carandbike.com
+www.carandbike.com##.page__ad
+
+! 2022-04-17 https://windowsreport.com
+windowsreport.com##.wp-block-windowsreport-companion-disposable-cta-block
 
