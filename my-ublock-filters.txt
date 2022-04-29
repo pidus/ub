@@ -115,6 +115,8 @@ m.timesofindia.com##.sticky.social_mrg
 m.timesofindia.com###amp_float_whtsapp
 m.timesofindia.com##.amp_iframe
 m.timesofindia.com##.zIkUV
+m.timesofindia.com##.topicad
+m.timesofindia.com##.ad_300by250
 
 ! 2021-08-03 https://www.ndtv.com
 www.ndtv.com##.video_wrapper
@@ -174,6 +176,7 @@ www.xvideos.com###ad-header-mobile
 www.xv-videos1.com###ad-header-mobile
 www.xv-videos1.com###mobile-slogan
 www.xv-videos1.com##.banner-slider
+www.xv-videos1.com##.opened
 
 ! 2021-09-30 https://www.goabroad.com
 www.goabroad.com###scrollElement
@@ -706,4 +709,45 @@ www.carandbike.com##.page__ad
 
 ! 2022-04-17 https://windowsreport.com
 windowsreport.com##.wp-block-windowsreport-companion-disposable-cta-block
+
+! 2022-04-17 https://getpocket.com
+getpocket.com###onetrust-consent-sdk
+
+! 2022-04-18 https://technosports.co.in
+technosports.co.in##.td-a-rec
+
+! 2022-04-18 https://www.tweaktown.com
+www.tweaktown.com##.embed-container
+
+! 2022-04-18 https://platinmods.com
+platinmods.com##.adsbyvli
+
+! 2022-04-18 https://xiaomi.eu
+xiaomi.eu##.notice--cookie
+
+! 2022-04-18 https://www.ytricks.net
+www.ytricks.net##center
+
+! 2022-04-20 https://www.digit.in
+www.digit.in##.normal_ads
+
+! 2022-04-20 https://www.indiatvnews.com
+www.indiatvnews.com###ad-cntainer
+www.indiatvnews.com###ad-border-top1
+www.indiatvnews.com###ad-border-bottom1
+
+! 2022-04-22 https://bangla.aajtak.in
+bangla.aajtak.in##.story__top__ad
+bangla.aajtak.in##.secondAdPosition
+bangla.aajtak.in##.ad-300X250
+
+! 2022-04-26 https://www.glassdoor.co.in
+www.glassdoor.co.in###SmarterBannerSpacer
+
+! 2022-04-27 https://wisden.com
+wisden.com##.code-block
+
+! 2022-04-28 https://finbold.com
+finbold.com###bottom_anchor
+finbold.com##.active
 
