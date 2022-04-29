@@ -4,12 +4,11 @@
 !
 ! Expires: 10 days
 
-! 2021-05-01 https://www.google.com
+! 2021-05-01 https://www.google.co*
 www.google.com###taw
 www.google.com##.bg9urf
 www.google.com##.ptJHdc
 
-! 2021-05-11 https://www.google.co.in
 www.google.co.in##.FSIemd
 
 ! 2021-05-26 https://www.anandabazar.com
@@ -23,6 +22,9 @@ www.anandabazar.com##.sponsor-header
 www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.stckyadbox
 www.anandabazar.com##.manyawarbox
+
+! 2021-05-26 https://www.xda-developers.com
+www.xda-developers.com##.entry_media
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
@@ -42,9 +44,6 @@ www.sportskeeda.com##.app-download-modal
 ! 2021-06-06 https://www.refinery29.com
 www.refinery29.com##.ad-container
 
-! 2021-06-07 https://www.livemint.com
-www.livemint.com##.close-btn.sticky2.btnClose
-
 ! 2021-06-07 https://www.drivespark.com
 www.drivespark.com###taboola-mid-article-thumbnails
 
@@ -54,6 +53,7 @@ www.timesnownews.com##._tn_audio_bt
 ! 2021-06-11 https://www.livemint.com
 www.livemint.com###story-ads-0
 www.livemint.com##.trendingSimilarHeight
+www.livemint.com##.close-btn.sticky2.btnClose
 
 ! 2021-06-11 https://www.plansinfo.com
 www.plansinfo.com##.mob-ad-top
@@ -66,19 +66,28 @@ cricketaddictor.com##.popup-ad1
 
 ! 2021-06-12 https://edurev.in
 edurev.in###ER_Model_dnldap
-edurev.in##.in.fade.modal-backdrop
+!edurev.in##.in.fade.modal-backdrop
+edurev.in##.modal-backdrop
 edurev.in###footer_fixed
 edurev.in##.show_notif
-edurev.in##.ed_footerMainsite.ed_footer
+!edurev.in##.ed_footerMainsite.ed_footer
+edurev.in##.ed_footer
 edurev.in##.crshdrdv.ed_innerBox
 
 ! 2021-06-14 https://www.hindustantimes.com
 www.hindustantimes.com##.close-btn.closeStory
 www.hindustantimes.com##.adMinHeight313
+www.hindustantimes.com##.top250Ad
+
+! 2022-06-14 https://auto.hindustantimes.com
+auto.hindustantimes.com##.topGadgetsWrapper
+auto.hindustantimes.com##.mainArea > div
+auto.hindustantimes.com##div:nth-of-type(6)
 
 ! 2021-06-14 https://www.mykhel.com
 www.mykhel.com###ad0
-www.mykhel.com##.inarticlead.oi-add-block.refreshInarticleAd
+!www.mykhel.com##.inarticlead.oi-add-block.refreshInarticleAd
+www.mykhel.com##.inarticlead
 www.mykhel.com###taboola-mid-article-thumbnails
 
 ! 2021-06-14 https://indianexpress.com
@@ -92,7 +101,7 @@ www.bollywoodlife.com##.adsFixed
 
 ! 2021-06-15 https://m.filmfare.com
 m.filmfare.com###filmfare_app-popover-container
-m.filmfare.com##.only_three.social_footer
+m.filmfare.com##.social_footer
 
 ! 2021-07-19 https://who.is
 who.is##center
@@ -121,6 +130,11 @@ m.timesofindia.com##.ad_300by250
 ! 2021-08-03 https://www.ndtv.com
 www.ndtv.com##.video_wrapper
 
+! 2021-08-03 https://gadgets.ndtv.com
+gadgets.ndtv.com##._ad
+gadgets.ndtv.com##.clear
+gadgets.ndtv.com##.taboola
+
 ! 2021-08-03 https://foreignpolicy.com
 foreignpolicy.com##.header-alt-layout__title
 foreignpolicy.com##.sidebar-big-box-ad
@@ -146,7 +160,7 @@ scroll.in##.below-navigation-banner-wrapper
 bengali.indianexpress.com##.ad-bg-container
 
 ! 2021-09-25 https://www.entrepreneur.com
-www.entrepreneur.com##.tad.adbox
+www.entrepreneur.com##.adbox
 
 ! 2021-09-27 https://www.oneindia.com
 www.oneindia.com##.one-ad
@@ -173,6 +187,7 @@ eisamay.com##.alaskamasthead
 www.xvideos.com###ad-header-mobile
 www.xvideos.com###mobile-slogan
 www.xvideos.com###ad-header-mobile
+
 www.xv-videos1.com###ad-header-mobile
 www.xv-videos1.com###mobile-slogan
 www.xv-videos1.com##.banner-slider
@@ -199,17 +214,11 @@ www.thehindu.com##.mob-top-add
 ! 2021-10-02 https://nationalpost.com
 nationalpost.com##.widget--distroscale.widget
 
-! 2021-10-02 https://www.xda-developers.com
-www.xda-developers.com##.entry_media
-
 ! 2021-10-06 https://m.cricbuzz.com
 m.cricbuzz.com##.cbz-leaderboard-banner
 
 ! 2021-10-06 https://newsmeter.in
 newsmeter.in##.left_level_ad
-
-! 2021-10-26 https://www.hindustantimes.com
-www.hindustantimes.com##.top250Ad
 
 ! 2021-10-26 https://managementconsulted.com
 managementconsulted.com##.card-body
@@ -226,11 +235,6 @@ www.themarysue.com###sticky-bottom
 
 ! 2021-11-21 https://byjus.com
 byjus.com###social-sharing-btns
-
-! 2021-11-23 https://gadgets.ndtv.com
-gadgets.ndtv.com##._ad
-gadgets.ndtv.com##.clear
-gadgets.ndtv.com##.taboola
 
 ! 2021-11-24 https://www.theregister.com
 www.theregister.com##.gtag_display.adun
@@ -249,6 +253,8 @@ www.indiatoday.in##.story-recommended-chunk
 www.indiatoday.in###block-block-64
 www.indiatoday.in##.odd.block-block
 www.indiatoday.in###taboola-below-article-thumbnails
+www.indiatoday.in###block-block-70
+www.indiatoday.in##.newsltter-iframe-new
 
 ! 2021-11-27 https://www.cntraveler.com
 www.cntraveler.com##.ad-ratio.ad
@@ -263,10 +269,6 @@ cheerleading.lovetoknow.com##.ad
 ! 2021-12-02 https://www.pinkvilla.com
 www.pinkvilla.com##.topads
 www.pinkvilla.com##.articleads
-
-! 2021-12-02 https://auto.hindustantimes.com
-auto.hindustantimes.com##.mainArea > div
-auto.hindustantimes.com##div:nth-of-type(6)
 
 ! 2021-12-03 https://www.moneycontrol.com
 www.moneycontrol.com##.ad-section
@@ -452,6 +454,7 @@ productivityspot.com##.adthrive-ad
 
 ! 2022-03-02 https://www.webmd.com
 www.webmd.com##.ad-wrapper
+www.webmd.com##.medianet-ad
 
 ! 2022-03-02 https://cytecare.com
 cytecare.com##.show.footer-nav
@@ -473,6 +476,7 @@ theregister.com##.adun
 ! 2022-03-05 https://getpocket.com
 getpocket.com##.brandingMessage
 getpocket.com##.wds22lz
+getpocket.com###onetrust-consent-sdk
 
 ! 2022-03-05 https://asia.nikkei.com
 asia.nikkei.com##.cookie-banner
@@ -655,10 +659,6 @@ www.cpubenchmark.net##.mobileadunit
 ! 2022-03-31 https://www.anandabazar.com
 www.anandabazar.com##.addvert
 
-! 2022-03-31 https://www.indiatoday.in
-www.indiatoday.in###block-block-70
-www.indiatoday.in##.newsltter-iframe-new
-
 ! 2022-04-02 https://www.financialexpress.com
 www.financialexpress.com##.top-iframe
 
@@ -698,20 +698,11 @@ psyche.co##.cgmueU
 ! 2022-04-14 https://technosports.co.in
 technosports.co.in##.adsbyvli
 
-! 2022-04-14 https://www.webmd.com
-www.webmd.com##.medianet-ad
-
-! 2022-04-15 https://auto.hindustantimes.com
-auto.hindustantimes.com##.topGadgetsWrapper
-
 ! 2022-04-15 https://www.carandbike.com
 www.carandbike.com##.page__ad
 
 ! 2022-04-17 https://windowsreport.com
 windowsreport.com##.wp-block-windowsreport-companion-disposable-cta-block
-
-! 2022-04-17 https://getpocket.com
-getpocket.com###onetrust-consent-sdk
 
 ! 2022-04-18 https://technosports.co.in
 technosports.co.in##.td-a-rec
