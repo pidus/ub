@@ -378,10 +378,10 @@ www.digit.in##.hot_deals
 www.digit.in##.install_app
 
 ! 2022-02-25 https://www.news18.com
-www.news18.com##.stky-ad-footer
+!www.news18.com##.stky-ad-footer
 !www.news18.com##.newftrshare
 !www.news18.com##.article_socials
-www.news18.com##.ad_container
+!www.news18.com##.ad_container
 
 ! 2022-02-25 https://www.bgr.in
 www.bgr.in##.ads-box
