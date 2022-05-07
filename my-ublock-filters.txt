@@ -382,6 +382,7 @@ www.news18.com##.stky-ad-footer
 www.news18.com##.newftrshare
 www.news18.com##.article_socials
 www.news18.com##.ad_container
+news18.com#@##__next > div
 
 ! 2022-02-25 https://www.bgr.in
 www.bgr.in##.ads-box
@@ -455,6 +456,8 @@ productivityspot.com##.adthrive-ad
 ! 2022-03-02 https://www.webmd.com
 www.webmd.com##.ad-wrapper
 www.webmd.com##.medianet-ad
+www.webmd.com##.mobile-ad
+www.webmd.com##.fifth-para-ad
 
 ! 2022-03-02 https://cytecare.com
 cytecare.com##.show.footer-nav
@@ -741,4 +744,24 @@ wisden.com##.code-block
 ! 2022-04-28 https://finbold.com
 finbold.com###bottom_anchor
 finbold.com##.active
+
+! 2022-04-28 https://www.space.com
+www.space.com##.van_vid_carousel
+
+! 2022-04-30 https://bengali.oneindia.com
+bengali.oneindia.com###taboola-mid-article-thumbnails
+
+! 2022-04-30 https://www.gigabyte.com
+www.gigabyte.com##.event-icon-wrapper
+
+! 2022-05-01 https://biddutroy.family.blog
+biddutroy.family.blog##.post-thumbnail
+biddutroy.family.blog##.site-logo
+
+! 2022-05-03 https://www.investopedia.com
+www.investopedia.com##.scads-to-load
+
+! 2022-05-05 https://www.y2mate.com
+www.y2mate.com##.featured
+
 
