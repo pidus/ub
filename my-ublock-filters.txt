@@ -12,6 +12,7 @@ www.google.com##.ptJHdc
 www.google.co.in##.FSIemd
 
 ! 2021-05-26 https://www.anandabazar.com
+||abp-dashboard.s3.*.amazonaws.com/assets/images/marketting-banners/*.jpg
 www.anandabazar.com##.background-ad
 www.anandabazar.com##.pf-top-sponsor-sec
 www.anandabazar.com##.hnwbanner
@@ -22,6 +23,7 @@ www.anandabazar.com##.sponsor-header
 www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.stckyadbox
 www.anandabazar.com##.manyawarbox
+www.anandabazar.com##.addvert
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
@@ -54,6 +56,8 @@ www.timesnownews.com##._tn_audio_bt
 www.livemint.com###story-ads-0
 www.livemint.com##.trendingSimilarHeight
 www.livemint.com##.close-btn.sticky2.btnClose
+www.livemint.com##.taboolaHeight
+www.livemint.com##.amp-push-notification
 
 ! 2021-06-11 https://www.plansinfo.com
 www.plansinfo.com##.mob-ad-top
@@ -182,6 +186,13 @@ eisamay.com##.ads-between-story
 eisamay.com##.adCANContainer
 eisamay.com##.ads-center
 eisamay.com##.alaskamasthead
+eisamay.com##.atf-wrapper
+eisamay.com##.colombia
+eisamay.com##.con_ads
+eisamay.com###vodplayer_frm_123
+eisamay.com###share-container-wrapper
+eisamay.com##.ad-wrapper-250
+eisamay.com##.vd_pl
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
@@ -315,9 +326,6 @@ www.techradar.com##.related-articles-block
 www.techradar.com##.ad-unit
 www.techradar.com##.vid-present.van_vid_carousel
 
-! 2022-02-04 https://1337x.to
-1337x.to##.user-box
-
 ! 2022-02-18 https://www.policybazaar.com
 www.policybazaar.com##.stickFooter_info
 www.policybazaar.com##.mb-20.card
@@ -419,6 +427,7 @@ www.financialexpress.com##.ad-bg-container
 m.imgur.com##.Ad-adhesive
 
 ! 2022-02-27 https://1337x.to
+1337x.to##.user-box
 1337x.to##center
 1337x.to##li:nth-of-type(15)
 
@@ -642,6 +651,7 @@ www.cinemablend.com##.socialite-widget
 
 ! 2022-03-29 https://www.businessinsider.com
 www.businessinsider.com##.notification-prompt-wrapper
+www.businessinsider.com##.insider-raw-embed
 
 ! 2022-03-29 https://www.bustle.com
 www.bustle.com##.adWrapper
@@ -658,9 +668,6 @@ www.gadgetsnow.com##.UEmdU
 
 ! 2022-03-31 https://www.cpubenchmark.net
 www.cpubenchmark.net##.mobileadunit
-
-! 2022-03-31 https://www.anandabazar.com
-www.anandabazar.com##.addvert
 
 ! 2022-04-02 https://www.financialexpress.com
 www.financialexpress.com##.top-iframe
@@ -763,5 +770,33 @@ www.investopedia.com##.scads-to-load
 
 ! 2022-05-05 https://www.y2mate.com
 www.y2mate.com##.featured
+
+! 2022-05-07 https://www.creativebloq.com
+www.creativebloq.com##.ad-unit
+www.creativebloq.com##.van_vid_carousel
+
+! 2022-05-07 https://www.goodreturns.in
+www.goodreturns.in##i-amphtml-sizer
+
+! 2022-05-12 https://www.thurrott.com
+www.thurrott.com##.adthrive-ad
+
+! 2022-05-14 https://www.dnaindia.com
+www.dnaindia.com##.ad_container
+
+! 2022-05-14 https://developers.rsk.co
+developers.rsk.co##.video-container
+
+! 2022-05-14 https://finance.yahoo.com
+finance.yahoo.com##.ys-mobileFeaturedAd
+
+! 2022-05-23 https://www.theverge.com
+www.theverge.com##.remixd-wrapper
+
+! 2022-05-24 https://becomeawritertoday.com
+becomeawritertoday.com##.adthrive-ad
+
+! 2022-05-24 https://www.drivespark.com
+www.drivespark.com##.refreshInarticleAd
 
 
