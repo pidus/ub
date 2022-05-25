@@ -1,8 +1,8 @@
 ! Title: আমার ফিল্টার
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
-!
 ! Expires: 10 days
+! https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
 ! 2021-05-01 https://www.google.co*
 www.google.com###taw
