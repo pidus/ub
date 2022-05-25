@@ -1,4 +1,4 @@
-! Title: আমার annoyances
+! Title: আমার ফিল্টার
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
 !
@@ -12,7 +12,7 @@ www.google.com##.ptJHdc
 www.google.co.in##.FSIemd
 
 ! 2021-05-26 https://www.anandabazar.com
-||abp-dashboard.s3.*.amazonaws.com/assets/images/marketting-banners/*.jpg
+||abp-dashboard.s3.*.amazonaws.com/assets/images/marketting-banners/*.jpg$image
 www.anandabazar.com##.background-ad
 www.anandabazar.com##.pf-top-sponsor-sec
 www.anandabazar.com##.hnwbanner
@@ -70,11 +70,9 @@ cricketaddictor.com##.popup-ad1
 
 ! 2021-06-12 https://edurev.in
 edurev.in###ER_Model_dnldap
-!edurev.in##.in.fade.modal-backdrop
 edurev.in##.modal-backdrop
 edurev.in###footer_fixed
 edurev.in##.show_notif
-!edurev.in##.ed_footerMainsite.ed_footer
 edurev.in##.ed_footer
 edurev.in##.crshdrdv.ed_innerBox
 
@@ -268,7 +266,7 @@ www.indiatoday.in###block-block-70
 www.indiatoday.in##.newsltter-iframe-new
 
 ! 2021-11-27 https://www.cntraveler.com
-www.cntraveler.com##.ad-ratio.ad
+www.cntraveler.com##.ad
 www.cntraveler.com##.cne-interlude.cne
 
 ! 2021-11-28 https://nypost.com
