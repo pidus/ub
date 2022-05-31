@@ -191,6 +191,7 @@ eisamay.com###vodplayer_frm_123
 eisamay.com###share-container-wrapper
 eisamay.com##.ad-wrapper-250
 eisamay.com##.vd_pl
+eisamay.com##.mobile.notification_popup
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
@@ -797,4 +798,26 @@ becomeawritertoday.com##.adthrive-ad
 ! 2022-05-24 https://www.drivespark.com
 www.drivespark.com##.refreshInarticleAd
 
+! 2022-05-25 https://readwrite.com
+readwrite.com##.header-ad-wrap
+
+! 2022-05-26 https://www.freecodecamp.org
+www.freecodecamp.org##.banner
+
+! 2022-05-26 https://www.verywellhealth.com
+www.verywellhealth.com##.mntl-sc-block-adslot
+
+! 2022-05-28 https://www.thesaurus.com
+www.thesaurus.com##.eome24q1
+www.thesaurus.com##.em66cyi0
+
+! 2022-05-30 https://www.pcgamesn.com
+www.pcgamesn.com##.nn_mobile_mpu_wrapper
+
+! 2022-05-30 https://www.collegedekho.com
+www.collegedekho.com##.careerImage
+www.collegedekho.com##.mobileAds
+
+! 2022-05-30 https://www.rasayanika.com
+www.rasayanika.com##.adsbygoogle
 
