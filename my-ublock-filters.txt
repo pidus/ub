@@ -4,6 +4,13 @@
 ! Expires: 10 days
 ! https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
+! Style filters
+
+distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+biddutroy.family.blog##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+biddutroy.family.blog###actionbar:style(display: none !important)
+
 ! 2021-05-01 https://www.google.co*
 www.google.com###taw
 www.google.com##.bg9urf
@@ -37,6 +44,7 @@ www.psychologytoday.com###block-adblock-17
 www.psychologytoday.com###block-adblock-18
 www.psychologytoday.com###block-adblock-19
 www.psychologytoday.com###block-adblock-20
+www.psychologytoday.com##.pt-social-media
 www.psychologytoday.com##.collection__td_callout__container
 www.psychologytoday.com##.find-therapist-subheader-block
 
