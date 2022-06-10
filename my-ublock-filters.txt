@@ -829,3 +829,23 @@ www.collegedekho.com##.mobileAds
 ! 2022-05-30 https://www.rasayanika.com
 www.rasayanika.com##.adsbygoogle
 
+! 2022-06-02 https://www.esquire.com
+www.esquire.com##.content-lede-video
+
+! 2022-06-02 https://www.mensxp.com
+www.mensxp.com##.ad-300
+
+! 2022-06-02 https://www.indy100.com
+www.indy100.com###content_1
+www.indy100.com###content_2
+www.indy100.com###content_3
+
+! 2022-06-03 https://www.feedough.com
+www.feedough.com##.feedo-post-content
+
+! 2022-06-04 https://jezebel.com
+jezebel.com##.bxm4mm-16
+
+! 2022-06-04 https://www.gizbot.com
+www.gizbot.com##.oi-add-block
+
