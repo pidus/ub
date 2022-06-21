@@ -568,12 +568,10 @@ www.livemint.com##.adMinHeight280
 ! 2022-03-09 https://psyche.co
 psyche.co##.hoejUR
 psyche.co##.ciZXlT
-psyche.co##.styled__InSituNewsletterSignup-sc-mut07i-2
+psyche.co##.jEUTlO
 
 ! 2022-03-09 https://www.esquire.com
-www.esquire.com##.breaker-ad
-
-! 2022-03-09 https://www.esquire.com
+www.esquire.com##.breaker-adjEUTlO
 www.esquire.com##.leaderboard-ad
 
 ! 2022-03-10 https://wellversed.in
