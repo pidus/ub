@@ -4,8 +4,7 @@
 ! Expires: 10 days
 ! https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
-! Style filters
-
+!! Style filters
 ! Overflow fix
 distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
@@ -19,7 +18,6 @@ biddutroy.family.blog###actionbar:style(display: none !important)
 www.google.com###taw
 www.google.com##.bg9urf
 www.google.com##.ptJHdc
-
 www.google.co.in##.FSIemd
 
 ! 2021-05-26 https://www.anandabazar.com
@@ -37,8 +35,10 @@ www.anandabazar.com##.manyawarbox
 www.anandabazar.com##.addvert
 www.anandabazar.com##.marketingbannerboxtmb
 www.anandabazar.com##.nbadbox
+www.anandabazar.com##.swiper-slide-active.swiper-slide
 
-! 2021-05-26 https://www.xda-developers.com
+! 2021-05-26 https://www.xda-developers.
+com
 www.xda-developers.com##.entry_media
 
 ! 2021-05-26 https://forum.xda-developers.com
