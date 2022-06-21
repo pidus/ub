@@ -331,7 +331,7 @@ www.ghacks.net###post-author
 www.ghacks.net##.box-banner
 www.ghacks.net##.wide-ad
 ! Exception for comments; yokoffing's annoyances list
-ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
+! ghacks.net#@##comments, [href*="/#comments"], .tag-sponsored, [id^="snhb-snhb_ghacks_bottom-"], .widget_stackcommerce_widget:remove()
 
 ! 2022-02-04 https://www.techradar.com
 www.techradar.com###taboola-mobile-below-article-thumbnails
