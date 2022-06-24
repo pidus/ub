@@ -37,8 +37,7 @@ www.anandabazar.com##.marketingbannerboxtmb
 www.anandabazar.com##.nbadbox
 www.anandabazar.com##.swiper-slide-active.swiper-slide
 
-! 2021-05-26 https://www.xda-developers.
-com
+! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
 
 ! 2021-05-26 https://forum.xda-developers.com
