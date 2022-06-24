@@ -853,3 +853,30 @@ jezebel.com##.bxm4mm-16
 ! 2022-06-04 https://www.gizbot.com
 www.gizbot.com##.oi-add-block
 
+! 2022-06-21 https://bangla.hindustantimes.com
+bangla.hindustantimes.com##.adHolder
+
+! 2022-06-21 https://www.geeksforgeeks.org
+www.geeksforgeeks.org###GFG_AD_gfg_archive_ATF_728x250
+
+! 2022-06-21 https://a-z-animals.com
+a-z-animals.com##.adthrive-video-player
+a-z-animals.com##.email-box.container
+a-z-animals.com##.adthrive-ad
+
+! 2022-06-22 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.advertisment
+timesofindia.indiatimes.com##.addwrapper
+
+! 2022-06-23 https://www.xnxx.tv
+www.xnxx.tv###ad-header-mobile-contener
+www.xnxx.tv###footer
+
+! 2022-06-24 https://www.fatherly.com
+www.fatherly.com##.adWrapper
+
+! 2022-06-24 https://www.cnet.com
+www.cnet.com##.c-pageArticleLongform_ad
+
+
+
