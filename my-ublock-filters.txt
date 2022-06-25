@@ -1,7 +1,7 @@
 ! Title: আমার ফিল্টার
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 5 days
+! Expires: 3 days
 ! https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
 !! Style filters
@@ -195,6 +195,8 @@ www.livemint.com##.fixadheight
 ! 2021-09-28 https://eisamay.com
 eisamay.com##.ad1
 eisamay.com##.top-img-ad
+eisamay.com##.wdt_newsLetter
+eisamay.com##.tp_home_widget
 eisamay.com##.ads-between-story
 eisamay.com##.adCANContainer
 eisamay.com##.ads-center
