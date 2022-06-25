@@ -194,6 +194,7 @@ www.livemint.com##.fixadheight
 
 ! 2021-09-28 https://eisamay.com
 eisamay.com##.ad1
+eisamay.com##.top-img-ad
 eisamay.com##.ads-between-story
 eisamay.com##.adCANContainer
 eisamay.com##.ads-center
