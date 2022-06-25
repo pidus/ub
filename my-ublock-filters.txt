@@ -1,7 +1,7 @@
 ! Title: আমার ফিল্টার
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 10 days
+! Expires: 5 days
 ! https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
 !! Style filters
@@ -36,6 +36,7 @@ www.anandabazar.com##.addvert
 www.anandabazar.com##.marketingbannerboxtmb
 www.anandabazar.com##.nbadbox
 www.anandabazar.com##.swiper-slide-active.swiper-slide
+www.anandabazar.com##.rupabox
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
