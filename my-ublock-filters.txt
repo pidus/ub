@@ -9,7 +9,8 @@
 distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 biddutroy.family.blog##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
-geeksforgeeks.org##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+geeksforgeeks.org##html,body:style(max-width: 100% !important; overflow-x: hidden !
+thehodltimes.co##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 
 ! No WordPress actionbar
 biddutroy.family.blog###actionbar:style(display: none !important)
