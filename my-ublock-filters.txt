@@ -884,5 +884,33 @@ www.fatherly.com##.adWrapper
 ! 2022-06-24 https://www.cnet.com
 www.cnet.com##.c-pageArticleLongform_ad
 
+! 2022-06-24 https://www.cuemath.com
+www.cuemath.com##.iticks-pop-button
+www.cuemath.com##.sticky-button__StickyWrapper-sc-ms2jra-0
 
+! 2022-06-25 https://apkmody.io
+apkmody.io##.ad-unit
+
+! 2022-06-25 https://www.medicinenet.com
+www.medicinenet.com###ad
+www.medicinenet.com##.ads-pre-2026
+
+! 2022-06-26 https://bengali.abplive.com
+bengali.abplive.com##.ad-section
+
+! 2022-07-02 https://m.economictimes.com
+m.economictimes.com##._2rMIm
+m.economictimes.com###wapFooter
+
+! 2022-07-04 https://www.techwalla.com
+www.techwalla.com##.component-article-section-inline-ad
+
+! 2022-07-04 https://www.exceldemy.com
+www.exceldemy.com##.adthrive-ad
+
+! 2022-07-06 https://bengali.abplive.com
+bengali.abplive.com##.ad-container
+
+! 2022-07-08 https://hardwaresecrets.com
+hardwaresecrets.com##.simplesocialbuttons
 
