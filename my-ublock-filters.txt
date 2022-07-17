@@ -322,6 +322,7 @@ www.gizbot.com##.amp-inner-ad
 www.gizbot.com###mobifooterad
 
 ! 2022-01-27 https://www.91mobiles.com
+||img.91mobiles.com/uploadpanel/ads/latest_smartphone_reviews.png$image
 www.91mobiles.com###footer_ad1
 www.91mobiles.com##.app-dwn-bnr
 www.91mobiles.com##.td-header-sp-recs
@@ -917,4 +918,7 @@ hardwaresecrets.com##.simplesocialbuttons
 ! 2022-07-10 https://www.shiksha.com
 www.shiksha.com##.announcementWidget
 www.shiksha.com###clpBtmSticky
+
+! 2022-07-15 https://opoyi.com
+opoyi.com##.gJKBVx.sc-iqp9k8-0 > div
 
