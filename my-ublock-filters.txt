@@ -216,12 +216,11 @@ eisamay.com##.mobile.notification_popup
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
 www.xvideos.com###mobile-slogan
-www.xvideos.com###ad-header-mobile
 
-www.xv-videos1.com###ad-header-mobile
-www.xv-videos1.com###mobile-slogan
-www.xv-videos1.com##.banner-slider
-www.xv-videos1.com##.opened
+www.xvdeos1.com###ad-header-mobile
+www.xvdeos1.com###mobile-slogan
+www.xvdeos1.com##.banner-slider
+www.xvdeos1.com##.opened
 
 ! 2021-09-30 https://www.goabroad.com
 www.goabroad.com###scrollElement
