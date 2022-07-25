@@ -16,6 +16,7 @@ thehodltimes.co##html,body:style(max-width: 100% !important; overflow-x: hidden 
 biddutroy.family.blog###actionbar:style(display: none !important)
 software.rajivprab.com###actionbar:style(display: none !important)
 eduindex.org###actionbar:style(display: none !important)
+pointieststick.com###actionbar:style(display: none !important)
 
 ! 2021-05-01 https://www.google.co*
 www.google.com###taw
@@ -920,4 +921,27 @@ www.shiksha.com###clpBtmSticky
 
 ! 2022-07-15 https://opoyi.com
 opoyi.com##.gJKBVx.sc-iqp9k8-0 > div
+
+! 2022-07-17 https://www.glassdoor.co.in
+www.glassdoor.co.in##.css-crfx8f
+
+! 2022-07-20 https://www.techradar.com
+www.techradar.com##.ad-unit
+www.techradar.com###affiliate-disclaimer
+
+! 2022-07-20 https://online.stanford.edu
+online.stanford.edu##.help-panel
+
+! 2022-07-22 https://infinity.icicibank.com
+||infinity.icicibank.com/corp/L001/consumer/images/ask_i.png$image
+infinity.icicibank.com###floatingApplyNow
+
+! 2022-07-24 https://tech.hindustantimes.com
+tech.hindustantimes.com##.bottomStickyAds
+
+! 2022-07-24 https://brilliant.org
+brilliant.org##.recommended-course
+
+! 2022-07-24 https://www.wsj.com
+www.wsj.com##.css-xgokil-Box
 
