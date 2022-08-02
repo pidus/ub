@@ -945,3 +945,38 @@ brilliant.org##.recommended-course
 ! 2022-07-24 https://www.wsj.com
 www.wsj.com##.css-xgokil-Box
 
+! 2022-07-26 https://najarbandi.in
+najarbandi.in##.adsbygoogle
+
+! 2022-07-27 https://calcuttanews.tv
+calcuttanews.tv##.adsbygoogle
+
+! 2022-07-30 https://www.livemint.com
+||livemint.com/*/advertisement.*$image
+www.livemint.com##.subscribeAd
+
+
+! 2022-07-30 https://shono.sangbadpratidin.in
+shono.sangbadpratidin.in##.ad-space
+shono.sangbadpratidin.in##.column-37
+
+! 2022-07-30 https://www.sangbadpratidin.in
+www.sangbadpratidin.in##.ads
+www.sangbadpratidin.in##.mobile-show.con_fbapplinks
+www.sangbadpratidin.in##.bannertophead-ab
+www.sangbadpratidin.in###rwadx_toolbar_bottom_sangbad_pratidin
+www.sangbadpratidin.in##.epaper
+
+! 2022-07-31 https://www.zdnet.com
+www.zdnet.com##.c-shortcodeCodeSnippet
+www.zdnet.com##.c-adDisplay_container
+
+! 2022-07-31 https://nypost.com
+nypost.com##.ads__index__outerWrapper--oDtce
+
+! 2022-08-01 https://wap.business-standard.com
+wap.business-standard.com##.ad_banner
+
+! 2022-08-02 https://www.blendernation.com
+www.blendernation.com##.ads-widget
+
