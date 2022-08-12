@@ -222,6 +222,7 @@ www.xvdeos1.com###ad-header-mobile
 www.xvdeos1.com###mobile-slogan
 www.xvdeos1.com##.banner-slider
 www.xvdeos1.com##.opened
+www.xvdeos1.com##.premium-results-line
 
 ! 2021-09-30 https://www.goabroad.com
 www.goabroad.com###scrollElement
