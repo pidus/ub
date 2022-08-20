@@ -219,6 +219,7 @@ www.xvideos.com###ad-header-mobile
 www.xvideos.com###mobile-slogan
 
 www.xvdeos1.com###ad-header-mobile
+www.xvdeos1.com##.with-website-link
 www.xvdeos1.com###mobile-slogan
 www.xvdeos1.com##.banner-slider
 www.xvdeos1.com##.opened
@@ -681,6 +682,9 @@ www.cnet.com##.stickySkyboxSpacing
 ! 2022-03-30 https://www.windowscentral.com
 www.windowscentral.com##.adunit-purch
 www.windowscentral.com##.article-body__suppl_content--taboola-mid-article
+www.windowscentral.com##.van_taboola
+www.windowscentral.com##.related-articles-block
+www.windowscentral.com##.read-more-container
 
 ! 2022-03-30 https://www.gadgetsnow.com
 www.gadgetsnow.com##.UEmdU
@@ -898,7 +902,9 @@ www.medicinenet.com###ad
 www.medicinenet.com##.ads-pre-2026
 
 ! 2022-06-26 https://bengali.abplive.com
+bengali.abplive.com##.ad-wrap
 bengali.abplive.com##.ad-section
+bengali.abplive.com##.MW_HOM_POS_1
 
 ! 2022-07-02 https://m.economictimes.com
 m.economictimes.com##._2rMIm
@@ -956,7 +962,6 @@ calcuttanews.tv##.adsbygoogle
 ||livemint.com/*/advertisement.*$image
 www.livemint.com##.subscribeAd
 
-
 ! 2022-07-30 https://shono.sangbadpratidin.in
 shono.sangbadpratidin.in##.ad-space
 shono.sangbadpratidin.in##.column-37
@@ -980,4 +985,29 @@ wap.business-standard.com##.ad_banner
 
 ! 2022-08-02 https://www.blendernation.com
 www.blendernation.com##.ads-widget
+
+! 2022-08-14 https://www.etvbharat.com
+www.etvbharat.com##.footer-sticky-ad
+
+! 2022-08-14 https://www.viralgiga.com
+www.viralgiga.com##.adsbygoogle
+
+! 2022-08-14 https://rigorousthemes.com
+rigorousthemes.com##.adthrive-ad
+rigorousthemes.com##.adthrive
+
+! 2022-08-15 https://www.boldsky.com
+www.boldsky.com###taboola-mid-article-thumbnails
+www.boldsky.com##.oi-add-block
+
+! 2022-08-18 https://www.hola.com
+www.hola.com##.block-banner
+
+! 2022-08-18 https://tvovermind.com
+tvovermind.com##.adthrive-ad
+tvovermind.com##.adthrive
+
+! 2022-08-18 https://english.elpais.com
+english.elpais.com##.ad
+
 
