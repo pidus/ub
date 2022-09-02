@@ -37,10 +37,16 @@ www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.stckyadbox
 www.anandabazar.com##.manyawarbox
 www.anandabazar.com##.addvert
+www.anandabazar.com##.adbox
 www.anandabazar.com##.marketingbannerboxtmb
 www.anandabazar.com##.nbadbox
 www.anandabazar.com##.swiper-slide-active.swiper-slide
 www.anandabazar.com##.rupabox
+www.anandabazar.com##.roadblockbox
+www.anandabazar.com##.floatad_cntainer
+www.anandabazar.com###native-article-one
+www.anandabazar.com###native-article-two
+www.anandabazar.com##.marketingbanner
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
@@ -146,6 +152,7 @@ m.timesofindia.com##.amp_iframe
 m.timesofindia.com##.zIkUV
 m.timesofindia.com##.topicad
 m.timesofindia.com##.ad_300by250
+m.timesofindia.com###aff_sticky_carousel
 
 ! 2021-08-03 https://www.ndtv.com
 www.ndtv.com##.video_wrapper
@@ -412,7 +419,8 @@ www.news18.com##.stky-ad-footer
 www.news18.com##.newftrshare
 www.news18.com##.article_socials
 www.news18.com##.ad_container
-news18.com#@##__next > div
+www.news18.com##.embed-container
+www.news18.com#@##__next > div
 
 ! 2022-02-25 https://www.bgr.in
 www.bgr.in##.ads-box
@@ -468,6 +476,7 @@ www.geeksforgeeks.org##.modal-content
 ! 2022-03-01 https://www.digitaltrends.com
 www.digitaltrends.com##.dtvideos-container
 www.digitaltrends.com##.dtads-slot
+www.digitaltrends.com##.dtads-slot-wrapper
 
 ! 2022-03-01 https://www.tomsguide.com
 www.tomsguide.com##.ad-unit
@@ -1010,4 +1019,7 @@ tvovermind.com##.adthrive
 ! 2022-08-18 https://english.elpais.com
 english.elpais.com##.ad
 
+! 2022-08-28 https://www.freepressjournal.in
+www.freepressjournal.in##.ad-slots
+www.freepressjournal.in##.native-share
 
