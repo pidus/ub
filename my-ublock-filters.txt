@@ -1,7 +1,7 @@
 ! Title: আমার ফিল্টার
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 7 days
+! Expires: 3 days
 ! URL: https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
 !! Style filters
