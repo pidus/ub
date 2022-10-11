@@ -50,6 +50,7 @@ www.anandabazar.com##.floatad_cntainer
 www.anandabazar.com###native-article-one
 www.anandabazar.com###native-article-two
 www.anandabazar.com##.marketingbanner
+www.anandabazar.com##.sec-logosponsor
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
@@ -223,6 +224,8 @@ eisamay.com###share-container-wrapper
 eisamay.com##.ad-wrapper-250
 eisamay.com##.vd_pl
 eisamay.com##.mobile.notification_popup
+eisamay.com##.timespoint-popup
+eisamay.com##.best-deals
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
@@ -1028,3 +1031,9 @@ english.elpais.com##.ad
 www.freepressjournal.in##.ad-slots
 www.freepressjournal.in##.native-share
 
+! 2022-10-10 https://www.hindustantimes.com
+www.hindustantimes.com###section_news
+www.hindustantimes.com##.ht-instagram-embed
+
+! 2022-10-10 https://www.xnxx.tv
+www.xnxx.tv###content-ad-top-zone
