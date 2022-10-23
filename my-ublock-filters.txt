@@ -1037,3 +1037,21 @@ www.hindustantimes.com##.ht-instagram-embed
 
 ! 2022-10-10 https://www.xnxx.tv
 www.xnxx.tv###content-ad-top-zone
+
+! 2022-10-11 https://www.notebookcheck.net
+www.notebookcheck.net###nbc_bb
+
+! 2022-10-11 https://bangla.hindustantimes.com
+bangla.hindustantimes.com###adfreeDeskSpace
+
+! 2022-10-15 https://techpp.com
+techpp.com##.tppAds
+
+! 2022-10-15 https://www.timesnownews.com
+www.timesnownews.com##._3y-Oz
+www.timesnownews.com###btf94881952
+
+! 2022-10-23 https://bangla.asianetnews.com
+bangla.asianetnews.com##.mobileads
+bangla.asianetnews.com##.desktop-native-ad
+bangla.asianetnews.com##.videocontainer
