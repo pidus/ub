@@ -226,6 +226,7 @@ eisamay.com##.vd_pl
 eisamay.com##.mobile.notification_popup
 eisamay.com##.timespoint-popup
 eisamay.com##.best-deals
+eisamay.com##.story-atf-wrapper
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
@@ -1055,3 +1056,14 @@ www.timesnownews.com###btf94881952
 bangla.asianetnews.com##.mobileads
 bangla.asianetnews.com##.desktop-native-ad
 bangla.asianetnews.com##.videocontainer
+
+! 2022-10-24 https://www.the-sun.com
+www.the-sun.com###article-footer
+
+! 2022-10-24 https://biddutroy.family.blog
+biddutroy.family.blog##.entry-header
+
+! 2022-10-25 https://www.1mg.com
+www.1mg.com##.marginTop-8.container-fluid
+
+
