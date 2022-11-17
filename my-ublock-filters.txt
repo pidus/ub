@@ -51,6 +51,9 @@ www.anandabazar.com###native-article-one
 www.anandabazar.com###native-article-two
 www.anandabazar.com##.marketingbanner
 www.anandabazar.com##.sec-logosponsor
+www.anandabazar.com##.main-nav [href="/video"]
+www.anandabazar.com##.marketingbnnerbox
+www.anandabazar.com##.rightadbox
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
@@ -227,6 +230,7 @@ eisamay.com##.mobile.notification_popup
 eisamay.com##.timespoint-popup
 eisamay.com##.best-deals
 eisamay.com##.story-atf-wrapper
+eisamay.com##.adv
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
@@ -1066,4 +1070,42 @@ biddutroy.family.blog##.entry-header
 ! 2022-10-25 https://www.1mg.com
 www.1mg.com##.marginTop-8.container-fluid
 
+! 2022-10-27 https://udaipurtimes.com
+udaipurtimes.com###ppd
+udaipurtimes.com##.top-container1
+udaipurtimes.com##.mob_only
+udaipurtimes.com##.lhs---box
 
+! 2022-10-27 https://www.indiatvnews.com
+www.indiatvnews.com##.applinks
+
+! 2022-10-28 https://www.91wheels.com
+www.91wheels.com##.btn-pd0
+www.91wheels.com##.widgets_bluecard__1OhIO
+www.91wheels.com##._card_card__7_hKK:nth-of-type(4)
+
+! 2022-10-29 https://www.quikr.com
+www.quikr.com##.jcSA
+www.quikr.com##.hgWNEV
+www.quikr.com##.jHAVZi
+
+! 2022-10-29 https://byjusexamprep.com
+byjusexamprep.com##.chatbot_floatingPosition__28ZQi
+byjusexamprep.com##.mobile-nav-spacing
+
+! 2022-10-30 https://prepp.in
+prepp.in##.headerslot
+
+! 2022-10-30 https://www.oliveboard.in
+www.oliveboard.in##.olive-content_9
+www.oliveboard.in##.olive-content_10
+
+! 2022-10-31 https://testbook.com
+testbook.com##.custom-banner
+testbook.com##.livePanel
+
+! 2022-11-01 https://www.embibe.com
+www.embibe.com##.footer-signup-btn
+
+! 2022-11-05 https://shop.clarioncomputers.in
+shop.clarioncomputers.in###rev_slider_8_1_wrapper
