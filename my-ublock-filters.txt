@@ -1,7 +1,7 @@
 ! Title: আমার ফিল্টার
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 3 days
+! Expires: 5 days
 ! URL: https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
 !! Style filters
@@ -1110,3 +1110,22 @@ www.embibe.com##.footer-signup-btn
 
 ! 2022-11-05 https://shop.clarioncomputers.in
 shop.clarioncomputers.in###rev_slider_8_1_wrapper
+
+! 2022-11-19 https://tv9bangla.com
+tv9bangla.com##.adsCont
+
+! 2022-11-23 https://www.livemint.com
+www.livemint.com##.openinApp2
+
+! 2022-11-23 https://www.indiatoday.in
+www.indiatoday.in###premiumBannerWrap
+
+! 2022-12-07 https://porngun.net
+||porngun.net/banners/*.gif$image
+
+! 2022-12-09 https://www.tomshardware.com
+www.tomshardware.com###slice-container-newsletterForm-articleInbodyContent
+
+! 2022-12-09 https://thinkkers.com
+thinkkers.com##.customad1
+thinkkers.com##.customad
