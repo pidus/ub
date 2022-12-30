@@ -1129,3 +1129,17 @@ www.tomshardware.com###slice-container-newsletterForm-articleInbodyContent
 ! 2022-12-09 https://thinkkers.com
 thinkkers.com##.customad1
 thinkkers.com##.customad
+
+! 2022-12-17 https://www.theatlantic.com
+www.theatlantic.com##.ArticleInjector_clsAvoider__pXehw
+
+! 2022-12-18 https://web.archive.org
+web.archive.org##.dn-ns.db
+web.archive.org###mobile-footer-ad-wrapper
+
+! 2022-12-18 https://www.urdupoint.com
+www.urdupoint.com###gpt-end-banner-wrap
+
+! 2022-12-18 https://www.dailyo.in
+www.dailyo.in##.adMainWrp
+
