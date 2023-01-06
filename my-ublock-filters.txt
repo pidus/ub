@@ -1143,3 +1143,6 @@ www.urdupoint.com###gpt-end-banner-wrap
 ! 2022-12-18 https://www.dailyo.in
 www.dailyo.in##.adMainWrp
 
+! 2022-12-31 https://wccftech.com
+wccftech.com##div.aside:nth-of-type(3)
+
