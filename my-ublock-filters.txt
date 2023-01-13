@@ -1146,3 +1146,12 @@ www.dailyo.in##.adMainWrp
 ! 2022-12-31 https://wccftech.com
 wccftech.com##div.aside:nth-of-type(3)
 
+! 2023-01-06 https://www.almanacnews.com
+www.almanacnews.com##.side-block
+
+! 2023-01-07 https://www.businessinsider.in
+www.businessinsider.in##.as-webstories-cont
+
+! 2023-01-07 https://www.newcomer.co
+www.newcomer.co##.subscription-widget
+
