@@ -10,7 +10,7 @@ https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_14_Anno
 https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_11_Mobile/filter.txt
 https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_17_TrackParam/filter.txt
 
-# AdGuard Optimised
+# AdGuard Optimized
 https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
