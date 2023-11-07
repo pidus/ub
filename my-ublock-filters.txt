@@ -1,28 +1,50 @@
-! Title: আমার ফিল্টার
+! Title: Filter list of pidus 
 ! Version: 1
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 5 days
+! Expires: 1 days
 ! URL: https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
 
-!! Style filters
-! Overflow fix
-distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+! :::Custom uBlock Origin filters:::
+
+! Block IDN:
+||xn--$doc,frame
+
+! Font fix:
+
+@@||fonts.googleapis.com/css$domain=~github.io
+@@||fonts.gstatic.com^$font,domain=~vanillaos.org|~adscientificindex.com|~manjaro.org
+@@||cdnjs.cloudflare.com/ajax/libs/font-awesome/*$font,domain=~prohor.in
+@@||stackpath.bootstrapcdn.com/font-awesome/*$font,domain=~banglanewslive.co.in
+@@||fonts.nymag.com/icons/*$font,domain=~thecut.com
+@@||pro.fontawesome.com^$stylesheet,domain=~adscientificindex.com
+
+
+! Overflow fix:
+! ##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+
+! distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 biddutroy.family.blog##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 geeksforgeeks.org##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 thehodltimes.co##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+www.infoworld.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 
-! No WordPress actionbar
+
+! No WordPress actionbar ‣
+
 biddutroy.family.blog###actionbar:style(display: none !important)
 software.rajivprab.com###actionbar:style(display: none !important)
 eduindex.org###actionbar:style(display: none !important)
 pointieststick.com###actionbar:style(display: none !important)
 
+
+! All:
+
 ! 2021-05-01 https://www.google.co*
 www.google.com###taw
 www.google.com##.bg9urf
-www.google.com##.ptJHdc
-www.google.co.in##.FSIemd
+!www.google.com##.ptJHdc
+!www.google.co.in##.FSIemd
 
 ! 2021-05-26 https://www.anandabazar.com
 ||abp-dashboard.s3.*.amazonaws.com/assets/images/marketting-banners/*.jpg$image
@@ -35,6 +57,7 @@ www.anandabazar.com##.mobheaderad
 www.anandabazar.com##.sponsor-header
 www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.stckyadbox
+www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.manyawarbox
 www.anandabazar.com##.addvert
 www.anandabazar.com##.adbox
@@ -54,9 +77,17 @@ www.anandabazar.com##.sec-logosponsor
 www.anandabazar.com##.main-nav [href="/video"]
 www.anandabazar.com##.marketingbnnerbox
 www.anandabazar.com##.rightadbox
+www.anandabazar.com##.socialmtext
+www.anandabazar.com##.stickyshare
+www.anandabazar.com##.pfouterbox
+www.anandabazar.com##.URM-login-modal
+www.anandabazar.com##div.slick-slide
+www.anandabazar.com##.vmart-widget
+www.anandabazar.com##.sec-stiky-BB-slot
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
+www.xda-developers.com##.w-adsninja-video-player
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
@@ -70,6 +101,7 @@ www.psychologytoday.com###block-adblock-20
 www.psychologytoday.com##.pt-social-media
 www.psychologytoday.com##.collection__td_callout__container
 www.psychologytoday.com##.find-therapist-subheader-block
+www.psychologytoday.com##.jumbotron
 
 ! 2021-05-31 https://www.sportskeeda.com
 www.sportskeeda.com##.app-download-modal
@@ -105,12 +137,15 @@ edurev.in##.modal-backdrop
 edurev.in###footer_fixed
 edurev.in##.show_notif
 edurev.in##.ed_footer
-edurev.in##.crshdrdv.ed_innerBox
+edurev.in##.ed_innerBox
 
 ! 2021-06-14 https://www.hindustantimes.com
 www.hindustantimes.com##.close-btn.closeStory
 www.hindustantimes.com##.adMinHeight313
 www.hindustantimes.com##.top250Ad
+www.hindustantimes.com##.m_headBanner
+www.hindustantimes.com###section_news
+www.hindustantimes.com##.ht-instagram-embed
 
 ! 2022-06-14 https://auto.hindustantimes.com
 auto.hindustantimes.com##.topGadgetsWrapper
@@ -119,7 +154,6 @@ auto.hindustantimes.com##div:nth-of-type(6)
 
 ! 2021-06-14 https://www.mykhel.com
 www.mykhel.com###ad0
-!www.mykhel.com##.inarticlead.oi-add-block.refreshInarticleAd
 www.mykhel.com##.inarticlead
 www.mykhel.com###taboola-mid-article-thumbnails
 
@@ -127,6 +161,8 @@ www.mykhel.com###taboola-mid-article-thumbnails
 indianexpress.com##.ie-adsbox
 indianexpress.com##.add-section
 indianexpress.com##.top-ads-amp
+indianexpress.com##.ads-container
+indianexpress.com##.rhs-banner-carousel
 indianexpress.com##.hide_utm_paytm_phonepe.js-btm-nav
 
 ! 2021-06-15 https://www.bollywoodlife.com
@@ -205,7 +241,10 @@ www.foreignaffairs.com##.site-header__top-bar
 ! 2021-09-28 https://www.telegraphindia.com
 www.telegraphindia.com##.adboxbdr
 www.telegraphindia.com##.ad250
+www.telegraphindia.com##.ad280
 www.telegraphindia.com##.adtext
+www.telegraphindia.com##.m_native_dfp_1_ad_wrap
+www.telegraphindia.com##.m_native_dfp_2_ad_wrap
 
 ! 2021-09-27 https://www.livemint.com
 www.livemint.com##.fixadheight
@@ -231,6 +270,7 @@ eisamay.com##.timespoint-popup
 eisamay.com##.best-deals
 eisamay.com##.story-atf-wrapper
 eisamay.com##.adv
+eisamay.com##.ad-wrapper-275
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
@@ -260,12 +300,14 @@ moddingunited.xyz##.code-block
 ! 2021-10-01 https://www.thehindu.com
 ||www.thehindu.com/static/img/1x1_spacer.png$image
 www.thehindu.com##.mob-top-add
+www.thehindu.com##.hide-mobile
+www.thehindu.com###sectiondivicymi
+www.thehindu.com##.dfp-ad
+www.thehindu.com##.article-video
+www.thehindu.com##.article-ad
 
 ! 2021-10-02 https://nationalpost.com
 nationalpost.com##.widget--distroscale.widget
-
-! 2021-10-06 https://m.cricbuzz.com
-m.cricbuzz.com##.cbz-leaderboard-banner
 
 ! 2021-10-06 https://newsmeter.in
 newsmeter.in##.left_level_ad
@@ -305,13 +347,12 @@ www.indiatoday.in##.odd.block-block
 www.indiatoday.in###taboola-below-article-thumbnails
 www.indiatoday.in###block-block-70
 www.indiatoday.in##.newsltter-iframe-new
+www.indiatoday.in###premiumBannerWrap
+www.indiatoday.in###tapBoxId
 
 ! 2021-11-27 https://www.cntraveler.com
 www.cntraveler.com##.ad
 www.cntraveler.com##.cne-interlude.cne
-
-! 2021-11-28 https://nypost.com
-nypost.com##.ad
 
 ! 2021-12-01 https://cheerleading.lovetoknow.com
 cheerleading.lovetoknow.com##.ad
@@ -340,6 +381,7 @@ www.news-medical.net##.share-box
 www.gizbot.com###first-ad
 www.gizbot.com##.amp-inner-ad
 www.gizbot.com###mobifooterad
+www.gizbot.com##.oi-add-block
 
 ! 2022-01-27 https://www.91mobiles.com
 ||img.91mobiles.com/uploadpanel/ads/latest_smartphone_reviews.png$image
@@ -392,6 +434,7 @@ www.bgr.in##.ads-fixed
 
 ! 2022-02-20 https://www.reuters.com
 www.reuters.com##.RCOMVideo-container-Lo9AA
+www.reuters.com###in-article-connatix-player
 
 ! 2022-02-20 https://unherd.com
 unherd.com##.please_membership
@@ -412,6 +455,7 @@ www.moksh16.com##.topbar
 www.moksh16.com##.live-couns
 
 ! 2022-02-25 https://www.businesstoday.in
+www.businesstoday.in##.rhs-fixwhtsapp
 www.businesstoday.in##.story__top__ad
 www.businesstoday.in##.sponsored_widget
 www.businesstoday.in##.secondAdPosition
@@ -432,7 +476,6 @@ www.news18.com##.newftrshare
 www.news18.com##.article_socials
 www.news18.com##.ad_container
 www.news18.com##.embed-container
-www.news18.com#@##__next > div
 
 ! 2022-02-25 https://www.bgr.in
 www.bgr.in##.ads-box
@@ -441,6 +484,8 @@ www.bgr.in##.ads-box
 zeenews.india.com##.ad_container
 zeenews.india.com##.share_article
 zeenews.india.com##i-amphtml-sizer
+zeenews.india.com##.ads-box-300x250
+zeenews.india.com##.ads-box-320x60
 
 ! 2022-02-25 https://www.notebookcheck.net
 www.notebookcheck.net##.tx-nbc2fe-incontent-column
@@ -464,6 +509,8 @@ www.politico.eu##.ad__mobile
 
 ! 2022-02-26 https://www.financialexpress.com
 www.financialexpress.com##.ad-bg-container
+www.financialexpress.com##.top-iframe
+www.financialexpress.com##.board-result-box
 
 ! 2022-02-26 https://m.imgur.com
 m.imgur.com##.Ad-adhesive
@@ -473,6 +520,12 @@ m.imgur.com##.Ad-adhesive
 1337x.to##center
 1337x.to##li:nth-of-type(15)
 
+! 2022-02-27 https://www.tomshardware.com
+www.tomshardware.com##.video-aspect-box
+www.tomshardware.com###taboola-mobile-below-article-thumbnails
+www.tomshardware.com###affiliate-disclaimer
+www.tomshardware.com###slice-container-newsletterForm-articleInbodyContent
+
 ! 2022-02-27 https://forums.tomshardware.com
 forums.tomshardware.com###header_leaderboard
 
@@ -481,9 +534,6 @@ www.omgubuntu.co.uk##.adsbygoogle
 
 ! 2022-02-28 https://m.imdb.com
 m.imdb.com##.mdot_inline_ad_styles
-
-! 2022-03-01 https://www.geeksforgeeks.org
-www.geeksforgeeks.org##.modal-content
 
 ! 2022-03-01 https://www.digitaltrends.com
 www.digitaltrends.com##.dtvideos-container
@@ -555,9 +605,6 @@ www.ssbcrack.com##.td_spot_img_mob
 ! 2022-03-06 https://www.indiatimes.com
 www.indiatimes.com##.ad-300
 
-! 2022-03-06 https://www.thehindu.com
-www.thehindu.com##.dfp-ad
-
 ! 2022-03-06 https://military-history.fandom.com
 military-history.fandom.com##.top-ads-container
 
@@ -567,8 +614,6 @@ m.economictimes.com##._2N5FY
 
 ! 2022-03-06 https://www.bankbazaar.com
 www.bankbazaar.com##.blocking-banner
-www.bankbazaar.com###div-gpt-ad-1630156666310-0
-www.bankbazaar.com###div-gpt-ad-1630156786503-0
 www.bankbazaar.com##.ct-img-web-banner
 
 ! 2022-03-07 https://www.insurancedekho.com
@@ -590,10 +635,14 @@ www.psychiatrictimes.com##.leaderboard-ad-wrapper
 ! 2022-03-08 https://www.forbes.com
 www.forbes.com##amp-img
 www.forbes.com##.ad-unit
+www.forbes.com##fbs-embedly
 
 ! 2022-03-08 https://www.livemint.com
 www.livemint.com##.adHeight280
 www.livemint.com##.adMinHeight280
+||livemint.com/*/advertisement.*$image
+www.livemint.com##.subscribeAd
+www.livemint.com##.openinApp2
 
 ! 2022-03-09 https://psyche.co
 psyche.co##.hoejUR
@@ -624,17 +673,22 @@ firststepbh.com###floating-call1
 intellipaat.com##.mobile-sticky-cta
 
 ! 2022-03-12 https://nypost.com
+nypost.com##.ad
 nypost.com##.floating-share-wrap
 nypost.com##.brightcove-video
+nypost.com##.ads__index__outerWrapper--oDtce
 
-! 2022-03-13 https://xhamster18.desi
-xhamster18.desi###top_menu_items
-xhamster18.desi##.wio-ypremium-overlay
-xhamster18.desi##.wio-y
-xhamster18.desi##.wio-ybanner-container
-xhamster18.desi##.big-thumb-block
-xhamster18.desi##.thumb-list-mobile-item--widget
-xhamster18.desi##.recomm-promo-banner
+! 2022-03-13 https://xhamster*
+xhamster20.desi###top_menu_items
+xhamster20.desi##.wio-ypremium-overlay
+xhamster20.desi##.ytd-j
+xhamster20.desi##.wio-y
+xhamster20.desi##.wio-ybanner-container
+xhamster20.desi##.big-thumb-block
+xhamster20.desi##.thumb-list-mobile-item--widget
+xhamster20.desi##.recomm-promo-banner
+xhamster20.desi##.yxd-j--middle-line
+xhamster20.desi##.video-page__layout-ad
 
 ! 2022-03-13 https://www.buzzfeed.com
 www.buzzfeed.com##.ad-inline
@@ -677,15 +731,14 @@ eurasiantimes.com##.td-a-rec
 ! 2022-03-19 http://www.military-today.com
 www.military-today.com##.adsbygoogle
 
-! 2022-03-19 https://www.forbes.com
-www.forbes.com##fbs-embedly
-
 ! 2022-03-19 https://www.androidheadlines.com
 www.androidheadlines.com##.ad-wrapper
 
 ! 2022-03-29 https://bartamanpatrika.com
 bartamanpatrika.com##share-buttons
 bartamanpatrika.com###ubvideoFrame
+bartamanpatrika.com##.bp-adContainer
+bartamanpatrika.com##app-ads
 
 ! 2022-03-29 https://www.cinemablend.com
 www.cinemablend.com##.jwplayer__widthsetter
@@ -694,6 +747,10 @@ www.cinemablend.com##.socialite-widget
 ! 2022-03-29 https://www.businessinsider.com
 www.businessinsider.com##.notification-prompt-wrapper
 www.businessinsider.com##.insider-raw-embed
+
+! 2023-01-07 
+www.businessinsider.in##.as-webstories-cont
+www.businessinsider.in##.msme2023-widget
 
 ! 2022-03-29 https://www.bustle.com
 www.bustle.com##.adWrapper
@@ -714,23 +771,13 @@ www.gadgetsnow.com##.UEmdU
 ! 2022-03-31 https://www.cpubenchmark.net
 www.cpubenchmark.net##.mobileadunit
 
-! 2022-04-02 https://www.financialexpress.com
-www.financialexpress.com##.top-iframe
-
 ! 2022-04-02 https://www.espncricinfo.com
 www.espncricinfo.com##.ad-placeholder
 
 ! 2022-04-02 https://m.cricbuzz.com
 m.cricbuzz.com##div#ads-strip
 m.cricbuzz.com###miniscore-branding
-
-! 2022-04-02 https://indianexpress.com
-indianexpress.com##.ads-container
-indianexpress.com##.rhs-banner-carousel
-
-! 2022-04-02 https://www.tomshardware.com
-www.tomshardware.com##.video-aspect-box
-www.tomshardware.com###taboola-mobile-below-article-thumbnails
+m.cricbuzz.com##.cbz-leaderboard-banner
 
 ! 2022-04-02 https://arstechnica.com
 arstechnica.com##.instream-container
@@ -809,6 +856,7 @@ www.gigabyte.com##.event-icon-wrapper
 ! 2022-05-01 https://biddutroy.family.blog
 biddutroy.family.blog##.post-thumbnail
 biddutroy.family.blog##.site-logo
+biddutroy.family.blog##.entry-header
 
 ! 2022-05-03 https://www.investopedia.com
 www.investopedia.com##.scads-to-load
@@ -884,13 +932,12 @@ www.feedough.com##.feedo-post-content
 ! 2022-06-04 https://jezebel.com
 jezebel.com##.bxm4mm-16
 
-! 2022-06-04 https://www.gizbot.com
-www.gizbot.com##.oi-add-block
-
 ! 2022-06-21 https://bangla.hindustantimes.com
 bangla.hindustantimes.com##.adHolder
+bangla.hindustantimes.com###adfreeDeskSpace
 
 ! 2022-06-21 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.modal-content
 www.geeksforgeeks.org###GFG_AD_gfg_archive_ATF_728x250
 
 ! 2022-06-21 https://a-z-animals.com
@@ -902,9 +949,16 @@ a-z-animals.com##.adthrive-ad
 timesofindia.indiatimes.com##.advertisment
 timesofindia.indiatimes.com##.addwrapper
 
-! 2022-06-23 https://www.xnxx.tv
+! 2022-06-23 https://www.xnxx*
 www.xnxx.tv###ad-header-mobile-contener
 www.xnxx.tv###footer
+www.xnxx.tv###content-ad-top-zone
+www.xnxx.tv##.premium-results-line
+
+www.xnxx115.com###ad-header-mobile-contener
+www.xnxx115.com##.premium-results-line
+www.xnxx115.com###content-ad-top-zone-contener
+www.xnxx115.com##.thumb-ad
 
 ! 2022-06-24 https://www.fatherly.com
 www.fatherly.com##.adWrapper
@@ -915,6 +969,7 @@ www.cnet.com##.c-pageArticleLongform_ad
 ! 2022-06-24 https://www.cuemath.com
 www.cuemath.com##.iticks-pop-button
 www.cuemath.com##.sticky-button__StickyWrapper-sc-ms2jra-0
+www.cuemath.com##.plain-banner__Container-sc-tutntk-0
 
 ! 2022-06-25 https://apkmody.io
 apkmody.io##.ad-unit
@@ -926,7 +981,12 @@ www.medicinenet.com##.ads-pre-2026
 ! 2022-06-26 https://bengali.abplive.com
 bengali.abplive.com##.ad-wrap
 bengali.abplive.com##.ad-section
+bengali.abplive.com##.ad-container
+bengali.abplive.com##.ad-container-outer
 bengali.abplive.com##.MW_HOM_POS_1
+
+! 2023-05-12 https://news.abplive.com
+news.abplive.com##.ad-container-outer
 
 ! 2022-07-02 https://m.economictimes.com
 m.economictimes.com##._2rMIm
@@ -938,13 +998,11 @@ www.techwalla.com##.component-article-section-inline-ad
 ! 2022-07-04 https://www.exceldemy.com
 www.exceldemy.com##.adthrive-ad
 
-! 2022-07-06 https://bengali.abplive.com
-bengali.abplive.com##.ad-container
-
 ! 2022-07-08 https://hardwaresecrets.com
 hardwaresecrets.com##.simplesocialbuttons
 
 ! 2022-07-10 https://www.shiksha.com
+www.shiksha.com###predictorContainer
 www.shiksha.com##.announcementWidget
 www.shiksha.com###clpBtmSticky
 
@@ -981,30 +1039,29 @@ najarbandi.in##.adsbygoogle
 ! 2022-07-27 https://calcuttanews.tv
 calcuttanews.tv##.adsbygoogle
 
-! 2022-07-30 https://www.livemint.com
-||livemint.com/*/advertisement.*$image
-www.livemint.com##.subscribeAd
-
-! 2022-07-30 https://shono.sangbadpratidin.in
-shono.sangbadpratidin.in##.ad-space
-shono.sangbadpratidin.in##.column-37
-
 ! 2022-07-30 https://www.sangbadpratidin.in
 www.sangbadpratidin.in##.ads
 www.sangbadpratidin.in##.mobile-show.con_fbapplinks
 www.sangbadpratidin.in##.bannertophead-ab
 www.sangbadpratidin.in###rwadx_toolbar_bottom_sangbad_pratidin
 www.sangbadpratidin.in##.epaper
+www.sangbadpratidin.in###imgmodalsubha
+www.sangbadpratidin.in##.first-news > .mobile-show.container-fluid
+www.sangbadpratidin.in##.mobile-show.container-fluid > .container > .row > .mar-btp-25.full-width
+www.sangbadpratidin.in##.owl-carousel
+
+! 2022-07-30 https://shono.sangbadpratidin.in
+shono.sangbadpratidin.in##.ad-space
+shono.sangbadpratidin.in##.column-37
+shono.sangbadpratidin.in###imgmodalsubha
 
 ! 2022-07-31 https://www.zdnet.com
 www.zdnet.com##.c-shortcodeCodeSnippet
 www.zdnet.com##.c-adDisplay_container
 
-! 2022-07-31 https://nypost.com
-nypost.com##.ads__index__outerWrapper--oDtce
-
 ! 2022-08-01 https://wap.business-standard.com
 wap.business-standard.com##.ad_banner
+wap.business-standard.com##.advt
 
 ! 2022-08-02 https://www.blendernation.com
 www.blendernation.com##.ads-widget
@@ -1037,18 +1094,8 @@ english.elpais.com##.ad
 www.freepressjournal.in##.ad-slots
 www.freepressjournal.in##.native-share
 
-! 2022-10-10 https://www.hindustantimes.com
-www.hindustantimes.com###section_news
-www.hindustantimes.com##.ht-instagram-embed
-
-! 2022-10-10 https://www.xnxx.tv
-www.xnxx.tv###content-ad-top-zone
-
 ! 2022-10-11 https://www.notebookcheck.net
 www.notebookcheck.net###nbc_bb
-
-! 2022-10-11 https://bangla.hindustantimes.com
-bangla.hindustantimes.com###adfreeDeskSpace
 
 ! 2022-10-15 https://techpp.com
 techpp.com##.tppAds
@@ -1064,9 +1111,6 @@ bangla.asianetnews.com##.videocontainer
 
 ! 2022-10-24 https://www.the-sun.com
 www.the-sun.com###article-footer
-
-! 2022-10-24 https://biddutroy.family.blog
-biddutroy.family.blog##.entry-header
 
 ! 2022-10-25 https://www.1mg.com
 www.1mg.com##.marginTop-8.container-fluid
@@ -1093,6 +1137,7 @@ www.quikr.com##.jHAVZi
 ! 2022-10-29 https://byjusexamprep.com
 byjusexamprep.com##.chatbot_floatingPosition__28ZQi
 byjusexamprep.com##.mobile-nav-spacing
+byjusexamprep.com##.bep-single-thumbnail-wrapper-db
 
 ! 2022-10-30 https://prepp.in
 prepp.in##.headerslot
@@ -1104,6 +1149,10 @@ www.oliveboard.in##.olive-content_10
 ! 2022-10-31 https://testbook.com
 testbook.com##.custom-banner
 testbook.com##.livePanel
+testbook.com##.whatsAppFixed
+testbook.com##.footer-navigation__cta
+testbook.com##.super-banner-qna
+testbook.com##.targetAppDownloadUrl
 
 ! 2022-11-01 https://www.embibe.com
 www.embibe.com##.footer-signup-btn
@@ -1114,17 +1163,8 @@ shop.clarioncomputers.in###rev_slider_8_1_wrapper
 ! 2022-11-19 https://tv9bangla.com
 tv9bangla.com##.adsCont
 
-! 2022-11-23 https://www.livemint.com
-www.livemint.com##.openinApp2
-
-! 2022-11-23 https://www.indiatoday.in
-www.indiatoday.in###premiumBannerWrap
-
 ! 2022-12-07 https://porngun.net
 ||porngun.net/banners/*.gif$image
-
-! 2022-12-09 https://www.tomshardware.com
-www.tomshardware.com###slice-container-newsletterForm-articleInbodyContent
 
 ! 2022-12-09 https://thinkkers.com
 thinkkers.com##.customad1
@@ -1149,9 +1189,6 @@ wccftech.com##div.aside:nth-of-type(3)
 ! 2023-01-06 https://www.almanacnews.com
 www.almanacnews.com##.side-block
 
-! 2023-01-07 https://www.businessinsider.in
-www.businessinsider.in##.as-webstories-cont
-
 ! 2023-01-07 https://www.newcomer.co
 www.newcomer.co##.subscription-widget
 
@@ -1165,4 +1202,194 @@ dramacool.sr##center
 
 ! 2023-01-20 https://blog.logrocket.com
 blog.logrocket.com##.tweet-embed-container
+
+! 2023-01-22 https://www.mamamia.com.au
+www.mamamia.com.au##.popup-container
+
+! 2023-01-22 https://www.dailystar.co.uk
+www.dailystar.co.uk##.viafoura
+
+! 2023-01-22 https://www.adidas.com
+www.adidas.com##picture:nth-of-type(2)
+
+! 2023-03-05 https://byjus.com
+||cdn1.byjus.com/wp-content/uploads/202*$image
+byjus.com##.register-now-top-widget
+byjus.com##.show-in-mobile
+
+! 2023-03-09 https://wikitravel.org
+wikitravel.org##.ct-sidebar--hotel
+
+! 2023-03-10 https://www.myntra.com
+www.myntra.com##.app-install-creative-container
+
+! 2023-03-24 https://www.drishtiias.com
+www.drishtiias.com##.mobile-ad-banner
+www.drishtiias.com##.fixedButton_hand
+
+! 2023-03-24 https://www.adda247.com
+www.adda247.com##.top-package
+
+! 2023-03-26 https://www.clearias.com
+www.clearias.com##.code-block
+www.clearias.com##.mysticky-welcomebar-fixed-wrap
+www.clearias.com###custom_html-68
+www.clearias.com###custom_html-54
+www.clearias.com###custom_html-69
+||www.clearias.com/up/upsc-books-v3*.png$image
+
+! 2023-03-30 https://www.makeuseof.com
+www.makeuseof.com##.ad-current
+
+! 2023-03-31 https://auto.economictimes.indiatimes.com
+auto.economictimes.indiatimes.com##.mrec-ads-slot
+
+! 2023-04-08 https://www.banglanewslive.co.in
+www.banglanewslive.co.in##.AT-ads
+
+! 2023-04-16 https://www.onmanorama.com
+www.onmanorama.com##.top-advt
+
+! 2023-04-17 https://telecom.economictimes.indiatimes.com
+telecom.economictimes.indiatimes.com##.article-detail-ad-slot
+
+! 2023-04-19 https://www.idiva.com
+www.idiva.com##.article-between-wrap
+
+! 2023-04-19 https://banglahunt.com
+banglahunt.com###myVideo
+
+! 2023-04-28 https://360learning.com
+360learning.com##div.background.light-theme.conversion-form-slice.background-slice.skewed-section
+
+! 2023-05-22 https://mydramalist.com
+mydramalist.com##.col-rightx.col-md-12.col-lg-8 > .hidden-md-up
+
+! 2023-05-23 https://www.coindesk.com
+www.coindesk.com##.freestart-vertstyles__StyledWrapper-cr8nn3-0
+
+! 2023-05-24 https://www.deccanherald.com
+www.deccanherald.com##.article-banner-adver-wrapper
+
+! 2023-05-24 https://artisana.beehiiv.com
+@@||media.beehiiv.com/cdn-cgi/image/*$image,1p
+
+! 2023-07-02 https://discover.hubpages.com
+discover.hubpages.com##.m-detail--feature-spacer
+
+! 2023-08-15 https://www.dexerto.com
+www.dexerto.com###vidazoo-play
+
+! 2023-08-18 https://www.livelaw.in
+www.livelaw.in###after_header_ad_1
+
+! 2023-08-19 https://www.upnest.com
+www.upnest.com##.post-buysell-block
+
+! 2023-08-20 https://www.california.com
+www.california.com##.zipcode-component
+
+! 2023-08-29 https://www.broomstickwed.com
+www.broomstickwed.com###die > .container
+www.broomstickwed.com##.brides
+www.broomstickwed.com##.profiles
+
+! 2023-09-09 https://support.hp.com
+support.hp.com##.fixedWidgets
+
+! 2023-10-01 https://leverageedu.com
+leverageedu.com##.download-bottom-bar
+
+! 2023-10-02 https://engineering.careers360.com
+engineering.careers360.com##.middle_slider
+
+! 2023-10-02 https://www.careers360.com
+www.careers360.com##.header
+www.careers360.com##.adbuddy_admission_carousel
+
+! 2023-10-04 https://gossipsinside.com
+||assets.pinterest.com/ext/embed.html$subdocument
+
+! 2023-10-11 https://nanoreview.net
+nanoreview.net##.sinad_only_mobile
+
+! 2023-10-14 https://save.tube
+save.tube##.sub-form-container
+save.tube##.comments-section
+save.tube##.articles-section
+save.tube##.howTo-section
+save.tube##.features-section
+save.tube##.supported-sites.content-wrapper
+
+! 2023-10-14 https://www.pornhub.org
+www.pornhub.org##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
+
+! 2023-10-21 https://www.telegraph.co.uk
+www.telegraph.co.uk##.section.video-player
+www.telegraph.co.uk##.hp-puff
+
+! 2023-10-21 https://builtin.com
+builtin.com##.wrap-share-social-fixed
+
+! 2023-10-21 https://www.business-standard.com
+www.business-standard.com##.show-on-mobile
+
+! 2023-10-22 https://thenewstack.io
+thenewstack.io###tns-promo-voxpop
+
+! 2023-10-23 https://www.infoworld.com
+www.infoworld.com##.ad-placement
+www.infoworld.com##.brVideoContainer
+
+! 2023-10-23 https://www.dice.com
+www.dice.com###leaderboard-ad-div
+www.dice.com###leaderboard-ad-open
+
+! 2023-10-23 https://www.washingtontimes.com
+www.washingtontimes.com##.cnx-player-wrapper
+www.washingtontimes.com##.connatixcontainer
+
+2023-10-25 https://www.gadgetsnow.com
+www.gadgetsnow.com##.atfbox
+
+! 2023-10-25 https://www.gizmochina.com
+! www.gizmochina.com##.wp-block-embed__wrapper
+
+! 2023-10-25 https://www.gizchina.com
+! www.gizchina.com##.fluid-width-video-wrapper
+
+! 2023-10-25 https://www.custompc.com
+www.custompc.com##.affiliate
+
+! 2023-10-26 https://www.autox.com
+www.autox.com##.ad
+
+! 2023-10-27 https://www.vanityfair.com
+www.vanityfair.com##.ad-height-hold
+
+! 2023-10-27 https://www.usmagazine.com
+www.usmagazine.com###global-alert
+www.usmagazine.com##.mobile-only.bbTag
+
+! 2023-10-27 https://www.jagranjosh.com
+www.jagranjosh.com##picture
+
+! 2023-10-27 https://www.oliveboard.in
+www.oliveboard.in##.mysticky-welcomebar-fixed-wrap
+www.oliveboard.in##.wp-block-buttons
+
+! 2023-10-27 https://m.indiamart.com
+m.indiamart.com##.ht300
+
+! 2023-10-28 https://apk.support
+apk.support###headadv
+
+! 2023-10-28 https://happymod.com
+happymod.com##.appx.cbox
+
+! 2023-10-28 https://www.happymodapkdl.com
+www.happymodapkdl.com###appx
+
+! 2023-10-28 https://99images.com
+99images.com##.ad-box-container
 
