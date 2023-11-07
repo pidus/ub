@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: Filter list of pidus 
-! Version: 2
+! Version: 231107
 ! Description: My Personal Filters for uBlock Origin
 ! Expires: 1 days
 ! License: MIT
