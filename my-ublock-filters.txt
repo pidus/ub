@@ -1393,3 +1393,12 @@ www.happymodapkdl.com###appx
 ! 2023-10-28 https://99images.com
 99images.com##.ad-box-container
 
+! 2023-11-16 https://fortune.com
+fortune.com##.related-video-container
+
+! 2023-11-20 https://xiaomifirmwareupdater.com
+xiaomifirmwareupdater.com##.adsbygoogle
+
+! 2023-11-20 https://jiostatus.com
+jiostatus.com##td:nth-of-type(4)
+
