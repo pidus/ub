@@ -12,6 +12,9 @@
 ! Block IDN:
 ||xn--$doc,frame
 
+! YouTube delay
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+
 ! Font fix:
 @@||fonts.googleapis.com/css$domain=~github.io
 @@||fonts.gstatic.com^$font,domain=~vanillaos.org|~adscientificindex.com|~manjaro.org
@@ -1401,4 +1404,20 @@ xiaomifirmwareupdater.com##.adsbygoogle
 
 ! 2023-11-20 https://jiostatus.com
 jiostatus.com##td:nth-of-type(4)
+
+! Quora Ad
+quora.com##.qu-borderTop.q-box:has(.dom_annotate_google_ad)
+
+! 2023-11-21 https://aibusiness.com
+aibusiness.com##.Ad
+
+! 2023-11-21 https://in.hdsex.org
+in.hdsex.org##.player-section__ads-el
+in.hdsex.org##.ads-el
+
+! 2023-11-23 https://www.businesstoday.in
+www.businesstoday.in##.ad_pg_btm
+
+! 2023-12-07 https://online2pdf.com
+online2pdf.com##.adboxcontainer
 
