@@ -87,6 +87,8 @@ www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##div.slick-slide
 www.anandabazar.com##.vmart-widget
 www.anandabazar.com##.sec-stiky-BB-slot
+www.anandabazar.com##.wastkybox
+www.anandabazar.com##.wacardouter
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
@@ -1420,4 +1422,7 @@ www.businesstoday.in##.ad_pg_btm
 
 ! 2023-12-07 https://online2pdf.com
 online2pdf.com##.adboxcontainer
+
+! 2023-12-16 https://www.populationpyramid.net
+www.populationpyramid.net###top-mobile-ad
 
