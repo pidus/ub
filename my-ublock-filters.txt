@@ -1,8 +1,8 @@
 [uBlock Origin]
-! Title: Filter list of pidus 
-! Version: 231107
+! Title: আমার uBO Filters 
+! Version: 23.1225
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 1 days
+! Expires: 10 days
 ! License: MIT
 ! Homepage: https://github.com/pidus/adblock
 ! URL: https://github.com/pidus/adblock/raw/master/my-ublock-filters.txt
@@ -43,7 +43,7 @@ pointieststick.com###actionbar:style(display: none !important)
 
 ! ***All***
 
-! 2021-05-01 https://www.google.co*
+! 2021-05-01 https://www.google.com
 www.google.com###taw
 www.google.com##.bg9urf
 !www.google.com##.ptJHdc
