@@ -26,7 +26,7 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
 ! Overflow fix:
 ! ##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
-! distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 biddutroy.family.blog##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 geeksforgeeks.org##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
