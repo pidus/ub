@@ -1437,3 +1437,7 @@ www.cnet.com##.c-ShortcodeContent_leftRail > div:nth-of-type(3)
 www.moneycontrol.com##.advSlotsGrayBox
 www.moneycontrol.com##.creditScoreMain
 www.moneycontrol.com##.mcApp_btn
+
+! 2024-01-15 https://www.indiatoday.in
+www.indiatoday.in##.ads__common
+
