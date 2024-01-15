@@ -1426,3 +1426,14 @@ online2pdf.com##.adboxcontainer
 ! 2023-12-16 https://www.populationpyramid.net
 www.populationpyramid.net###top-mobile-ad
 
+! 2023-12-27 https://www.timeshighereducation.com
+www.timeshighereducation.com##.ad
+
+! 2024-01-01 https://www.cnet.com
+www.cnet.com##.c-bestListDisclosure
+www.cnet.com##.c-ShortcodeContent_leftRail > div:nth-of-type(3)
+
+! 2024-01-03 https://www.moneycontrol.com
+www.moneycontrol.com##.advSlotsGrayBox
+www.moneycontrol.com##.creditScoreMain
+www.moneycontrol.com##.mcApp_btn
