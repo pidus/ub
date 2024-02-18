@@ -1441,3 +1441,10 @@ www.moneycontrol.com##.mcApp_btn
 ! 2024-01-15 https://www.indiatoday.in
 www.indiatoday.in##.ads__common
 
+! 2024-02-18 https://bnnbreaking.com
+bnnbreaking.com##.my-float.float
+
+! 2024-02-18 https://www.tokyvideo.com
+www.tokyvideo.com##.fan
+www.tokyvideo.com##.intensive-add
+
