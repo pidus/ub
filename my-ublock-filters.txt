@@ -13,9 +13,9 @@
 ||xn--$doc,frame
 
 ! YouTube delay
-www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+! www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
-! Font fix:
+! No blocked fonts:
 @@||fonts.googleapis.com/css$domain=~github.io
 @@||fonts.gstatic.com^$font,domain=~vanillaos.org|~adscientificindex.com|~manjaro.org
 @@||cdnjs.cloudflare.com/ajax/libs/font-awesome/*$font,domain=~prohor.in
@@ -24,8 +24,8 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 @@||pro.fontawesome.com^$stylesheet,domain=~adscientificindex.com
 
 
-! Overflow fix:
-! ##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+! No page overflow:
+! example.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 biddutroy.family.blog##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
@@ -35,6 +35,7 @@ www.infoworld.com##html,body:style(max-width: 100% !important; overflow-x: hidde
 
 
 ! No WordPress actionbar:
+! example.com###actionbar:style(display: none !important)
 biddutroy.family.blog###actionbar:style(display: none !important)
 software.rajivprab.com###actionbar:style(display: none !important)
 eduindex.org###actionbar:style(display: none !important)
