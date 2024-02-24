@@ -1144,6 +1144,8 @@ www.quikr.com##.jHAVZi
 byjusexamprep.com##.chatbot_floatingPosition__28ZQi
 byjusexamprep.com##.mobile-nav-spacing
 byjusexamprep.com##.bep-single-thumbnail-wrapper-db
+byjusexamprep.com##.sbm-h
+byjusexamprep.com##.atf-h
 
 ! 2022-10-30 https://prepp.in
 prepp.in##.headerslot
@@ -1159,6 +1161,8 @@ testbook.com##.whatsAppFixed
 testbook.com##.footer-navigation__cta
 testbook.com##.super-banner-qna
 testbook.com##.targetAppDownloadUrl
+testbook.com##.continue-app-btn
+testbook.com###super-coaching
 
 ! 2022-11-01 https://www.embibe.com
 www.embibe.com##.footer-signup-btn
@@ -1448,4 +1452,7 @@ bnnbreaking.com##.my-float.float
 ! 2024-02-18 https://www.tokyvideo.com
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
+
+! 2024-02-20 https://www.rollingstone.com
+www.rollingstone.com##.admz
 
