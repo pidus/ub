@@ -1465,13 +1465,11 @@ qz.com##.js_midbanner_ad_slot
 ! 2024-03-06 https://www.pornhub.com
 www.pornhub.com##.eudsaLink
 
-! 2024-03-07 https://www.cined.com
-www.cined.com##.widget-ad
-
 ! 2024-03-07 https://tv9bangla.com
 tv9bangla.com###jwplayerplaceholder
 
 ! 2024-03-07 https://www.cined.com
+www.cined.com##.widget-ad
 www.cined.com##.recommended-course-card--inner
 www.cined.com###alternative-links
 
