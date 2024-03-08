@@ -1456,3 +1456,25 @@ www.tokyvideo.com##.intensive-add
 ! 2024-02-20 https://www.rollingstone.com
 www.rollingstone.com##.admz
 
+! 2024-03-03 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.sticky_minitv
+
+! 2024-03-03 https://qz.com
+qz.com##.js_midbanner_ad_slot
+
+! 2024-03-06 https://www.pornhub.com
+www.pornhub.com##.eudsaLink
+
+! 2024-03-07 https://www.cined.com
+www.cined.com##.widget-ad
+
+! 2024-03-07 https://tv9bangla.com
+tv9bangla.com###jwplayerplaceholder
+
+! 2024-03-07 https://www.cined.com
+www.cined.com##.recommended-course-card--inner
+www.cined.com###alternative-links
+
+! 2024-03-07 https://nhentai.net
+nhentai.net##.advertisement
+
