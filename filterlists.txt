@@ -50,7 +50,7 @@ https://github.com/Yuki2718/adblock/raw/master/adguard/anti-antiadb.txt
 https://github.com/Yuki2718/adblock/raw/master/adguard/tracking-plus.txt
 
 ## extra
-https://github.com/pidus/adblock/raw/master/static
+https://github.com/pidus/ub/raw/master/static
 
 https://github.com/brave/adblock-lists/raw/master/brave-unbreak.txt
 https://github.com/curbengh/urlhaus-filter/raw/master/urlhaus-filter-online.txt
