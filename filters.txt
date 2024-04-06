@@ -1486,3 +1486,6 @@ thehackernews.com##.okaybob
 ! 2024-03-29 https://www.gbmb.org
 www.gbmb.org##.mardinad
 
+! 2024-04-06 https://bengali.news18.com
+bengali.news18.com##.instlappbtn
+
