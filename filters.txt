@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Title: uBO Filters 
+! Title: Custom uBO Filters 
 ! Version: 2024.04.06
 ! Description: My Personal Filters for uBlock Origin
 ! Expires: 7 days
