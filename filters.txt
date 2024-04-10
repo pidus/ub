@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Title: Custom uBO Filters 
-! Version: 2024.04.06
+! Title: Custom Filters 
+! Version: 24.04.10
 ! Description: My Personal Filters for uBlock Origin
 ! Expires: 7 days
 ! License: MIT
@@ -11,9 +11,6 @@
 
 ! Block IDN:
 ! ||xn--$doc,frame
-
-! YouTube delay
-! www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 
 ! ***All***
 
@@ -1470,6 +1467,7 @@ www.dailymail.co.uk##ad-slot
 
 ! 2024-03-13 https://bengali.news18.com
 bengali.news18.com##.ftrstkyad
+bengali.news18.com##.instlappbtn
 
 ! 2024-03-24 https://www.msn.com
 www.msn.com##.ad-slot-placeholder
@@ -1489,6 +1487,5 @@ thehackernews.com##.okaybob
 ! 2024-03-29 https://www.gbmb.org
 www.gbmb.org##.mardinad
 
-! 2024-04-06 https://bengali.news18.com
-bengali.news18.com##.instlappbtn
+
 
