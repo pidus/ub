@@ -63,6 +63,8 @@ www.anandabazar.com##.vmart-widget
 www.anandabazar.com##.sec-stiky-BB-slot
 www.anandabazar.com##.wastkybox
 www.anandabazar.com##.wacardouter
+www.anandabazar.com##.reliancetrends
+www.anandabazar.com##.lsesponsorbox
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
@@ -93,6 +95,7 @@ www.drivespark.com###taboola-mid-article-thumbnails
 
 ! 2021-06-08 https://www.timesnownews.com
 www.timesnownews.com##._tn_audio_bt
+www.timesnownews.com###floating_download
 
 ! 2021-06-11 https://www.livemint.com
 www.livemint.com###story-ads-0
