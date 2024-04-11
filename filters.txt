@@ -266,6 +266,9 @@ www.xvdeos1.com##.banner-slider
 www.xvdeos1.com##.opened
 www.xvdeos1.com##.premium-results-line
 
+www.xvideos2.uk##.premium-results-line
+www.xvideos2.uk##.thumb-ad
+
 ! 2021-09-30 https://www.goabroad.com
 www.goabroad.com###scrollElement
 
@@ -1487,5 +1490,6 @@ thehackernews.com##.okaybob
 ! 2024-03-29 https://www.gbmb.org
 www.gbmb.org##.mardinad
 
-
+! 2024-04-10 https://darkreader.org
+darkreader.org##.page-grid-ios
 
