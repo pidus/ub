@@ -1,0 +1,45 @@
+! click2load:
+
+||embed.ted.com/$3p,frame,redirect=click2load.html
+||google.com/maps/embed$3p,frame,redirect=click2load.html
+||html5-player.libsyn.com/embed/$3p,frame,redirect=click2load.html
+||iframe.videodelivery.net/$3p,frame,redirect=click2load.html
+||open.spotify.com/embed-podcast/$3p,frame,redirect=click2load.html
+||open.spotify.com/embed/$3p,frame,redirect=click2load.html
+||player.blubrry.com/$3p,frame,redirect=click2load.html
+||player.captivate.fm^$3p,frame,redirect=click2load.html
+||player.hotmart.com/$3p,frame,redirect=click2load.html
+||player.megaphone.fm/$3p,frame,redirect=click2load.html
+||player.simplecast.com^$3p,frame,redirect=click2load.html
+||player.twitch.tv/$3p,frame,redirect=click2load.html
+||player.vimeo.com/video^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~openai.com|~video.search.yahoo.com|~window-swap.com
+||volume.vox-cdn.com/embed/$3p,frame,redirect=click2load.html
+||youtube-nocookie.com/embed^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+||youtube.com^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+
+! No blocked fonts:
+
+!@@||fonts.googleapis.com/css$domain=~github.io
+!@@||fonts.gstatic.com^$font,domain=~vanillaos.org|~adscientificindex.com|~manjaro.org
+!@@||cdnjs.cloudflare.com/ajax/libs/font-awesome/*$font,domain=~prohor.in
+!@@||stackpath.bootstrapcdn.com/font-awesome/*$font,domain=~banglanewslive.co.in
+!@@||fonts.nymag.com/icons/*$font,domain=~thecut.com
+!@@||pro.fontawesome.com^$stylesheet,domain=~adscientificindex.com
+
+
+! No page overflow:
+
+!distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+!readwrite.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+!geeksforgeeks.org##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+!thehodltimes.co##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+!www.infoworld.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
+
+
+! No WordPress actionbar:
+
+software.rajivprab.com###actionbar:style(display: none !important)
+eduindex.org###actionbar:style(display: none !important)
+pointieststick.com###actionbar:style(display: none !important)
+
+!
