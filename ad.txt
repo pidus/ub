@@ -841,11 +841,6 @@ bengali.oneindia.com###taboola-mid-article-thumbnails
 ! 2022-04-30 https://www.gigabyte.com
 www.gigabyte.com##.event-icon-wrapper
 
-! 2022-05-01 https://biddutroy.family.blog
-biddutroy.family.blog##.post-thumbnail
-biddutroy.family.blog##.site-logo
-biddutroy.family.blog##.entry-header
-
 ! 2022-05-03 https://www.investopedia.com
 www.investopedia.com##.scads-to-load
 
