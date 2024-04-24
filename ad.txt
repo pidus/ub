@@ -1,0 +1,37 @@
+[uBlock Origin]
+! Title: Custom Filters 
+! Description: My Personal Filters for uBlock Origin
+! Expires: 7 days
+! License: MIT
+! Homepage: https://github.com/pidus/ub
+! URL: https://github.com/pidus/ub/raw/master/filters.txt
+
+! *****Custom uBlock Origin filters*****
+
+! Block IDN:
+! ||xn--$doc,frame
+
+! ***All***
+
+! https://www.google.com
+www.google.com###taw
+www.google.com##.bg9urf
+
+! https://www.anandabazar.com
+www.anandabazar.com##.stkyadbox
+www.anandabazar.com##.stkysponsor
+www.anandabazar.com##.lseheader
+www.anandabazar.com##.lsewidget
+www.anandabazar.com##.marketingbanner
+www.anandabazar.com##.URM-login-modal
+
+! 2024-04-24 https://eisamay.com
+eisamay.com##.mini-tv-strip
+eisamay.com##.top-atf-enabled-wrapper
+eisamay.com##.btn_openinapp
+eisamay.com##.ad-wrapper-625
+
+! https://www.psychologytoday.com
+www.psychologytoday.com##.find-therapist-subheader-block
+www.psychologytoday.com##.jumbotron
+
