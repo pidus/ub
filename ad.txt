@@ -25,11 +25,15 @@ www.anandabazar.com##.lsewidget
 www.anandabazar.com##.marketingbanner
 www.anandabazar.com##.URM-login-modal
 
-! 2024-04-24 https://eisamay.com
+! https://eisamay.com
 eisamay.com##.mini-tv-strip
 eisamay.com##.top-atf-enabled-wrapper
 eisamay.com##.btn_openinapp
 eisamay.com##.ad-wrapper-625
+
+! https://www.sangbadpratidin.in
+www.sangbadpratidin.in##.ad_970
+www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 
 ! https://www.psychologytoday.com
 www.psychologytoday.com##.find-therapist-subheader-block
