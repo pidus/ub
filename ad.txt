@@ -20,48 +20,13 @@ www.google.com##.bg9urf
 !www.google.com##.ptJHdc
 !www.google.co.in##.FSIemd
 
-! 2021-05-26 https://www.anandabazar.com
-||abp-dashboard.s3.*.amazonaws.com/assets/images/marketting-banners/*.jpg$image
-www.anandabazar.com##.background-ad
-www.anandabazar.com##.pf-top-sponsor-sec
-www.anandabazar.com##.hnwbanner
-www.anandabazar.com##.wmslogocontainer
-www.anandabazar.com##.wmlogo
-www.anandabazar.com##.mobheaderad
-www.anandabazar.com##.sponsor-header
-www.anandabazar.com##.mbannerbox
-www.anandabazar.com##.stckyadbox
+! https://www.anandabazar.com
 www.anandabazar.com##.stkyadbox
-www.anandabazar.com##.manyawarbox
-www.anandabazar.com##.addvert
-www.anandabazar.com##.adbox
-www.anandabazar.com##.ad600
-www.anandabazar.com##.sponsors
-www.anandabazar.com##.marketingbannerboxtmb
-www.anandabazar.com##.nbadbox
-www.anandabazar.com##.swiper-slide-active.swiper-slide
-www.anandabazar.com##.rupabox
-www.anandabazar.com##.roadblockbox
-www.anandabazar.com##.abpproductwidgetbox
-www.anandabazar.com##.floatad_cntainer
-www.anandabazar.com###native-article-one
-www.anandabazar.com###native-article-two
+www.anandabazar.com##.stkysponsor
+www.anandabazar.com##.lseheader
+www.anandabazar.com##.lsewidget
 www.anandabazar.com##.marketingbanner
-www.anandabazar.com##.sec-logosponsor
-www.anandabazar.com##.main-nav [href="/video"]
-www.anandabazar.com##.marketingbnnerbox
-www.anandabazar.com##.rightadbox
-www.anandabazar.com##.socialmtext
-www.anandabazar.com##.stickyshare
-www.anandabazar.com##.pfouterbox
 www.anandabazar.com##.URM-login-modal
-www.anandabazar.com##div.slick-slide
-www.anandabazar.com##.vmart-widget
-www.anandabazar.com##.sec-stiky-BB-slot
-www.anandabazar.com##.wastkybox
-www.anandabazar.com##.wacardouter
-www.anandabazar.com##.reliancetrends
-www.anandabazar.com##.lsesponsorbox
 
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
