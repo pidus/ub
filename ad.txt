@@ -28,23 +28,16 @@ www.anandabazar.com##.lsewidget
 www.anandabazar.com##.marketingbanner
 www.anandabazar.com##.URM-login-modal
 
+! https://www.psychologytoday.com
+www.psychologytoday.com##.find-therapist-subheader-block
+www.psychologytoday.com##.jumbotron
+
 ! 2021-05-26 https://www.xda-developers.com
 www.xda-developers.com##.entry_media
 www.xda-developers.com##.w-adsninja-video-player
 
 ! 2021-05-26 https://forum.xda-developers.com
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
-
-! 2021-05-28 https://www.psychologytoday.com
-www.psychologytoday.com###block-adblock-16
-www.psychologytoday.com###block-adblock-17
-www.psychologytoday.com###block-adblock-18
-www.psychologytoday.com###block-adblock-19
-www.psychologytoday.com###block-adblock-20
-www.psychologytoday.com##.pt-social-media
-www.psychologytoday.com##.collection__td_callout__container
-www.psychologytoday.com##.find-therapist-subheader-block
-www.psychologytoday.com##.jumbotron
 
 ! 2021-05-31 https://www.sportskeeda.com
 www.sportskeeda.com##.app-download-modal
