@@ -43,3 +43,6 @@ www.thehindu.com###articledivtrendD
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
 
+! https://www.psypost.org
+||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
+
