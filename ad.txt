@@ -45,4 +45,5 @@ www.psychologytoday.com##.jumbotron
 
 ! https://www.psypost.org
 ||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
+www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
 
