@@ -20,18 +20,20 @@ www.google.com##.bg9urf
 ! https://www.anandabazar.com
 www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.stkysponsor
+www.anandabazar.com##.lsesponsorbox
 www.anandabazar.com##.lseheader
 www.anandabazar.com##.lsewidget
 www.anandabazar.com##.marketingbanner
 www.anandabazar.com##.URM-login-modal
+www.anandabazar.com##.sec-stiky-BB-slot
 
-! https://eisamay.com
+! 2024-04-24 https://eisamay.com
 eisamay.com##.mini-tv-strip
 eisamay.com##.top-atf-enabled-wrapper
 eisamay.com##.btn_openinapp
 eisamay.com##.ad-wrapper-625
 
-! https://www.sangbadpratidin.in
+! 2024-04-24 https://www.sangbadpratidin.in
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 
@@ -39,11 +41,15 @@ www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 www.thehindu.com##.read-in-app.btn
 www.thehindu.com###articledivtrendD
 
-! https://www.psychologytoday.com
+! 2024-04-24 https://www.psychologytoday.com
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
 
-! https://www.psypost.org
+! 2024-04-24 https://www.psypost.org
 ||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
 www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
+
+! 2024-04-24 https://buy.realme.com
+buy.realme.com##.toApp-header
+buy.realme.com##.btn-open-app
 
