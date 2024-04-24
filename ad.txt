@@ -28,6 +28,12 @@ www.anandabazar.com##.lsewidget
 www.anandabazar.com##.marketingbanner
 www.anandabazar.com##.URM-login-modal
 
+! 2024-04-24 https://eisamay.com
+eisamay.com##.mini-tv-strip
+eisamay.com##.top-atf-enabled-wrapper
+eisamay.com##.btn_openinapp
+eisamay.com##.ad-wrapper-625
+
 ! https://www.psychologytoday.com
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
@@ -187,31 +193,6 @@ www.telegraphindia.com##.m_native_dfp_2_ad_wrap
 
 ! 2021-09-27 https://www.livemint.com
 www.livemint.com##.fixadheight
-
-! 2021-09-28 https://eisamay.com
-eisamay.com##.ad1
-eisamay.com##.top-img-ad
-eisamay.com##.wdt_newsLetter
-eisamay.com##.tp_home_widget
-eisamay.com##.ads-between-story
-eisamay.com##.adCANContainer
-eisamay.com##.ads-center
-eisamay.com##.alaskamasthead
-eisamay.com##.atf-wrapper
-eisamay.com##.colombia
-eisamay.com##.con_ads
-eisamay.com###vodplayer_frm_123
-eisamay.com###share-container-wrapper
-eisamay.com##.ad-wrapper-250
-eisamay.com##.vd_pl
-eisamay.com##.mobile.notification_popup
-eisamay.com##.timespoint-popup
-eisamay.com##.best-deals
-eisamay.com##.story-atf-wrapper
-eisamay.com##.adv
-eisamay.com##.ad-wrapper-275
-eisamay.com##.ad-wrapper-625
-eisamay.com##.superthit-iframe
 
 ! 2021-09-29 https://www.xvideos*.com
 www.xvideos.com###ad-header-mobile
