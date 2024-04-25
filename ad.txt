@@ -26,6 +26,8 @@ www.anandabazar.com##.lsewidget
 www.anandabazar.com##.marketingbanner
 www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.sec-stiky-BB-slot
+www.anandabazar.com##.m_native_dfp_1_ad_wrap
+www.anandabazar.com##.m_native_dfp_2_ad_wra
 
 ! 2024-04-24 https://eisamay.com
 eisamay.com##.mini-tv-strip
