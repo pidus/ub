@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: Custom Filters 
 ! Description: My Personal Filters for uBlock Origin
-! Expires: 7 days
+! Expires: 24 hours
 ! License: MIT
 ! Homepage: https://github.com/pidus/ub
 ! URL: https://github.com/pidus/ub/raw/master/filters.txt
@@ -54,4 +54,9 @@ www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
 ! 2024-04-24 https://buy.realme.com
 buy.realme.com##.toApp-header
 buy.realme.com##.btn-open-app
+
+! 2024-04-27 https://xhamster.desi
+xhamster.desi##.jNpF-weXlfplayer
+xhamster.desi##.jNpF-weXlfpremium-n-overlay
+xhamster.desi##.jNpF-weXlfbottom-widget-section
 
