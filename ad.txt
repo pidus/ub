@@ -75,6 +75,19 @@ www.pornhub.com##.eudsaLink
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
 
+! 2024-04-28 https://testbook.com
+testbook.com##.custom-banner
+testbook.com##.livePanel
+testbook.com##.whatsAppFixed
+testbook.com##.footer-navigation__cta
+testbook.com##.super-banner-qna
+testbook.com##.targetAppDownloadUrl
+testbook.com##.continue-app-btn
+testbook.com###super-coaching
+
+! 2024-04-28 https://www.oliveboard.in
+www.oliveboard.in##.openinapp
+
 ! 2024-04-24 https://buy.realme.com
 buy.realme.com##.toApp-header
 buy.realme.com##.btn-open-app
