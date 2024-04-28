@@ -11,6 +11,25 @@
 ! Block IDN:
 ||xn--$doc,frame
 
+! click2load:
+||embed.ted.com/$3p,frame,redirect=click2load.html
+||google.com/maps/embed$3p,frame,redirect=click2load.html
+||html5-player.libsyn.com/embed/$3p,frame,redirect=click2load.html
+||iframe.videodelivery.net/$3p,frame,redirect=click2load.html
+||open.spotify.com/embed-podcast/$3p,frame,redirect=click2load.html
+||open.spotify.com/embed/$3p,frame,redirect=click2load.html
+||player.blubrry.com/$3p,frame,redirect=click2load.html
+||player.captivate.fm^$3p,frame,redirect=click2load.html
+||player.hotmart.com/$3p,frame,redirect=click2load.html
+||player.megaphone.fm/$3p,frame,redirect=click2load.html
+||player.simplecast.com^$3p,frame,redirect=click2load.html
+||player.twitch.tv/$3p,frame,redirect=click2load.html
+||player.vimeo.com/video^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~openai.com|~video.search.yahoo.com|~window-swap.com
+||static.vidgyor.com/player/$3p,frame,redirect=click2load.html
+||volume.vox-cdn.com/embed/$3p,frame,redirect=click2load.html
+||youtube-nocookie.com/embed^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+||youtube.com^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
+
 ! ***All***
 
 ! https://www.google.com
@@ -52,8 +71,8 @@ bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
 
 ! 2024-04-24 https://www.thehindu.com
-www.thehindu.com##.read-in-app.btn
-www.thehindu.com###articledivtrendD
+!www.thehindu.com##.read-in-app.btn
+!www.thehindu.com###articledivtrendD
 
 ! 2024-04-24 https://www.psychologytoday.com
 www.psychologytoday.com##.find-therapist-subheader-block
