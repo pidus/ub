@@ -39,6 +39,9 @@ eisamay.com##.ad-wrapper-625
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 
+! 2024-03-07 https://tv9bangla.com
+tv9bangla.com###jwplayerplaceholder
+
 ! 2024-04-24 https://www.thehindu.com
 www.thehindu.com##.read-in-app.btn
 www.thehindu.com###articledivtrendD
@@ -51,12 +54,19 @@ www.psychologytoday.com##.jumbotron
 ||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
 www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
 
-! 2024-04-24 https://buy.realme.com
-buy.realme.com##.toApp-header
-buy.realme.com##.btn-open-app
-
 ! 2024-04-27 https://xhamster.desi
 xhamster.desi##.jNpF-weXlfplayer
 xhamster.desi##.jNpF-weXlfpremium-n-overlay
 xhamster.desi##.jNpF-weXlfbottom-widget-section
+
+! 2024-03-06 https://www.pornhub.com
+www.pornhub.com##.eudsaLink
+
+! 2024-02-18 https://www.tokyvideo.com
+www.tokyvideo.com##.fan
+www.tokyvideo.com##.intensive-add
+
+! 2024-04-24 https://buy.realme.com
+buy.realme.com##.toApp-header
+buy.realme.com##.btn-open-app
 
