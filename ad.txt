@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Title: Custom Filters 
-! Description: My Personal Filters for uBlock Origin
+! Title: Pidus' Custom Filters 
+! Description: Personal Filters of Pidus for uBlock Origin
 ! Expires: 24 hours
 ! License: MIT
 ! Homepage: https://github.com/pidus/ub
@@ -26,15 +26,13 @@ software.rajivprab.com###actionbar:style(display: none !important)
 eduindex.org###actionbar:style(display: none !important)
 pointieststick.com###actionbar:style(display: none !important)
 
-!
-
 ! ***All***
 
-! https://www.google.com
+! 2023-04-24 https://www.google.com
 www.google.com###taw
 www.google.com##.bg9urf
 
-! https://www.anandabazar.com
+! 2024-04-24 https://www.anandabazar.com
 www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.stkysponsor
 www.anandabazar.com##.lsesponsorbox
