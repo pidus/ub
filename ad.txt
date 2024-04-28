@@ -62,6 +62,7 @@ www.news18.com##.electwrapmob
 www.news18.com##.brnw_strip
 
 ! 2024-04-28 https://bengali.news18.com
+!bengali.news18.com##.livetv
 bengali.news18.com##.sponsorsBannerContainer
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
