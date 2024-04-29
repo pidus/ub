@@ -104,3 +104,7 @@ www.oliveboard.in##.openinapp
 buy.realme.com##.toApp-header
 buy.realme.com##.btn-open-app
 
+! 2024-04-29 https://www.thehindu.com
+www.thehindu.com###articledivtrendD
+www.thehindu.com##.read-in-app
+
