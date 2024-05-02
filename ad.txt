@@ -12,7 +12,7 @@
 ||xn--$doc,frame
 
 ! click2load:
-||static.vidgyor.com/player/$3p,frame,redirect=click2load.html
+!||$3p,frame,redirect=click2load.html
 
 ! No page overflow:
 !distrowatch.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
@@ -57,15 +57,22 @@ www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 ! 2024-04-28 https://tv9bangla.com
 ||e.tv9hindi.com/bn/tv9bangla/elections/sponsor-banner$subdocument
 
-! 2024-04-28 https://www.news18.com
-www.news18.com##.electwrapmob
-www.news18.com##.brnw_strip
-
 ! 2024-04-28 https://bengali.news18.com
 !bengali.news18.com##.livetv
 bengali.news18.com##.sponsorsBannerContainer
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
+
+! 2024-04-28 https://www.news18.com
+www.news18.com##.electwrapmob
+www.news18.com##.brnw_strip
+
+! 2024-04-29 https://www.thehindu.com
+www.thehindu.com###articledivtrendD
+www.thehindu.com##.read-in-app
+
+! 2024-04-29 https://www.indiatoday.in
+www.indiatoday.in###tab-video-wrapper-plugin
 
 ! 2024-04-24 https://www.psychologytoday.com
 www.psychologytoday.com##.find-therapist-subheader-block
@@ -103,8 +110,4 @@ testbook.com###super-coaching
 
 ! 2024-04-28 https://www.oliveboard.in
 www.oliveboard.in##.openinapp
-
-! 2024-04-29 https://www.thehindu.com
-www.thehindu.com###articledivtrendD
-www.thehindu.com##.read-in-app
 
