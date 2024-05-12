@@ -90,6 +90,10 @@ xhamster.desi##.jNpF-weXlfbottom-widget-section
 ! 2024-03-06 https://www.pornhub.com
 www.pornhub.com##.eudsaLink
 
+! 2024-05-12 https://www.xvideos2.com
+www.xvideos2.com##.thumb-ad
+www.xvideos2.com##.exo-ad-ins-container
+
 ! 2024-02-18 https://www.tokyvideo.com
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
@@ -110,4 +114,7 @@ testbook.com###super-coaching
 
 ! 2024-04-28 https://www.oliveboard.in
 www.oliveboard.in##.openinapp
+
+! 2024-05-02 https://imgur.com
+imgur.com##.BottomRecirc
 
