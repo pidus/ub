@@ -118,3 +118,6 @@ www.oliveboard.in##.openinapp
 ! 2024-05-02 https://imgur.com
 imgur.com##.BottomRecirc
 
+! 2024-05-22 https://myflixerx.to
+||myflixerx.to/assets/_bnx/mangafire_7xx.gif$image
+
