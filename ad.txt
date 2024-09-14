@@ -87,12 +87,19 @@ xhamster.desi##.jNpF-weXlfplayer
 xhamster.desi##.jNpF-weXlfpremium-n-overlay
 xhamster.desi##.jNpF-weXlfbottom-widget-section
 
+! 10 Sept 2024 https://xhamster19.com
+||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
+
 ! 2024-03-06 https://www.pornhub.com
 www.pornhub.com##.eudsaLink
 
 ! 2024-05-12 https://www.xvideos2.com
 www.xvideos2.com##.thumb-ad
 www.xvideos2.com##.exo-ad-ins-container
+
+! 10 Sept 2024 https://www.xvv1deos.com
+www.xvv1deos.com##.ad-support-desktop
+www.xvv1deos.com##.remove-ads
 
 ! 2024-02-18 https://www.tokyvideo.com
 www.tokyvideo.com##.fan
