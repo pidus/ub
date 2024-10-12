@@ -102,7 +102,7 @@ www.xvideos2.com##.exo-ad-ins-container
 www.xvv1deos.com##.ad-support-desktop
 www.xvv1deos.com##.remove-ads
 www.xvv1deos.com##.video-ad
-www.xvv1deos.com##.premium-results-line
+! www.xvv1deos.com##.premium-results-line
 www.xvv1deos.com##.ad-support-mobile
 www.xvv1deos.com##.thumb-nat-exo-ad
 www.xvv1deos.com###chat-window
