@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: ⚡ Pidus' uBO Filters 
 ! Description: Personal Filters for uBlock Origin. Maintained by Pidus.
-! Expires: 240 hours
+! Expires: 24 hours
 ! License: MIT
 ! Homepage: https://github.com/pidus/ub
 ! URL: https://github.com/pidus/ub/raw/master/filters.txt
@@ -94,9 +94,9 @@ xhamster.desi##.jNpF-weXlfbottom-widget-section
 ! 2024-03-06 https://www.pornhub.com
 www.pornhub.com##.eudsaLink
 
-! 2024-05-12 https://www.xvideos2.com
-www.xvideos2.com##.thumb-ad
-www.xvideos2.com##.exo-ad-ins-container
+! 2024-05-12 https://www.xvideos.com
+www.xvideos.com##.premium-results-line
+www.xvideos.com###chat-window
 
 ! 10 Sept 2024 https://www.xvv1deos.com
 !www.xvv1deos.com##.ad-support-mobile
