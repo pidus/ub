@@ -134,8 +134,6 @@ imgur.com##.BottomRecirc
 ! 2024-05-22 https://myflixerx.to
 ||myflixerx.to/assets/_bnx/mangafire_7xx.gif$image
 
-!||embed.indiatoday.in/share/video/$3p,frame,redirect=click2load.html
-
 ! 4 Aug 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.sticky_minitv
 
@@ -149,7 +147,9 @@ www.indianrail.gov.in###askDishaSdk
 www.xnxx.tv###content-ad-top-zone-contener
 
 ! 29 Sept 2024 https://bangla.hindustantimes.com
-bangla.hindustantimes.com##.promotionDurgaBannerMobile
+!bangla.hindustantimes.com##.promotionDurgaBannerMobile
+bangla.hindustantimes.com##.whatsUpBanner
+bangla.hindustantimes.com##.newSocialIcons
 
 ! 29 Sept 2024 https://amateurphotographer.com
 amateurphotographer.com##.ad
