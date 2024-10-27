@@ -136,6 +136,12 @@ imgur.com##.BottomRecirc
 
 !||embed.indiatoday.in/share/video/$3p,frame,redirect=click2load.html
 
+! 4 Aug 2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.sticky_minitv
+
+! 7 Sept 2024 https://www.indianrail.gov.in
+www.indianrail.gov.in###askDishaSdk
+
 ! 10 Sept 2024 https://xhamster19.com
 ||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
 
@@ -151,3 +157,13 @@ amateurphotographer.com##.ad
 ! 30 Sept 2024 https://www.forbes.com
 www.forbes.com##.cnx-size-responsive.cnx-content-frame
 
+! Oct 27, 2024 https://bengali.news18.com
+bengali.news18.com###openap
+
+! Oct 27, 2024 https://m.economictimes.com
+m.economictimes.com##.taboolaAd
+m.economictimes.com###et_benefits
+m.economictimes.com###whatsapp_banner
+
+! Oct 27, 2024 https://bangla.aajtak.in
+bangla.aajtak.in##.stickyFooter
