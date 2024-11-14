@@ -44,6 +44,7 @@ www.anandabazar.com##.sec-stiky-BB-slot
 www.anandabazar.com##.m_native_dfp_1_ad_wrap
 www.anandabazar.com##.m_native_dfp_2_ad_wrap
 www.anandabazar.com##.motionadbox
+www.anandabazar.com##.reliancetrends
 
 ! 2024-04-24 https://eisamay.com
 eisamay.com##.mini-tv-strip
@@ -63,6 +64,7 @@ www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 bengali.news18.com##.sponsorsBannerContainer
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
+bengali.news18.com###openap
 
 ! 2024-04-28 https://www.news18.com
 www.news18.com##.electwrapmob
@@ -157,9 +159,6 @@ amateurphotographer.com##.ad
 ! 30 Sept 2024 https://www.forbes.com
 www.forbes.com##.cnx-size-responsive.cnx-content-frame
 
-! Oct 27, 2024 https://bengali.news18.com
-bengali.news18.com###openap
-
 ! Oct 27, 2024 https://m.economictimes.com
 m.economictimes.com##.taboolaAd
 m.economictimes.com###et_benefits
@@ -167,3 +166,16 @@ m.economictimes.com###whatsapp_banner
 
 ! Oct 27, 2024 https://bangla.aajtak.in
 bangla.aajtak.in##.stickyFooter
+
+! Oct 28, 2024 https://tv9bangla.com
+tv9bangla.com##.adsbx
+tv9bangla.com##.fixed-whatsapp
+
+! 30 Oct 2024 https://xiaomitime.com
+xiaomitime.com##.bottom_fixad
+
+! 31 Oct 2024 https://www.cnbctv18.com
+www.cnbctv18.com##.installdiv
+
+! 2 Nov 2024 https://m.sangbadpratidin.in
+m.sangbadpratidin.in##.amp_Ad_4
