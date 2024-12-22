@@ -44,6 +44,7 @@ www.anandabazar.com##.sec-stiky-BB-slot
 www.anandabazar.com##.m_native_dfp_1_ad_wrap
 www.anandabazar.com##.m_native_dfp_2_ad_wrap
 www.anandabazar.com##.motionadbox
+www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.reliancetrends
 
 ! 2024-04-24 https://eisamay.com
@@ -55,6 +56,7 @@ eisamay.com##.ad-wrapper-625
 ! 2024-04-24 https://www.sangbadpratidin.in
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
+m.sangbadpratidin.in##.amp_Ad_4
 
 ! 2024-04-28 https://tv9bangla.com
 ||e.tv9hindi.com/bn/tv9bangla/elections/sponsor-banner$subdocument
@@ -64,7 +66,7 @@ www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 bengali.news18.com##.sponsorsBannerContainer
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
-bengali.news18.com###openap
+bengali.news18.com##.opnapp
 
 ! 2024-04-28 https://www.news18.com
 www.news18.com##.electwrapmob
@@ -138,6 +140,8 @@ imgur.com##.BottomRecirc
 
 ! 4 Aug 2024 https://timesofindia.indiatimes.com
 timesofindia.indiatimes.com##.sticky_minitv
+timesofindia.indiatimes.com###poll-widget
+timesofindia.indiatimes.com##.mob-share-button
 
 ! 7 Sept 2024 https://www.indianrail.gov.in
 www.indianrail.gov.in###askDishaSdk
@@ -177,5 +181,27 @@ xiaomitime.com##.bottom_fixad
 ! 31 Oct 2024 https://www.cnbctv18.com
 www.cnbctv18.com##.installdiv
 
-! 2 Nov 2024 https://m.sangbadpratidin.in
-m.sangbadpratidin.in##.amp_Ad_4
+! 23 Nov 2024 https://www.digitaltrends.com
+www.digitaltrends.com##.b-connatix
+
+! 26 Nov 2024 https://scroll.in
+scroll.in###inlineNewsletterSignup
+
+! 28 Nov 2024 https://bangla.asianetnews.com
+bangla.asianetnews.com##.mobiletopad
+
+! 2 Dec 2024 https://www.hindustantimes.com
+www.hindustantimes.com##.mb20.mt10
+
+! 4 Dec 2024 https://bangla.hindustantimes.com
+bangla.hindustantimes.com##p:nth-of-type(n+7)
+
+! 4 Dec 2024 https://m.rediff.com
+m.rediff.com##.adcontainer
+
+! 9 Dec 2024 https://www.koimoi.com
+www.koimoi.com###after_featured_image
+
+! 19 Dec 2024 https://www.facebook.com
+www.facebook.com##.bottom.fixed-container.m
+
