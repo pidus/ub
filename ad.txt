@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Title: ⚡ Pidus' uBO Filters 
+! Title: ⚡ uBO Filters of Pidus
 ! Description: Personal Filters for uBlock Origin. Maintained by Pidus.
 ! Expires: 24 hours
 ! License: MIT
