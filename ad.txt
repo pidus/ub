@@ -190,6 +190,9 @@ scroll.in###inlineNewsletterSignup
 ! 28 Nov 2024 https://bangla.asianetnews.com
 bangla.asianetnews.com##.mobiletopad
 
+! 30 Nov 2024 https://www.99acres.com
+www.99acres.com##.chatBot__chatBotBox
+
 ! 2 Dec 2024 https://www.hindustantimes.com
 www.hindustantimes.com##.mb20.mt10
 
