@@ -56,7 +56,11 @@ eisamay.com##.ad-wrapper-625
 ! 2024-04-24 https://www.sangbadpratidin.in
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
+
+! 2024-04-24 https://m.sangbadpratidin.in
+m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
+m.sangbadpratidin.in##.fullwidth_notifications
 
 ! 2024-04-28 https://tv9bangla.com
 ||e.tv9hindi.com/bn/tv9bangla/elections/sponsor-banner$subdocument
@@ -67,6 +71,7 @@ bengali.news18.com##.sponsorsBannerContainer
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.opnapp
+bengali.news18.com##.social_share_sec
 
 ! 2024-04-28 https://www.news18.com
 www.news18.com##.electwrapmob
@@ -153,9 +158,10 @@ www.indianrail.gov.in###askDishaSdk
 www.xnxx.tv###content-ad-top-zone-contener
 
 ! 29 Sept 2024 https://bangla.hindustantimes.com
-!bangla.hindustantimes.com##.promotionDurgaBannerMobile
+bangla.hindustantimes.com##.promotionDurgaBannerMobile
 bangla.hindustantimes.com##.whatsUpBanner
 bangla.hindustantimes.com##.newSocialIcons
+bangla.hindustantimes.com##p:nth-of-type(n+7)
 
 ! 29 Sept 2024 https://amateurphotographer.com
 amateurphotographer.com##.ad
@@ -195,9 +201,8 @@ www.99acres.com##.chatBot__chatBotBox
 
 ! 2 Dec 2024 https://www.hindustantimes.com
 www.hindustantimes.com##.mb20.mt10
-
-! 4 Dec 2024 https://bangla.hindustantimes.com
-bangla.hindustantimes.com##p:nth-of-type(n+7)
+www.hindustantimes.com##.taboolaInine
+www.hindustantimes.com##.openAppButtonEcho
 
 ! 4 Dec 2024 https://m.rediff.com
 m.rediff.com##.adcontainer
@@ -207,4 +212,7 @@ www.koimoi.com###after_featured_image
 
 ! 19 Dec 2024 https://www.facebook.com
 www.facebook.com##.bottom.fixed-container.m
+
+! 30 Dec 2024 https://theprint.in
+theprint.in##.code-block
 
