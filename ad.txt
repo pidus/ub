@@ -216,3 +216,12 @@ www.facebook.com##.bottom.fixed-container.m
 ! 30 Dec 2024 https://theprint.in
 theprint.in##.code-block
 
+! 22 Jan 2025 https://www.androidpolice.com
+www.androidpolice.com###adsninja-below-main-pic
+
+! 22 Jan 2025 https://xiaomitime.com
+xiaomitime.com##.featuredb_ad
+
+! 30 Jan 2025 https://fortune.com
+fortune.com##.trinity-player
+
