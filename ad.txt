@@ -72,6 +72,7 @@ bengali.news18.com##.instlappbtn
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.opnapp
 bengali.news18.com##.social_share_sec
+bengali.news18.com##.add_container-pht
 
 ! 2024-04-28 https://www.news18.com
 www.news18.com##.electwrapmob
@@ -234,4 +235,32 @@ www.businessinsider.com##.post-video-recirc
 
 ! 25 Mar 2025 https://www.magicbricks.com
 www.magicbricks.com###getapp-banner
+
+! 29 Mar 2025 https://bangla.asianetnews.com
+bangla.asianetnews.com##.gawidget_footer
+
+! 31 Mar 2025 https://www.hindustantimes.com
+www.hindustantimes.com###htEchoArticlePromo
+www.hindustantimes.com##.pollShow
+
+! 31 Mar 2025 https://www.livemint.com
+www.livemint.com##.sr1
+www.livemint.com##.btn-wrap
+www.livemint.com##.inlineTaboolaHeight
+
+! 3 Apr 2025 https://m.rediff.com
+m.rediff.com##.advtcontainer
+
+! 3 Apr 2025 https://www.99acres.com
+www.99acres.com###smartAppBanner__container
+
+! 13 Apr 2025 https://indiahood.in
+indiahood.in##.gb-button
+indiahood.in###share
+indiahood.in##.whatsapp-card
+indiahood.in##.ekc-close
+indiahood.in##.ffc_inline_form
+
+! 14 Apr 2025 https://www.independent.co.uk
+www.independent.co.uk##.vf-tray-trigger-widget
 
