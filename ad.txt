@@ -81,6 +81,7 @@ www.news18.com##.brnw_strip
 ! 2024-04-29 https://www.thehindu.com
 www.thehindu.com###articledivtrendD
 www.thehindu.com##.read-in-app
+www.thehindu.com###piano-modal-paywallblock-nobg
 
 ! 2024-04-29 https://www.indiatoday.in
 www.indiatoday.in###tab-video-wrapper-plugin
@@ -204,6 +205,8 @@ www.99acres.com##.chatBot__chatBotBox
 www.hindustantimes.com##.mb20.mt10
 www.hindustantimes.com##.taboolaInine
 www.hindustantimes.com##.openAppButtonEcho
+www.hindustantimes.com###htEchoArticlePromo
+www.hindustantimes.com##.pollShow
 
 ! 4 Dec 2024 https://m.rediff.com
 m.rediff.com##.adcontainer
@@ -231,6 +234,9 @@ www.holidify.com##.ad-container
 
 ! 22 Mar 2025 https://www.businesstoday.in
 www.businesstoday.in##.install-button
+www.businesstoday.in##.amp_top_ad
+
+! 22 Mar 2025 https://www.businessinsider.com
 www.businessinsider.com##.post-video-recirc
 
 ! 25 Mar 2025 https://www.magicbricks.com
@@ -238,10 +244,6 @@ www.magicbricks.com###getapp-banner
 
 ! 29 Mar 2025 https://bangla.asianetnews.com
 bangla.asianetnews.com##.gawidget_footer
-
-! 31 Mar 2025 https://www.hindustantimes.com
-www.hindustantimes.com###htEchoArticlePromo
-www.hindustantimes.com##.pollShow
 
 ! 31 Mar 2025 https://www.livemint.com
 www.livemint.com##.sr1
