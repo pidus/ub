@@ -235,6 +235,7 @@ www.holidify.com##.ad-container
 ! 22 Mar 2025 https://www.businesstoday.in
 www.businesstoday.in##.install-button
 www.businesstoday.in##.amp_top_ad
+www.businesstoday.in##.stickyFooter
 
 ! 22 Mar 2025 https://www.businessinsider.com
 www.businessinsider.com##.post-video-recirc
