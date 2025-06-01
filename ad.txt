@@ -46,6 +46,9 @@ www.anandabazar.com##.m_native_dfp_2_ad_wrap
 www.anandabazar.com##.motionadbox
 www.anandabazar.com##.mbannerbox
 www.anandabazar.com##.reliancetrends
+www.anandabazar.com##.paywallouterbox
+www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
+
 
 ! 2024-04-24 https://eisamay.com
 eisamay.com##.mini-tv-strip
@@ -150,6 +153,9 @@ imgur.com##.BottomRecirc
 timesofindia.indiatimes.com##.sticky_minitv
 timesofindia.indiatimes.com###poll-widget
 timesofindia.indiatimes.com##.mob-share-button
+timesofindia.indiatimes.com##.truecaller_onetap_wrapper
+om
+timesofindia.indiatimes.com##.is_ads_visible
 
 ! 7 Sept 2024 https://www.indianrail.gov.in
 www.indianrail.gov.in###askDishaSdk
@@ -211,6 +217,9 @@ www.hindustantimes.com##.pollShow
 
 ! 4 Dec 2024 https://m.rediff.com
 m.rediff.com##.adcontainer
+m.rediff.com##.advtcontainer
+m.rediff.com##.taboola_ad_container
+m.rediff.com##.advttext
 
 ! 9 Dec 2024 https://www.koimoi.com
 www.koimoi.com###after_featured_image
@@ -251,9 +260,8 @@ bangla.asianetnews.com##.gawidget_footer
 www.livemint.com##.sr1
 www.livemint.com##.btn-wrap
 www.livemint.com##.inlineTaboolaHeight
-
-! 3 Apr 2025 https://m.rediff.com
-m.rediff.com##.advtcontainer
+www.livemint.com##.openAppButton
+www.livemint.com###gift-an-article
 
 ! 3 Apr 2025 https://www.99acres.com
 www.99acres.com###smartAppBanner__container
@@ -271,3 +279,11 @@ www.independent.co.uk##.vf-tray-trigger-widget
 ! 25 May 2025 https://economictimes.indiatimes.com
 economictimes.indiatimes.com##.adContainer
 
+! 26 May 2025 https://www.moneycontrol.com
+www.moneycontrol.com##.top_header_container
+
+! 31 May 2025 https://www.indiatoday.in
+www.indiatoday.in###commentAmpRandering
+
+! 31 May 2025 https://celebjihad.com
+celebjihad.com##.lazy
