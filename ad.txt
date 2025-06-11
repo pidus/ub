@@ -4,7 +4,7 @@
 ! Expires: 24 hours
 ! License: MIT
 ! Homepage: https://github.com/pidus/ub
-! URL: https://github.com/pidus/ub/raw/master/filters.txt
+! URL: https://github.com/pidus/ub/raw/master/ad.txt
 
 ! *****Custom uBlock Origin filters*****
 
