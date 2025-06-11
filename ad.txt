@@ -102,6 +102,7 @@ www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
 xhamster.desi##.jNpF-weXlfplayer
 xhamster.desi##.jNpF-weXlfpremium-n-overlay
 xhamster.desi##.jNpF-weXlfbottom-widget-section
+xhamster.desi##.ruDg-Sng
 
 ! 10 Sept 2024 https://xhamster19.com
 ||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
@@ -262,6 +263,7 @@ www.livemint.com##.btn-wrap
 www.livemint.com##.inlineTaboolaHeight
 www.livemint.com##.openAppButton
 www.livemint.com###gift-an-article
+www.livemint.com##.inlineAds
 
 ! 3 Apr 2025 https://www.99acres.com
 www.99acres.com###smartAppBanner__container
@@ -287,3 +289,6 @@ www.indiatoday.in###commentAmpRandering
 
 ! 31 May 2025 https://celebjihad.com
 celebjihad.com##.lazy
+
+! ***More***
+www.bigbasket.com##.chakra-container
