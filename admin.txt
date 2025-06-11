@@ -1,4 +1,10 @@
-!
+[uBlock Origin]
+! Title: ⚡ uBO Filters (minified)
+! Description: Personal Filters for uBlock Origin. Alphabetical, without comments. Maintained by Pidus Redlah.
+! Expires: 24 hours
+! License: MIT
+! Homepage: https://github.com/pidus/ub
+! URL: https://github.com/pidus/ub/raw/master/admin.txt
 
 bangla.aajtak.in##.stickyFooter
 bangla.asianetnews.com##.gawidget_footer
