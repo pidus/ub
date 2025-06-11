@@ -9,7 +9,7 @@
 ! *****Custom uBlock Origin filters*****
 
 ! Block IDN:
-||xn--$doc,frame
+!||xn--$doc,frame
 
 ! click2load:
 !||$3p,frame,redirect=click2load.html
@@ -22,9 +22,9 @@
 !www.infoworld.com##html,body:style(max-width: 100% !important; overflow-x: hidden !important;)
 
 ! No WordPress actionbar:
-software.rajivprab.com###actionbar:style(display: none !important)
-eduindex.org###actionbar:style(display: none !important)
-pointieststick.com###actionbar:style(display: none !important)
+!software.rajivprab.com###actionbar:style(display: none !important)
+!eduindex.org###actionbar:style(display: none !important)
+!pointieststick.com###actionbar:style(display: none !important)
 
 ! ***All***
 
