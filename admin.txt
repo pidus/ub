@@ -80,6 +80,8 @@ www.anandabazar.com##.stkysponsor
 www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
 www.bigbasket.com##.chakra-container
 www.businessinsider.com##.post-video-recirc
+www.businessinsider.com##.as-narrow.grid-lines.bottom-section
+www.businessinsider.com##.newsletter-dynamic
 www.businesstoday.in##.amp_top_ad
 www.businesstoday.in##.install-button
 www.businesstoday.in##.stickyFooter
@@ -87,6 +89,8 @@ www.cnbctv18.com##.installdiv
 www.digitaltrends.com##.b-connatix
 www.facebook.com##.bottom.fixed-container.m
 www.forbes.com##.cnx-size-responsive.cnx-content-frame
+fortune.com##.leaderboard-ad-wrapper-parent
+fortune.com##.impression-element
 www.google.com###taw
 www.google.com##.bg9urf
 www.hindustantimes.com###htEchoArticlePromo
@@ -106,6 +110,7 @@ www.livemint.com##.inlineAds
 www.livemint.com##.inlineTaboolaHeight
 www.livemint.com##.openAppButton
 www.livemint.com##.sr1
+www.livemint.com##.subscribeNow
 www.magicbricks.com###getapp-banner
 www.moneycontrol.com##.top_header_container
 www.news18.com##.brnw_strip
@@ -120,9 +125,11 @@ www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 www.thehindu.com###articledivtrendD
 www.thehindu.com###piano-modal-paywallblock-nobg
 www.thehindu.com##.read-in-app
+www.thewall.in##.ad
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
 www.xnxx.tv###content-ad-top-zone-contener
+www.vogue.in##.StickyHeroAdWrapper-eNLJUc
 www.xvideos.com###chat-window
 www.xvideos.com##.premium-results-line
 www.xvv1deos.com###chat-window
@@ -132,6 +139,9 @@ www.xvv1deos.com##.thumb-nat-exo-ad
 www.xvv1deos.com##.video-ad
 www.99acres.com###smartAppBanner__container
 www.99acres.com##.chatBot__chatBotBox
+womenandtravel.net##.brides-cards
+womenandtravel.net##.bride-cta
+womenandtravel.net##.cpm-advertiser-disclosure
 xhamster.desi##.jNpF-weXlfbottom-widget-section
 xhamster.desi##.jNpF-weXlfplayer
 xhamster.desi##.jNpF-weXlfpremium-n-overlay
