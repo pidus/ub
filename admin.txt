@@ -79,6 +79,7 @@ www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.stkysponsor
 www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
 www.bigbasket.com##.chakra-container
+www.bleepingcomputer.com##.center-link-image
 www.businessinsider.com##.post-video-recirc
 www.businessinsider.com##.as-narrow.grid-lines.bottom-section
 www.businessinsider.com##.newsletter-dynamic
@@ -100,6 +101,7 @@ www.hindustantimes.com##.pollShow
 www.hindustantimes.com##.taboolaInine
 www.holidify.com##.ad-container
 www.independent.co.uk##.vf-tray-trigger-widget
+indiahood.in##[href="http://indiahood.page.link/ihads"]
 www.indianrail.gov.in###askDishaSdk
 www.indiatoday.in###commentAmpRandering
 www.indiatoday.in###tab-video-wrapper-plugin
