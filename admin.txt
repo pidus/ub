@@ -6,6 +6,11 @@
 ! Homepage: https://github.com/pidus/ub
 ! URL: https://github.com/pidus/ub/raw/master/admin.txt
 
+amp.scroll.in##.amp-info-block-wrapper
+auto.hindustantimes.com##.ampAds
+auto.hindustantimes.com##.lead-image-offer-wrapper
+auto.hindustantimes.com##.topGadgetsWrapper
+bangla.aajtak.in##.amp-top-ad
 bangla.aajtak.in##.stickyFooter
 bangla.asianetnews.com##.gawidget_footer
 bangla.asianetnews.com##.mobiletopad
@@ -27,6 +32,8 @@ eisamay.com##.ad-wrapper-625
 eisamay.com##.btn_openinapp
 eisamay.com##.mini-tv-strip
 eisamay.com##.top-atf-enabled-wrapper
+fortune.com##.impression-element
+fortune.com##.leaderboard-ad-wrapper-parent
 fortune.com##.trinity-player
 imgur.com##.BottomRecirc
 indiahood.in###share
@@ -34,6 +41,7 @@ indiahood.in##.ekc-close
 indiahood.in##.ffc_inline_form
 indiahood.in##.gb-button
 indiahood.in##.whatsapp-card
+indiahood.in##[href="http://indiahood.page.link/ihads"]
 m.economictimes.com###et_benefits
 m.economictimes.com###whatsapp_banner
 m.economictimes.com##.taboolaAd
@@ -44,7 +52,10 @@ m.rediff.com##.taboola_ad_container
 m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
+motoroctane.com##.s_stk
+qz.com##.ay-ad-slot
 scroll.in###inlineNewsletterSignup
+support.broadcom.com##.livesdk__invitation
 testbook.com###super-coaching
 testbook.com##.continue-app-btn
 testbook.com##.custom-banner
@@ -62,6 +73,12 @@ timesofindia.indiatimes.com##.truecaller_onetap_wrapper
 tv9bangla.com##.adsbx
 tv9bangla.com##.fixed-whatsapp
 tv9bangla.com##.nextPrevButton_Wrapper
+wbpay.in###header-notification-bar
+wbpay.in##.wp-block-wptelegram-widget-join-channel
+wiki.archlinux.org##.vector-header-container
+womenandtravel.net##.brides-cards
+womenandtravel.net##.bride-cta
+womenandtravel.net##.cpm-advertiser-disclosure
 www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.lseheader
@@ -90,8 +107,7 @@ www.cnbctv18.com##.installdiv
 www.digitaltrends.com##.b-connatix
 www.facebook.com##.bottom.fixed-container.m
 www.forbes.com##.cnx-size-responsive.cnx-content-frame
-fortune.com##.leaderboard-ad-wrapper-parent
-fortune.com##.impression-element
+www.desipapa.tv##.mo-av
 www.google.com###taw
 www.google.com##.bg9urf
 www.hindustantimes.com###htEchoArticlePromo
@@ -101,10 +117,10 @@ www.hindustantimes.com##.pollShow
 www.hindustantimes.com##.taboolaInine
 www.holidify.com##.ad-container
 www.independent.co.uk##.vf-tray-trigger-widget
-indiahood.in##[href="http://indiahood.page.link/ihads"]
 www.indianrail.gov.in###askDishaSdk
 www.indiatoday.in###commentAmpRandering
 www.indiatoday.in###tab-video-wrapper-plugin
+www.indiatoday.in##.topBanner_wrap
 www.koimoi.com###after_featured_image
 www.livemint.com###gift-an-article
 www.livemint.com##.btn-wrap
@@ -115,15 +131,25 @@ www.livemint.com##.sr1
 www.livemint.com##.subscribeNow
 www.magicbricks.com###getapp-banner
 www.moneycontrol.com##.top_header_container
+www.ndtv.com##.jiosawanwdg
+www.ndtv.com##.RdInAp_wr
 www.news18.com##.brnw_strip
 www.news18.com##.electwrapmob
 www.oliveboard.in##.openinapp
+www.outlookindia.com##.hero-ads-banner
+www.outlookindia.com##.new-ads-res
+www.outlookindia.com##.new-lhs-md-ads-res
+www.outlookindia.com##.cls1Pixel
+www.outlookindia.com##.ads-box
 www.pornhub.com##.eudsaLink
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
 www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
+www.rideapart.com##.outstream_partner
+www.rideapart.com##.widget-newsletter
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
+www.telegraphindia.com##.stkybtmadbox
 www.thehindu.com###articledivtrendD
 www.thehindu.com###piano-modal-paywallblock-nobg
 www.thehindu.com##.read-in-app
@@ -141,9 +167,6 @@ www.xvv1deos.com##.thumb-nat-exo-ad
 www.xvv1deos.com##.video-ad
 www.99acres.com###smartAppBanner__container
 www.99acres.com##.chatBot__chatBotBox
-womenandtravel.net##.brides-cards
-womenandtravel.net##.bride-cta
-womenandtravel.net##.cpm-advertiser-disclosure
 xhamster.desi##.jNpF-weXlfbottom-widget-section
 xhamster.desi##.jNpF-weXlfplayer
 xhamster.desi##.jNpF-weXlfpremium-n-overlay
@@ -159,3 +182,4 @@ xiaomitime.com##.featuredb_ad
 ||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
 ||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
 amateurphotographer.com##.ad
+
