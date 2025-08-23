@@ -183,3 +183,39 @@ xiaomitime.com##.featuredb_ad
 ||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
 amateurphotographer.com##.ad
 
+! 5 Aug 2025 https://www.newslaundry.com
+www.newslaundry.com##.story-element-jsembed
+
+! 6 Aug 2025 https://www.bollywoodshaadis.com
+www.bollywoodshaadis.com##.artcl_ad_mob
+www.bollywoodshaadis.com##.wgt_text2
+
+! 8 Aug 2025 https://bengali.news18.com
+bengali.news18.com##.mainAds_contnr
+bengali.news18.com##.mid-taboola
+
+! 9 Aug 2025 https://indianexpress.com
+indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
+
+! 10 Aug 2025 https://www.nytimes.com
+||www.tiktok.com/embed/*/$subdocument
+
+! 13 Aug 2025 https://wbpay.in
+wbpay.in##.stream-item
+
+! 15 Aug 2025 https://bangla.asianetnews.com
+bangla.asianetnews.com###vuukle-cintainer
+bangla.asianetnews.com##.downloadAppBox
+
+! 17 Aug 2025 https://www.moneycontrol.com
+||images.moneycontrol.com/images/common/header/*.svg$image
+
+! 21 Aug 2025 https://www.apollopharmacy.in
+www.apollopharmacy.in##.Up
+
+! 21 Aug 2025 https://www.anandabazar.com
+www.anandabazar.com##.leadzerobanner
+
+! 22 Aug 2025 https://tv9bangla.com
+tv9bangla.com###taboola-mid-article-personalisation
+
