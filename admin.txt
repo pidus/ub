@@ -7,6 +7,7 @@
 ! URL: https://github.com/pidus/ub/raw/master/admin.txt
 
 amp.scroll.in##.amp-info-block-wrapper
+www.allure.com##.ad
 auto.hindustantimes.com##.ampAds
 auto.hindustantimes.com##.lead-image-offer-wrapper
 auto.hindustantimes.com##.topGadgetsWrapper
@@ -27,11 +28,15 @@ bengali.news18.com##.sponsorsBannerContainer
 buy.realme.com##.btn-open-app
 buy.realme.com##.toApp-header
 celebjihad.com##.lazy
+digitalsynopsis.com##.site-header
 economictimes.indiatimes.com##.adContainer
 eisamay.com##.ad-wrapper-625
+eisamay.com##.aside-collection-ad-slot
 eisamay.com##.btn_openinapp
 eisamay.com##.mini-tv-strip
 eisamay.com##.top-atf-enabled-wrapper
+ek24.in##.float_inb_join
+ek24.in##.ss-main
 fortune.com##.impression-element
 fortune.com##.leaderboard-ad-wrapper-parent
 fortune.com##.trinity-player
@@ -54,6 +59,8 @@ m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
 motoroctane.com##.s_stk
 qz.com##.ay-ad-slot
+www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
+www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
 scroll.in###inlineNewsletterSignup
 support.broadcom.com##.livesdk__invitation
 testbook.com###super-coaching
