@@ -48,6 +48,7 @@ indiahood.in##.ffc_inline_form
 indiahood.in##.gb-button
 indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
+indianexpress.com##.budget-band
 m.economictimes.com###et_benefits
 m.economictimes.com###whatsapp_banner
 m.economictimes.com##.taboolaAd
@@ -74,6 +75,8 @@ testbook.com##.targetAppDownloadUrl
 testbook.com##.whatsAppFixed
 theprint.in##.code-block
 timesofindia.indiatimes.com###poll-widget
+timesofindia.indiatimes.com##.ampv3-ad
+timesofindia.indiatimes.com##.button_wrapper
 timesofindia.indiatimes.com##.is_ads_visible
 timesofindia.indiatimes.com##.mob-share-button
 timesofindia.indiatimes.com##.sticky_minitv
@@ -88,6 +91,7 @@ womenandtravel.net##.brides-cards
 womenandtravel.net##.bride-cta
 womenandtravel.net##.cpm-advertiser-disclosure
 www.androidpolice.com###adsninja-below-main-pic
+www.anandabazar.com##.auwidgetheadouter
 www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.lseheader
 www.anandabazar.com##.lsesponsorbox
