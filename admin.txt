@@ -61,6 +61,7 @@ indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
 indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
+m.economictimes.com##.ctnAd
 m.economictimes.com###et_benefits
 m.economictimes.com###whatsapp_banner
 m.economictimes.com##.taboolaAd
@@ -72,7 +73,6 @@ m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
 motoroctane.com##.s_stk
-
 qz.com##.ay-ad-slot
 scroll.in###inlineNewsletterSignup
 support.broadcom.com##.livesdk__invitation
