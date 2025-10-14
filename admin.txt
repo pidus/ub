@@ -6,8 +6,15 @@
 ! Homepage: https://github.com/pidus/ub
 ! URL: https://github.com/pidus/ub/raw/master/admin.txt
 
+||e.tv9hindi.com/bn/tv9bangla/elections/sponsor-banner$subdocument
+||images.moneycontrol.com/images/common/header/*.svg$image
+||myflixerx.to/assets/_bnx/mangafire_7xx.gif$image
+||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
+||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
+||www.tiktok.com/embed/*/$subdocument
+
+amateurphotographer.com##.ad
 amp.scroll.in##.amp-info-block-wrapper
-www.allure.com##.ad
 auto.hindustantimes.com##.ampAds
 auto.hindustantimes.com##.lead-image-offer-wrapper
 auto.hindustantimes.com##.topGadgetsWrapper
@@ -15,6 +22,8 @@ bangla.aajtak.in##.amp-top-ad
 bangla.aajtak.in##.stickyFooter
 bangla.asianetnews.com##.gawidget_footer
 bangla.asianetnews.com##.mobiletopad
+bangla.asianetnews.com##.downloadAppBox
+bangla.asianetnews.com###vuukle-cintainer
 bangla.hindustantimes.com##.newSocialIcons
 bangla.hindustantimes.com##.promotionDurgaBannerMobile
 bangla.hindustantimes.com##.whatsUpBanner
@@ -23,6 +32,8 @@ bengali.indianexpress.com##.my-float
 bengali.news18.com##.add_container-pht
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.instlappbtn
+bengali.news18.com##.mainAds_contnr
+bengali.news18.com##.mid-taboola
 bengali.news18.com##.opnapp
 bengali.news18.com##.social_share_sec
 bengali.news18.com##.sponsorsBannerContainer
@@ -49,6 +60,7 @@ indiahood.in##.gb-button
 indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
+indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
 m.economictimes.com###et_benefits
 m.economictimes.com###whatsapp_banner
 m.economictimes.com##.taboolaAd
@@ -60,9 +72,8 @@ m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
 motoroctane.com##.s_stk
+
 qz.com##.ay-ad-slot
-www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
-www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
 scroll.in###inlineNewsletterSignup
 support.broadcom.com##.livesdk__invitation
 testbook.com###super-coaching
@@ -85,15 +96,29 @@ timesofindia.indiatimes.com##.truecaller_onetap_wrapper
 tv9bangla.com##.adsbx
 tv9bangla.com##.fixed-whatsapp
 tv9bangla.com##.nextPrevButton_Wrapper
+tv9bangla.com###taboola-mid-article-personalisation
+wbpay.in##.stream-item
 wbpay.in###header-notification-bar
 wbpay.in##.wp-block-wptelegram-widget-join-channel
 wiki.archlinux.org##.vector-header-container
 womenandtravel.net##.brides-cards
 womenandtravel.net##.bride-cta
 womenandtravel.net##.cpm-advertiser-disclosure
+xhamster.desi##.jNpF-weXlfbottom-widget-section
+xhamster.desi##.jNpF-weXlfplayer
+xhamster.desi##.jNpF-weXlfpremium-n-overlay
+xhamster.desi##.MHn-ogCf
+xhamster.desi##.MHn-ogCf--middle
+xhamster.desi##.ruDg-Sng
+xhamster.desi##.root-7ae27
+xiaomitime.com##.bottom_fixad
+xiaomitime.com##.featuredb_ad
+
+www.allure.com##.ad
 www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.articlestkyfooter
 www.anandabazar.com##.auwidgetheadouter
+www.anandabazar.com##.leadzerobanner
 www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.lseheader
 www.anandabazar.com##.lsesponsorbox
@@ -109,8 +134,11 @@ www.anandabazar.com##.sec-stiky-BB-slot
 www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.stkysponsor
 www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
+www.apollopharmacy.in##.Up
 www.bigbasket.com##.chakra-container
 www.bleepingcomputer.com##.center-link-image
+www.bollywoodshaadis.com##.artcl_ad_mob
+www.bollywoodshaadis.com##.wgt_text2
 www.businessinsider.com##.post-video-recirc
 www.businessinsider.com##.as-narrow.grid-lines.bottom-section
 www.businessinsider.com##.newsletter-dynamic
@@ -151,6 +179,7 @@ www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
 www.news18.com##.brnw_strip
 www.news18.com##.electwrapmob
+www.newslaundry.com##.story-element-jsembed
 www.oliveboard.in##.openinapp
 www.outlookindia.com##.hero-ads-banner
 www.outlookindia.com##.new-ads-res
@@ -158,6 +187,8 @@ www.outlookindia.com##.new-lhs-md-ads-res
 www.outlookindia.com##.cls1Pixel
 www.outlookindia.com##.ads-box
 www.pornhub.com##.eudsaLink
+www.pornwhite.com##.container-side
+www.pornwhite.com##.pre-items
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
 www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
@@ -167,6 +198,8 @@ www.rogerebert.com###ReviewInlineVideoContainer
 www.sangbadpratidin.in##.ad
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
+www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
+www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
 www.telegraphindia.com##.stkybtmadbox
 www.thehindu.com###articledivtrendD
 www.thehindu.com###piano-modal-paywallblock-nobg
@@ -188,55 +221,3 @@ www.xvv1deos.com##.thumb-nat-exo-ad
 www.xvv1deos.com##.video-ad
 www.99acres.com###smartAppBanner__container
 www.99acres.com##.chatBot__chatBotBox
-xhamster.desi##.jNpF-weXlfbottom-widget-section
-xhamster.desi##.jNpF-weXlfplayer
-xhamster.desi##.jNpF-weXlfpremium-n-overlay
-xhamster.desi##.MHn-ogCf
-xhamster.desi##.MHn-ogCf--middle
-xhamster.desi##.ruDg-Sng
-xhamster.desi##.root-7ae27
-xiaomitime.com##.bottom_fixad
-xiaomitime.com##.featuredb_ad
-
-||e.tv9hindi.com/bn/tv9bangla/elections/sponsor-banner$subdocument
-||myflixerx.to/assets/_bnx/mangafire_7xx.gif$image
-||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
-||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
-amateurphotographer.com##.ad
-
-! 5 Aug 2025 https://www.newslaundry.com
-www.newslaundry.com##.story-element-jsembed
-
-! 6 Aug 2025 https://www.bollywoodshaadis.com
-www.bollywoodshaadis.com##.artcl_ad_mob
-www.bollywoodshaadis.com##.wgt_text2
-
-! 8 Aug 2025 https://bengali.news18.com
-bengali.news18.com##.mainAds_contnr
-bengali.news18.com##.mid-taboola
-
-! 9 Aug 2025 https://indianexpress.com
-indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
-
-! 10 Aug 2025 https://www.nytimes.com
-||www.tiktok.com/embed/*/$subdocument
-
-! 13 Aug 2025 https://wbpay.in
-wbpay.in##.stream-item
-
-! 15 Aug 2025 https://bangla.asianetnews.com
-bangla.asianetnews.com###vuukle-cintainer
-bangla.asianetnews.com##.downloadAppBox
-
-! 17 Aug 2025 https://www.moneycontrol.com
-||images.moneycontrol.com/images/common/header/*.svg$image
-
-! 21 Aug 2025 https://www.apollopharmacy.in
-www.apollopharmacy.in##.Up
-
-! 21 Aug 2025 https://www.anandabazar.com
-www.anandabazar.com##.leadzerobanner
-
-! 22 Aug 2025 https://tv9bangla.com
-tv9bangla.com###taboola-mid-article-personalisation
-
