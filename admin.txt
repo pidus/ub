@@ -76,6 +76,7 @@ testbook.com##.whatsAppFixed
 theprint.in##.code-block
 timesofindia.indiatimes.com###poll-widget
 timesofindia.indiatimes.com##.ampv3-ad
+timesofindia.indiatimes.com###iccIPLWPLliveWidget
 timesofindia.indiatimes.com##.button_wrapper
 timesofindia.indiatimes.com##.is_ads_visible
 timesofindia.indiatimes.com##.mob-share-button
@@ -91,6 +92,7 @@ womenandtravel.net##.brides-cards
 womenandtravel.net##.bride-cta
 womenandtravel.net##.cpm-advertiser-disclosure
 www.androidpolice.com###adsninja-below-main-pic
+www.anandabazar.com##.articlestkyfooter
 www.anandabazar.com##.auwidgetheadouter
 www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.lseheader
@@ -129,6 +131,7 @@ www.hindustantimes.com##.openAppButtonEcho
 www.hindustantimes.com##.pollShow
 www.hindustantimes.com##.taboolaInine
 www.holidify.com##.ad-container
+www.howtogeek.com##.video.display-card
 www.independent.co.uk##.vf-tray-trigger-widget
 www.indianrail.gov.in###askDishaSdk
 www.indiatoday.in###commentAmpRandering
@@ -161,6 +164,7 @@ www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
 www.rideapart.com##.outstream_partner
 www.rideapart.com##.widget-newsletter
 www.rogerebert.com###ReviewInlineVideoContainer
+www.sangbadpratidin.in##.ad
 www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 www.telegraphindia.com##.stkybtmadbox
@@ -171,8 +175,11 @@ www.thewall.in##.ad
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
 www.xnxx.tv###content-ad-top-zone-contener
+www.vogue.in##.ad-height-hold
+www.vogue.in##.journey-unit__container
 www.vogue.in##.StickyHeroAdWrapper-eNLJUc
 www.xvideos.com###chat-window
+www.xvideos.com###mobile-header-links
 www.xvideos.com##.premium-results-line
 www.xvv1deos.com###chat-window
 www.xvv1deos.com##.premium-results-line
