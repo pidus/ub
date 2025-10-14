@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Title: ⚡ uBO Filters (minified)
+! Title: ⚡ Personal uBO Filters ⚡
 ! Description: Personal Filters for uBlock Origin. Alphabetical, without comments. Maintained by Pidus Redlah.
 ! Expires: 24 hours
 ! License: MIT
