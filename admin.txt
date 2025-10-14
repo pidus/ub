@@ -1,6 +1,6 @@
 [uBlock Origin]
 ! Title: ⚡ Personal uBO Filters ⚡
-! Description: Personal Filters for uBlock Origin. Alphabetical, without comments. Maintained by Pidus Redlah.
+! Description: Personal filters for uBlock Origin. Alphabetical, without comments. Maintained by Pidus Redlah.
 ! Expires: 24 hours
 ! License: MIT
 ! Homepage: https://github.com/pidus/ub
@@ -200,6 +200,7 @@ www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
 www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
+www.straitstimes.com##.article-ads-wrapper
 www.telegraphindia.com##.stkybtmadbox
 www.thehindu.com###articledivtrendD
 www.thehindu.com###piano-modal-paywallblock-nobg
