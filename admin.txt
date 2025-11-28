@@ -14,6 +14,8 @@
 ||www.tiktok.com/embed/*/$subdocument
 
 amateurphotographer.com##.ad
+amp.scmp.com##.promotion-cta
+amp.scmp.com###share-menu-floating
 amp.scroll.in##.amp-info-block-wrapper
 auto.hindustantimes.com##.ampAds
 auto.hindustantimes.com##.lead-image-offer-wrapper
@@ -28,6 +30,9 @@ bangla.hindustantimes.com##.newSocialIcons
 bangla.hindustantimes.com##.promotionDurgaBannerMobile
 bangla.hindustantimes.com##.whatsUpBanner
 bangla.hindustantimes.com##p:nth-of-type(n+7)
+bengali.abplive.com##.ad-labels
+bengali.abplive.com##.preferred-bar-rhs
+bengali.abplive.com##.sp-taboola
 bengali.indianexpress.com##.my-float
 bengali.news18.com##.add_container-pht
 bengali.news18.com##.ftrstkyad
@@ -88,6 +93,7 @@ theprint.in##.code-block
 timesofindia.indiatimes.com###poll-widget
 timesofindia.indiatimes.com##.ampv3-ad
 timesofindia.indiatimes.com###iccIPLWPLliveWidget
+timesofindia.indiatimes.com###floatctadefault
 timesofindia.indiatimes.com##.button_wrapper
 timesofindia.indiatimes.com##.is_ads_visible
 timesofindia.indiatimes.com##.mob-share-button
@@ -96,6 +102,7 @@ timesofindia.indiatimes.com##.truecaller_onetap_wrapper
 tv9bangla.com##.adsbx
 tv9bangla.com##.fixed-whatsapp
 tv9bangla.com##.nextPrevButton_Wrapper
+tv9bangla.com##.sticky_buttons
 tv9bangla.com###taboola-mid-article-personalisation
 wbpay.in##.stream-item
 wbpay.in###header-notification-bar
@@ -114,6 +121,9 @@ xhamster.desi##.root-7ae27
 xiaomitime.com##.bottom_fixad
 xiaomitime.com##.featuredb_ad
 
+www.aajkaal.in##.advertisement
+www.afaqs.com##.article-amp-mid-ads-style
+www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
 www.allure.com##.ad
 www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.articlestkyfooter
@@ -155,6 +165,7 @@ www.google.com###taw
 www.google.com##.bg9urf
 www.hindustantimes.com###htEchoArticlePromo
 www.hindustantimes.com##.mb20.mt10
+www.hindustantimes.com##.mWebTopAdSticky
 www.hindustantimes.com##.openAppButtonEcho
 www.hindustantimes.com##.pollShow
 www.hindustantimes.com##.taboolaInine
@@ -166,6 +177,7 @@ www.indiatoday.in###commentAmpRandering
 www.indiatoday.in###tab-video-wrapper-plugin
 www.indiatoday.in##.topBanner_wrap
 www.koimoi.com###after_featured_image
+www.livemint.com##.adContainer
 www.livemint.com###gift-an-article
 www.livemint.com##.btn-wrap
 www.livemint.com##.inlineAds
@@ -174,6 +186,7 @@ www.livemint.com##.openAppButton
 www.livemint.com##.sr1
 www.livemint.com##.subscribeNow
 www.magicbricks.com###getapp-banner
+www.moneycontrol.com##.css_instant_loan
 www.moneycontrol.com##.top_header_container
 www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
@@ -219,6 +232,7 @@ www.xvv1deos.com###chat-window
 www.xvv1deos.com##.premium-results-line
 www.xvv1deos.com##.remove-ads
 www.xvv1deos.com##.thumb-nat-exo-ad
+
 www.xvv1deos.com##.video-ad
 www.99acres.com###smartAppBanner__container
 www.99acres.com##.chatBot__chatBotBox
