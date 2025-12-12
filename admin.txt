@@ -66,6 +66,9 @@ indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
 indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
+janaushadhi.gov.in##.bhashini-dropdown-btn
+janaushadhi.gov.in##.chat_and_stauts_btn
+janaushadhi.gov.in##.jana_social_icons
 m.economictimes.com##.ctnAd
 m.economictimes.com###et_benefits
 m.economictimes.com###whatsapp_banner
@@ -163,12 +166,14 @@ www.forbes.com##.cnx-size-responsive.cnx-content-frame
 www.desipapa.tv##.mo-av
 www.google.com###taw
 www.google.com##.bg9urf
-www.hindustantimes.com###htEchoArticlePromo
+www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.mb20.mt10
 www.hindustantimes.com##.mWebTopAdSticky
 www.hindustantimes.com##.openAppButtonEcho
 www.hindustantimes.com##.pollShow
+www.hindustantimes.com##.story_progress_bar
 www.hindustantimes.com##.taboolaInine
+www.hindustantimes.com###htEchoArticlePromo
 www.holidify.com##.ad-container
 www.howtogeek.com##.video.display-card
 www.independent.co.uk##.vf-tray-trigger-widget
@@ -232,7 +237,6 @@ www.xvv1deos.com###chat-window
 www.xvv1deos.com##.premium-results-line
 www.xvv1deos.com##.remove-ads
 www.xvv1deos.com##.thumb-nat-exo-ad
-
 www.xvv1deos.com##.video-ad
 www.99acres.com###smartAppBanner__container
 www.99acres.com##.chatBot__chatBotBox
