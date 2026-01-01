@@ -11,6 +11,7 @@
 ||myflixerx.to/assets/_bnx/mangafire_7xx.gif$image
 ||sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_*/https://www.psypost.org/wp-content/uploads/*/*/follow-on-google-news-1*.png$image
 ||static-ah.xhcdn.com/xh-desktop/images/assets/cube/cube_dark.webp$image
+||www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
 ||www.tiktok.com/embed/*/$subdocument
 
 amateurphotographer.com##.ad
@@ -126,7 +127,7 @@ xhamster.desi##.ruDg-Sng
 xhamster.desi##.root-7ae27
 xiaomitime.com##.bottom_fixad
 xiaomitime.com##.featuredb_ad
-
+! www...
 www.aajkaal.in##.advertisement
 www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
@@ -149,7 +150,6 @@ www.anandabazar.com##.reliancetrends
 www.anandabazar.com##.sec-stiky-BB-slot
 www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.stkysponsor
-www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
 www.apollopharmacy.in##.Up
 www.bigbasket.com##.chakra-container
 www.bleepingcomputer.com##.center-link-image
