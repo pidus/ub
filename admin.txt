@@ -31,6 +31,7 @@ bangla.hindustantimes.com##.promotionDurgaBannerMobile
 bangla.hindustantimes.com##.whatsUpBanner
 bangla.hindustantimes.com##p:nth-of-type(n+7)
 bengali.abplive.com##.ad-labels
+bengali.abplive.com##.middle-ad-btf-wrapper
 bengali.abplive.com##.preferred-bar-rhs
 bengali.abplive.com##.sp-taboola
 bengali.indianexpress.com##.my-float
@@ -57,6 +58,7 @@ ek24.in##.ss-main
 fortune.com##.impression-element
 fortune.com##.leaderboard-ad-wrapper-parent
 fortune.com##.trinity-player
+fortune.com###related-video
 imgur.com##.BottomRecirc
 indiahood.in###share
 indiahood.in##.ekc-close
@@ -102,6 +104,7 @@ timesofindia.indiatimes.com##.is_ads_visible
 timesofindia.indiatimes.com##.mob-share-button
 timesofindia.indiatimes.com##.sticky_minitv
 timesofindia.indiatimes.com##.truecaller_onetap_wrapper
+theprint.in##.topsupport
 tv9bangla.com##.adsbx
 tv9bangla.com##.fixed-whatsapp
 tv9bangla.com##.nextPrevButton_Wrapper
@@ -167,6 +170,7 @@ www.desipapa.tv##.mo-av
 www.google.com###taw
 www.google.com##.bg9urf
 www.hindustantimes.com##.bottomFixAd
+www.hindustantimes.com##.bottomMenu
 www.hindustantimes.com##.mb20.mt10
 www.hindustantimes.com##.mWebTopAdSticky
 www.hindustantimes.com##.openAppButtonEcho
@@ -190,6 +194,7 @@ www.livemint.com##.inlineTaboolaHeight
 www.livemint.com##.openAppButton
 www.livemint.com##.sr1
 www.livemint.com##.subscribeNow
+www.livemint.com###btmMenuDiv
 www.magicbricks.com###getapp-banner
 www.moneycontrol.com##.css_instant_loan
 www.moneycontrol.com##.top_header_container
@@ -197,6 +202,7 @@ www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
 www.news18.com##.brnw_strip
 www.news18.com##.electwrapmob
+www.news18.com##.play_games_floating
 www.newslaundry.com##.story-element-jsembed
 www.oliveboard.in##.openinapp
 www.outlookindia.com##.hero-ads-banner
@@ -226,6 +232,7 @@ www.thehindu.com##.read-in-app
 www.thewall.in##.ad
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
+www.tribuneindia.com##.premium-box
 www.xnxx.tv###content-ad-top-zone-contener
 www.vogue.in##.ad-height-hold
 www.vogue.in##.journey-unit__container
