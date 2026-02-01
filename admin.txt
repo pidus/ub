@@ -21,6 +21,7 @@ amp.scroll.in##.amp-info-block-wrapper
 auto.hindustantimes.com##.ampAds
 auto.hindustantimes.com##.lead-image-offer-wrapper
 auto.hindustantimes.com##.topGadgetsWrapper
+banglahunt.com##.float-social-wrapper
 bangla.aajtak.in##.amp-top-ad
 bangla.aajtak.in##.stickyFooter
 bangla.asianetnews.com##.gawidget_footer
@@ -69,9 +70,14 @@ indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
 indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
+janaushadhi.gov.in##.backtopbtn
+janaushadhi.gov.in##.app_no-icon
+janaushadhi.gov.in##.icon_chatbot_box
 janaushadhi.gov.in##.bhashini-dropdown-btn
 janaushadhi.gov.in##.chat_and_stauts_btn
 janaushadhi.gov.in##.jana_social_icons
+maritime-executive.com##.add
+maritime-executive.com##.med-signup-sidebar
 m.economictimes.com##.ctnAd
 m.economictimes.com###et_benefits
 m.economictimes.com###whatsapp_banner
@@ -84,6 +90,7 @@ m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
 motoroctane.com##.s_stk
+news.careers360.com###trusted-fixed
 qz.com##.ay-ad-slot
 scroll.in###inlineNewsletterSignup
 support.broadcom.com##.livesdk__invitation
@@ -151,6 +158,7 @@ www.anandabazar.com##.sec-stiky-BB-slot
 www.anandabazar.com##.stkyadbox
 www.anandabazar.com##.stkysponsor
 www.apollopharmacy.in##.Up
+www.banglatribune.com###walton_300x100
 www.bigbasket.com##.chakra-container
 www.bleepingcomputer.com##.center-link-image
 www.bollywoodshaadis.com##.artcl_ad_mob
@@ -164,6 +172,7 @@ www.businesstoday.in##.stickyFooter
 www.cnbctv18.com##.installdiv
 www.digitaltrends.com##.b-connatix
 www.facebook.com##.bottom.fixed-container.m
+www.financialexpress.com###marketDataBtn
 www.firstpost.com###floatingIcon
 www.forbes.com##.cnx-size-responsive.cnx-content-frame
 www.desipapa.tv##.mo-av
@@ -171,6 +180,7 @@ www.google.com###taw
 www.google.com##.bg9urf
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.bottomMenu
+www.hindustantimes.com##.embed_div
 www.hindustantimes.com##.mb20.mt10
 www.hindustantimes.com##.mWebTopAdSticky
 www.hindustantimes.com##.openAppButtonEcho
@@ -224,6 +234,7 @@ www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
 www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
+www.straitstimes.com###am-widget
 www.straitstimes.com##.article-ads-wrapper
 www.telegraphindia.com##.stkybtmadbox
 www.thehindu.com###articledivtrendD
@@ -239,6 +250,7 @@ www.vogue.in##.journey-unit__container
 www.vogue.in##.StickyHeroAdWrapper-eNLJUc
 www.xvideos.com###chat-window
 www.xvideos.com###mobile-header-links
+www.xvideos.com##.icf-comments-o
 www.xvideos.com##.premium-results-line
 www.xvv1deos.com###chat-window
 www.xvv1deos.com##.premium-results-line
