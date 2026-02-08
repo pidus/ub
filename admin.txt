@@ -37,6 +37,8 @@ bengali.abplive.com##.middle-ad-btf-wrapper
 bengali.abplive.com##.preferred-bar-rhs
 bengali.abplive.com##.sp-taboola
 bengali.indianexpress.com##.my-float
+bengali.news18.com##.fbn-ad
+bengali.news18.com##.taboola_home
 bengali.news18.com##.add_container-pht
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.instlappbtn
