@@ -91,6 +91,7 @@ m.rediff.com##.taboola_ad_container
 m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
+m.thewire.in##.pref_src_main_container
 motoroctane.com##.s_stk
 news.careers360.com###trusted-fixed
 qz.com##.ay-ad-slot
