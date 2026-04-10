@@ -50,6 +50,7 @@ bengali.news18.com##.sponsorsBannerContainer
 buy.realme.com##.btn-open-app
 buy.realme.com##.toApp-header
 celebjihad.com##.lazy
+collider.com##.video.display-card
 digitalsynopsis.com##.site-header
 economictimes.indiatimes.com##.adContainer
 eisamay.com##.ad-wrapper-625
@@ -68,6 +69,7 @@ indiahood.in###share
 indiahood.in##.ekc-close
 indiahood.in##.ffc_inline_form
 indiahood.in##.gb-button
+indiahood.in##.googlePrefStickyMob
 indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
@@ -118,6 +120,7 @@ timesofindia.indiatimes.com##.truecaller_onetap_wrapper
 theprint.in##.topsupport
 tv9bangla.com##.adsbx
 tv9bangla.com##.fixed-whatsapp
+tv9bangla.com##.googlePrefStickyMob
 tv9bangla.com##.nextPrevButton_Wrapper
 tv9bangla.com##.sticky_buttons
 tv9bangla.com###taboola-mid-article-personalisation
@@ -197,6 +200,7 @@ www.independent.co.uk##.vf-tray-trigger-widget
 www.indianrail.gov.in###askDishaSdk
 www.indiatoday.in###commentAmpRandering
 www.indiatoday.in###tab-video-wrapper-plugin
+www.indiatoday.in##.stickyai_strip
 www.indiatoday.in##.topBanner_wrap
 www.koimoi.com###after_featured_image
 www.livemint.com##.adContainer
@@ -209,6 +213,8 @@ www.livemint.com##.sr1
 www.livemint.com##.subscribeNow
 www.livemint.com###btmMenuDiv
 www.magicbricks.com###getapp-banner
+www.moneycontrol.com##.btm_img_1
+www.moneycontrol.com##.btm_img_2
 www.moneycontrol.com##.css_instant_loan
 www.moneycontrol.com##.top_header_container
 www.ndtv.com##.jiosawanwdg
@@ -229,6 +235,7 @@ www.pornwhite.com##.pre-items
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
 www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
+www.reliancedigital.in##.sa-live-call-widget-btn
 www.rideapart.com##.outstream_partner
 www.rideapart.com##.widget-newsletter
 www.rogerebert.com###ReviewInlineVideoContainer
@@ -237,6 +244,8 @@ www.sangbadpratidin.in##.ad_970
 www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
 www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
 www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
+www.ssbcrack.com##.mxnehncidh
+www.ssbcrack.com##.product-scroll-wrapper
 www.straitstimes.com###am-widget
 www.straitstimes.com##.article-ads-wrapper
 www.telegraphindia.com##.stkybtmadbox
@@ -246,11 +255,14 @@ www.thehindu.com##.read-in-app
 www.thewall.in##.ad
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
+www.trendingtopics.eu##.ad
+www.tribuneindia.com##.custom-icon-fixed
 www.tribuneindia.com##.premium-box
 www.xnxx.tv###content-ad-top-zone-contener
 www.vogue.in##.ad-height-hold
 www.vogue.in##.journey-unit__container
 www.vogue.in##.StickyHeroAdWrapper-eNLJUc
+www.windowscentral.com###viafoura-engagement-starter-wrapper
 www.xvideos.com###chat-window
 www.xvideos.com###mobile-header-links
 www.xvideos.com##.icf-comments-o
