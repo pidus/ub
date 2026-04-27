@@ -108,6 +108,7 @@ testbook.com##.super-banner-qna
 testbook.com##.targetAppDownloadUrl
 testbook.com##.whatsAppFixed
 theprint.in##.code-block
+timesofindia.indiatimes.com###operating-system
 timesofindia.indiatimes.com###poll-widget
 timesofindia.indiatimes.com##.ampv3-ad
 timesofindia.indiatimes.com###iccIPLWPLliveWidget
@@ -169,6 +170,7 @@ www.bigbasket.com##.chakra-container
 www.bleepingcomputer.com##.center-link-image
 www.bollywoodshaadis.com##.artcl_ad_mob
 www.bollywoodshaadis.com##.wgt_text2
+www.businessinsider.com##.audio-player-container
 www.businessinsider.com##.post-video-recirc
 www.businessinsider.com##.as-narrow.grid-lines.bottom-section
 www.businessinsider.com##.newsletter-dynamic
@@ -238,6 +240,7 @@ www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
 www.reliancedigital.in##.sa-live-call-widget-btn
 www.rideapart.com##.outstream_partner
 www.rideapart.com##.widget-newsletter
+www.republicworld.com##.ampmobile
 www.rogerebert.com###ReviewInlineVideoContainer
 www.sangbadpratidin.in##.ad
 www.sangbadpratidin.in##.ad_970
