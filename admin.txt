@@ -51,6 +51,7 @@ buy.realme.com##.btn-open-app
 buy.realme.com##.toApp-header
 celebjihad.com##.lazy
 collider.com##.video.display-card
+crex.com##.follow-btn
 digitalsynopsis.com##.site-header
 economictimes.indiatimes.com##.adContainer
 eisamay.com##.ad-wrapper-625
@@ -186,6 +187,7 @@ www.forbes.com##.cnx-size-responsive.cnx-content-frame
 www.desipapa.tv##.mo-av
 www.google.com###taw
 www.google.com##.bg9urf
+www.hindustantimes.com##.dHide
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.bottomMenu
 www.hindustantimes.com##.embed_div
@@ -226,6 +228,7 @@ www.news18.com##.electwrapmob
 www.news18.com##.play_games_floating
 www.newslaundry.com##.story-element-jsembed
 www.oliveboard.in##.openinapp
+www.outlookbusiness.com##.ads-indicator
 www.outlookindia.com##.hero-ads-banner
 www.outlookindia.com##.new-ads-res
 www.outlookindia.com##.new-lhs-md-ads-res
