@@ -51,6 +51,7 @@ buy.realme.com##.btn-open-app
 buy.realme.com##.toApp-header
 celebjihad.com##.lazy
 collider.com##.video.display-card
+crex.com##.ad-parent
 crex.com##.follow-btn
 digitalsynopsis.com##.site-header
 economictimes.indiatimes.com##.adContainer
@@ -223,6 +224,7 @@ www.moneycontrol.com##.css_instant_loan
 www.moneycontrol.com##.top_header_container
 www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
+www.news18.com###app_install_float
 www.news18.com##.brnw_strip
 www.news18.com##.electwrapmob
 www.news18.com##.play_games_floating
@@ -259,6 +261,7 @@ www.thehindu.com###articledivtrendD
 www.thehindu.com###piano-modal-paywallblock-nobg
 www.thehindu.com##.read-in-app
 www.thewall.in##.ad
+www.thewall.in##.google-float-banner
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
 www.trendingtopics.eu##.ad
