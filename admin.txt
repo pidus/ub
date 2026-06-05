@@ -188,6 +188,7 @@ www.forbes.com##.cnx-size-responsive.cnx-content-frame
 www.desipapa.tv##.mo-av
 www.google.com###taw
 www.google.com##.bg9urf
+www.greaterkashmir.com##.article-amp-mid-ads-style
 www.hindustantimes.com##.dHide
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.bottomMenu
@@ -262,6 +263,7 @@ www.thehindu.com###piano-modal-paywallblock-nobg
 www.thehindu.com##.read-in-app
 www.thewall.in##.ad
 www.thewall.in##.google-float-banner
+www.thewall.in##.mobile-sticky-ad
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
 www.trendingtopics.eu##.ad
