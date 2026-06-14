@@ -21,6 +21,7 @@ amp.scroll.in##.amp-info-block-wrapper
 auto.hindustantimes.com##.ampAds
 auto.hindustantimes.com##.lead-image-offer-wrapper
 auto.hindustantimes.com##.topGadgetsWrapper
+banglahunt.com##.app-install-btn
 banglahunt.com##.float-social-wrapper
 bangla.aajtak.in##.amp-top-ad
 bangla.aajtak.in##.stickyFooter
@@ -149,6 +150,7 @@ www.aajkaal.in##.advertisement
 www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
 www.allure.com##.ad
+www.aljazeera.com##.amp-leaderboard-atf
 www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.articlestkyfooter
 www.anandabazar.com##.auwidgetheadouter
