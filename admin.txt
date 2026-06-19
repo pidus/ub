@@ -39,16 +39,17 @@ bengali.abplive.com##.preferred-bar-rhs
 bengali.abplive.com##.sp-taboola
 bengali.indianexpress.com##.my-float
 bengali.news18.com###app-install-modal
-bengali.news18.com##.fbn-ad
-bengali.news18.com##.taboola_home
 bengali.news18.com##.add_container-pht
+bengali.news18.com##.fbn-ad
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.mainAds_contnr
 bengali.news18.com##.mid-taboola
 bengali.news18.com##.opnapp
+bengali.news18.com##.outstrem
 bengali.news18.com##.social_share_sec
 bengali.news18.com##.sponsorsBannerContainer
+bengali.news18.com##.taboola_home
 buy.realme.com##.btn-open-app
 buy.realme.com##.toApp-header
 celebjihad.com##.lazy
@@ -84,6 +85,7 @@ janaushadhi.gov.in##.icon_chatbot_box
 janaushadhi.gov.in##.bhashini-dropdown-btn
 janaushadhi.gov.in##.chat_and_stauts_btn
 janaushadhi.gov.in##.jana_social_icons
+linuxblog.io##.hayden-after-paragraph
 maritime-executive.com##.add
 maritime-executive.com##.med-signup-sidebar
 m.economictimes.com##.ctnAd
@@ -184,6 +186,9 @@ www.businesstoday.in##.install-button
 www.businesstoday.in##.stickyFooter
 www.cnbctv18.com##.installdiv
 www.digitaltrends.com##.b-connatix
+www.edutips.in###ekap
+www.edutips.in###tgap
+www.edutips.in##.tb-social-fixed-wrapper
 www.facebook.com##.bottom.fixed-container.m
 www.financialexpress.com###marketDataBtn
 www.firstpost.com###floatingIcon
