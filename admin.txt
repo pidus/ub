@@ -99,6 +99,7 @@ m.rediff.com##.taboola_ad_container
 m.sangbadpratidin.in##.amp_Ad
 m.sangbadpratidin.in##.amp_Ad_4
 m.sangbadpratidin.in##.fullwidth_notifications
+m.sangbadpratidin.in##.shono_sec
 m.thewire.in##.pref_src_main_container
 motoroctane.com##.s_stk
 news.careers360.com###trusted-fixed
@@ -124,6 +125,7 @@ timesofindia.indiatimes.com##.is_ads_visible
 timesofindia.indiatimes.com##.mob-share-button
 timesofindia.indiatimes.com##.sticky_minitv
 timesofindia.indiatimes.com##.truecaller_onetap_wrapper
+thehill.com##.nlp-ignore-block
 theprint.in##.topsupport
 tv9bangla.com##.adsbx
 tv9bangla.com##.fixed-whatsapp
