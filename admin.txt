@@ -250,6 +250,7 @@ www.outlookindia.com##.ads-box
 www.pornhub.com##.eudsaLink
 www.pornwhite.com##.container-side
 www.pornwhite.com##.pre-items
+www.psychologytoday.com##.find-therapist
 www.psychologytoday.com##.find-therapist-subheader-block
 www.psychologytoday.com##.jumbotron
 www.psypost.org##[href="https://www.linkedin.com/company/psypost/"]
