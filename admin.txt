@@ -37,6 +37,7 @@ bengali.abplive.com##.ad-labels
 bengali.abplive.com##.middle-ad-btf-wrapper
 bengali.abplive.com##.preferred-bar-rhs
 bengali.abplive.com##.sp-taboola
+bengali.abplive.com##.tw_filter_info
 bengali.indianexpress.com##.my-float
 bengali.news18.com###app-install-modal
 bengali.news18.com##.add_container-pht
@@ -149,8 +150,11 @@ xhamster.desi##.ruDg-Sng
 xhamster.desi##.root-7ae27
 xiaomitime.com##.bottom_fixad
 xiaomitime.com##.featuredb_ad
+zeenews.india.com###ZEE_NEWS_WAP_HP_Sticky
+
 ! www...
 www.aajkaal.in##.advertisement
+www.aaroananda.com##.ad-container
 www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
 www.allure.com##.ad
@@ -203,6 +207,7 @@ www.hindustantimes.com##.dHide
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.bottomMenu
 www.hindustantimes.com##.embed_div
+www.hindustantimes.com##.mb10
 www.hindustantimes.com##.mb20.mt10
 www.hindustantimes.com##.mWebTopAdSticky
 www.hindustantimes.com##.openAppButtonEcho
