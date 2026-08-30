@@ -66,6 +66,7 @@ eisamay.com##.mini-tv-strip
 eisamay.com##.top-atf-enabled-wrapper
 ek24.in##.float_inb_join
 ek24.in##.ss-main
+fandom.com###widgets-wrapper
 fortune.com##.impression-element
 fortune.com##.leaderboard-ad-wrapper-parent
 fortune.com##.trinity-player
@@ -80,6 +81,7 @@ indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
 indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
+inscript.me##.article-ad-slot
 janaushadhi.gov.in##.backtopbtn
 janaushadhi.gov.in##.app_no-icon
 janaushadhi.gov.in##.icon_chatbot_box
@@ -104,6 +106,7 @@ m.sangbadpratidin.in##.shono_sec
 m.thewire.in##.pref_src_main_container
 motoroctane.com##.s_stk
 news.careers360.com###trusted-fixed
+petapixel.com##.post-footer__membership-cta
 qz.com##.ay-ad-slot
 scroll.in###inlineNewsletterSignup
 support.broadcom.com##.livesdk__invitation
@@ -133,6 +136,7 @@ tv9bangla.com##.fixed-whatsapp
 tv9bangla.com##.googlePrefStickyMob
 tv9bangla.com##.nextPrevButton_Wrapper
 tv9bangla.com##.sticky_buttons
+tv9bangla.com###floating-player
 tv9bangla.com###taboola-mid-article-personalisation
 wbpay.in##.stream-item
 wbpay.in###header-notification-bar
