@@ -167,7 +167,7 @@ www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.articlestkyfooter
 www.anandabazar.com##.auwidgetheadouter
 www.anandabazar.com##.leadzerobanner
-www.anandabazar.com##.URM-login-modal
+! www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.lseheader
 www.anandabazar.com##.lsesponsorbox
 www.anandabazar.com##.lsewidget
