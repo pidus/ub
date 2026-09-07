@@ -32,7 +32,6 @@ bangla.asianetnews.com###vuukle-cintainer
 bangla.hindustantimes.com##.newSocialIcons
 bangla.hindustantimes.com##.promotionDurgaBannerMobile
 bangla.hindustantimes.com##.whatsUpBanner
-bangla.hindustantimes.com##p:nth-of-type(n+7)
 bengali.abplive.com##.ad-labels
 bengali.abplive.com##.middle-ad-btf-wrapper
 bengali.abplive.com##.preferred-bar-rhs
@@ -145,13 +144,6 @@ wiki.archlinux.org##.vector-header-container
 womenandtravel.net##.brides-cards
 womenandtravel.net##.bride-cta
 womenandtravel.net##.cpm-advertiser-disclosure
-xhamster.desi##.jNpF-weXlfbottom-widget-section
-xhamster.desi##.jNpF-weXlfplayer
-xhamster.desi##.jNpF-weXlfpremium-n-overlay
-xhamster.desi##.MHn-ogCf
-xhamster.desi##.MHn-ogCf--middle
-xhamster.desi##.ruDg-Sng
-xhamster.desi##.root-7ae27
 xiaomitime.com##.bottom_fixad
 xiaomitime.com##.featuredb_ad
 zeenews.india.com###ZEE_NEWS_WAP_HP_Sticky
@@ -167,7 +159,6 @@ www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.articlestkyfooter
 www.anandabazar.com##.auwidgetheadouter
 www.anandabazar.com##.leadzerobanner
-! www.anandabazar.com##.URM-login-modal
 www.anandabazar.com##.lseheader
 www.anandabazar.com##.lsesponsorbox
 www.anandabazar.com##.lsewidget
@@ -201,11 +192,8 @@ www.edutips.in###ekap
 www.edutips.in###tgap
 www.edutips.in##.tb-social-fixed-wrapper
 www.etvbharat.com##.article-page__ads
-www.etvbharat.com##.w-full.justify-center.flex
-www.facebook.com##.bottom.fixed-container.m
 www.financialexpress.com###marketDataBtn
 www.firstpost.com###floatingIcon
-www.forbes.com##.cnx-size-responsive.cnx-content-frame
 www.google.com###taw
 www.google.com##.bg9urf
 www.greaterkashmir.com##.article-amp-mid-ads-style
@@ -272,9 +260,6 @@ www.republicworld.com##.ampmobile
 www.rogerebert.com###ReviewInlineVideoContainer
 www.sangbadpratidin.in##.ad
 www.sangbadpratidin.in##.ad_970
-www.sangbadpratidin.in##.col-md-8 > div:nth-of-type(n)
-www.sangbadpratidin.in##.debipakho25_mobileview_sponsored_list
-www.sangbadpratidin.in##.debipakho25_wid_sponsor_area
 www.ssbcrack.com##.mxnehncidh
 www.ssbcrack.com##.product-scroll-wrapper
 www.straitstimes.com###am-widget
