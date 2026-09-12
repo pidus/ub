@@ -25,6 +25,7 @@ banglahunt.com##.app-install-btn
 banglahunt.com##.float-social-wrapper
 bangla.aajtak.in##.amp-top-ad
 bangla.aajtak.in##.stickyFooter
+bangla.aajtak.in##.story__top__ad
 bangla.asianetnews.com##.gawidget_footer
 bangla.asianetnews.com##.mobiletopad
 bangla.asianetnews.com##.downloadAppBox
@@ -41,6 +42,7 @@ bengali.indianexpress.com##.my-float
 bengali.news18.com###app-install-modal
 bengali.news18.com##.add_container-pht
 bengali.news18.com##.fbn-ad
+bengali.news18.com##.ffad
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.instlappbtn
 bengali.news18.com##.mainAds_contnr
@@ -270,6 +272,7 @@ www.thehindu.com###piano-modal-paywallblock-nobg
 www.thehindu.com##.read-in-app
 www.thewall.in##.ad
 www.thewall.in##.google-float-banner
+www.thewall.in##.mobile-hp-ad-wrapper
 www.thewall.in##.mobile-sticky-ad
 www.tokyvideo.com##.fan
 www.tokyvideo.com##.intensive-add
