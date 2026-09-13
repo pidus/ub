@@ -230,9 +230,11 @@ www.livemint.com##.sr1
 www.livemint.com##.subscribeNow
 www.livemint.com###btmMenuDiv
 www.magicbricks.com###getapp-banner
+www.moneycontrol.com##.ads-320-250
 www.moneycontrol.com##.btm_img_1
 www.moneycontrol.com##.btm_img_2
 www.moneycontrol.com##.css_instant_loan
+www.moneycontrol.com###osv_player_wap
 www.moneycontrol.com##.top_header_container
 www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
