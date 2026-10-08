@@ -73,6 +73,7 @@ fortune.com##.impression-element
 fortune.com##.leaderboard-ad-wrapper-parent
 fortune.com##.trinity-player
 fortune.com###related-video
+govtjobsalert.in###wpn-bell
 imgur.com##.BottomRecirc
 indiahood.in###share
 indiahood.in##.ekc-close
@@ -112,6 +113,7 @@ news.careers360.com###trusted-fixed
 petapixel.com##.post-footer__membership-cta
 qz.com##.ay-ad-slot
 scroll.in###inlineNewsletterSignup
+store.genericaadhaar.com##.sales-popup
 support.broadcom.com##.livesdk__invitation
 testbook.com###super-coaching
 testbook.com##.continue-app-btn
@@ -155,6 +157,7 @@ zeenews.india.com###ZEE_NEWS_WAP_HP_Sticky
 ! www...
 www.aajkaal.in##.advertisement
 www.aaroananda.com##.ad-container
+www.aaroananda.com##app-google-ad
 www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
 www.allure.com##.ad
@@ -266,6 +269,7 @@ www.republicworld.com##.ampmobile
 www.rogerebert.com###ReviewInlineVideoContainer
 www.sangbadpratidin.in##.ad
 www.sangbadpratidin.in##.ad_970
+www.sangbadpratidin.in##.sreeleathers_ad_slide_wrap
 www.ssbcrack.com##.mxnehncidh
 www.ssbcrack.com##.product-scroll-wrapper
 www.straitstimes.com###am-widget
@@ -287,6 +291,7 @@ www.xnxx.tv###content-ad-top-zone-contener
 www.vogue.in##.ad-height-hold
 www.vogue.in##.journey-unit__container
 www.vogue.in##.StickyHeroAdWrapper-eNLJUc
+www.thewall.in##.i-amphtml-video-interface
 www.windowscentral.com###viafoura-engagement-starter-wrapper
 www.xvideos.com###chat-window
 www.xvideos.com###mobile-header-links
