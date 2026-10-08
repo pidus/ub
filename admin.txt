@@ -41,6 +41,7 @@ bengali.abplive.com##.tw_filter_info
 bengali.indianexpress.com##.my-float
 bengali.news18.com###app-install-modal
 bengali.news18.com##.add_container-pht
+bengali.news18.com##.appinstallft-banner
 bengali.news18.com##.fbn-ad
 bengali.news18.com##.ffad
 bengali.news18.com##.ftrstkyad
@@ -81,6 +82,7 @@ indiahood.in##.googlePrefStickyMob
 indiahood.in##.whatsapp-card
 indiahood.in##[href="http://indiahood.page.link/ihads"]
 indianexpress.com##.budget-band
+indianexpress.com##.ie-amp-ad-carousel
 indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
 inscript.me##.article-ad-slot
 janaushadhi.gov.in##.backtopbtn
@@ -295,5 +297,6 @@ www.xvv1deos.com##.premium-results-line
 www.xvv1deos.com##.remove-ads
 www.xvv1deos.com##.thumb-nat-exo-ad
 www.xvv1deos.com##.video-ad
+www.zdnet.com##.exco-video-player
 www.99acres.com###smartAppBanner__container
 www.99acres.com##.chatBot__chatBotBox
