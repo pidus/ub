@@ -157,6 +157,7 @@ zeenews.india.com###ZEE_NEWS_WAP_HP_Sticky
 ! www...
 www.aajkaal.in##.advertisement
 www.aaroananda.com##.ad-container
+www.aaroananda.com##.ad-layout-protector
 www.aaroananda.com##app-google-ad
 www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
