@@ -46,6 +46,7 @@ bengali.news18.com##.fbn-ad
 bengali.news18.com##.ffad
 bengali.news18.com##.ftrstkyad
 bengali.news18.com##.instlappbtn
+bengali.news18.com##.games-floating-widget
 bengali.news18.com##.mainAds_contnr
 bengali.news18.com##.mid-taboola
 bengali.news18.com##.opnapp
@@ -86,11 +87,12 @@ indianexpress.com##.budget-band
 indianexpress.com##.ie-amp-ad-carousel
 indianexpress.com##[href^="http://www.indianexpress.com/subscribe/all-access/"]
 inscript.me##.article-ad-slot
-janaushadhi.gov.in##.backtopbtn
 janaushadhi.gov.in##.app_no-icon
-janaushadhi.gov.in##.icon_chatbot_box
+janaushadhi.gov.in##.backtopbtn
 janaushadhi.gov.in##.bhashini-dropdown-btn
 janaushadhi.gov.in##.chat_and_stauts_btn
+janaushadhi.gov.in##.icon_chatbot_box
+janaushadhistore.online###dvaarik-widget
 janaushadhi.gov.in##.jana_social_icons
 linuxblog.io##.hayden-after-paragraph
 maritime-executive.com##.add
