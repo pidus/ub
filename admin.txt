@@ -54,6 +54,7 @@ bengali.news18.com##.outstrem
 bengali.news18.com##.social_share_sec
 bengali.news18.com##.sponsorsBannerContainer
 bengali.news18.com##.taboola_home
+bengali.timesnownews.com##.amp_dfp
 buy.realme.com##.btn-open-app
 buy.realme.com##.toApp-header
 celebjihad.com##.lazy
@@ -94,6 +95,7 @@ janaushadhi.gov.in##.chat_and_stauts_btn
 janaushadhi.gov.in##.icon_chatbot_box
 janaushadhistore.online###dvaarik-widget
 janaushadhi.gov.in##.jana_social_icons
+kolkata24x7.in##.code-block
 linuxblog.io##.hayden-after-paragraph
 maritime-executive.com##.add
 maritime-executive.com##.med-signup-sidebar
@@ -128,10 +130,11 @@ testbook.com##.whatsAppFixed
 theprint.in##.code-block
 timesofindia.indiatimes.com###operating-system
 timesofindia.indiatimes.com###poll-widget
-timesofindia.indiatimes.com##.ampv3-ad
 timesofindia.indiatimes.com###iccIPLWPLliveWidget
 timesofindia.indiatimes.com###floatctadefault
+timesofindia.indiatimes.com##.ampv3-ad
 timesofindia.indiatimes.com##.button_wrapper
+timesofindia.indiatimes.com##.heilg
 timesofindia.indiatimes.com##.is_ads_visible
 timesofindia.indiatimes.com##.mob-share-button
 timesofindia.indiatimes.com##.sticky_minitv
@@ -161,6 +164,8 @@ www.aajkaal.in##.advertisement
 www.aaroananda.com##.ad-container
 www.aaroananda.com##.ad-layout-protector
 www.aaroananda.com##app-google-ad
+www.adda247.com##.banner-management
+www.adda247.com##.footer-static-detail-bar
 www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
 www.allure.com##.ad
@@ -195,9 +200,12 @@ www.businessinsider.com##.newsletter-dynamic
 www.businesstoday.in##.amp_top_ad
 www.businesstoday.in##.install-button
 www.businesstoday.in##.stickyFooter
+www.careerpower.in##.footer-static-detail-bar
 www.cnbctv18.com##.installdiv
 www.desipapa.tv##.mo-av
 www.digitaltrends.com##.b-connatix
+www.drishtiias.com##.open-button
+www.drishtiias.com##.section-banner
 www.edutips.in###ekap
 www.edutips.in###tgap
 www.edutips.in##.tb-social-fixed-wrapper
@@ -207,6 +215,7 @@ www.firstpost.com###floatingIcon
 www.google.com###taw
 www.google.com##.bg9urf
 www.greaterkashmir.com##.article-amp-mid-ads-style
+www.gsceindia.org##.bottom-button
 www.hindustantimes.com##.dHide
 www.hindustantimes.com##.bottomFixAd
 www.hindustantimes.com##.bottomMenu
@@ -258,6 +267,9 @@ www.outlookindia.com##.new-ads-res
 www.outlookindia.com##.new-lhs-md-ads-res
 www.outlookindia.com##.cls1Pixel
 www.outlookindia.com##.ads-box
+www.policybazaar.com##.app-banner-new
+www.policybazaar.com##.download-pb-app
+www.policybazaar.com##.nudge-container
 www.pornhub.com##.eudsaLink
 www.pornwhite.com##.container-side
 www.pornwhite.com##.pre-items
