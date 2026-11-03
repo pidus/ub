@@ -63,6 +63,7 @@ crex.com##.ad-parent
 crex.com##.follow-btn
 digitalsynopsis.com##.site-header
 economictimes.indiatimes.com##.adContainer
+edutap.in##.floating-bar
 eisamay.com##.ad-wrapper-625
 eisamay.com##.aside-collection-ad-slot
 eisamay.com##.btn_openinapp
