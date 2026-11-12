@@ -1,10 +1,16 @@
 [uBlock Origin]
 ! Title: ⚡ Personal uBO Filters ⚡
 ! Description: Personal filters for uBlock Origin. Alphabetical, without comments. Maintained by Pidus Redlah.
-! Expires: 24 hours
+! Expires: 1 day
 ! License: MIT
 ! Homepage: https://github.com/pidus/ub
 ! URL: https://github.com/pidus/ub/raw/master/admin.txt
+
+! Block Sign-in with Google 
+! ||accounts.google.com/gsi/iframe/select?client_id=*.apps.googleusercontent.com
+
+! MEGA 50 GB file download (Firefox)
+! mega.nz##+js(trusted-set, MemoryIO.fileSizeLimit, 53687091200)
 
 ||e.tv9hindi.com/bn/tv9bangla/elections/sponsor-banner$subdocument
 ||images.moneycontrol.com/images/common/header/*.svg$image
@@ -171,6 +177,7 @@ www.afaqs.com##.article-amp-mid-ads-style
 www.afaqs.com##[href^="https://adsnew.afaqs.com/revive-adserver-5.4.1/www/delivery/ck.php"]
 www.allure.com##.ad
 www.aljazeera.com##.amp-leaderboard-atf
+www.altnews.in##.mobile-donate-bar
 www.androidpolice.com###adsninja-below-main-pic
 www.anandabazar.com##.articlestkyfooter
 www.anandabazar.com##.auwidgetheadouter
@@ -238,8 +245,10 @@ www.indiatoday.in###tab-video-wrapper-plugin
 www.indiatoday.in##.stickyai_strip
 www.indiatoday.in##.topBanner_wrap
 www.koimoi.com###after_featured_image
-www.livemint.com##.adContainer
 www.livemint.com###gift-an-article
+www.livemint.com##.adContainer
+www.livemint.com##.carousel-ad-wrapper
+www.livemint.com##.carousel-ads-wrapper
 www.livemint.com##.btn-wrap
 www.livemint.com##.inlineAds
 www.livemint.com##.inlineTaboolaHeight
@@ -254,6 +263,7 @@ www.moneycontrol.com##.btm_img_2
 www.moneycontrol.com##.css_instant_loan
 www.moneycontrol.com###osv_player_wap
 www.moneycontrol.com##.top_header_container
+www.mykamababa.com##.ad
 www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
 www.news18.com###app_install_float
