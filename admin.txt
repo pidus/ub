@@ -20,6 +20,7 @@
 ||www.anandabazar.com/subscription-assets/js/paywall.js$script,~third-party
 ||www.tiktok.com/embed/*/$subdocument
 
+afiyukent.one###wba
 amateurphotographer.com##.ad
 amp.scmp.com##.promotion-cta
 amp.scmp.com###share-menu-floating
@@ -266,12 +267,18 @@ www.moneycontrol.com##.top_header_container
 www.mykamababa.com##.ad
 www.ndtv.com##.jiosawanwdg
 www.ndtv.com##.RdInAp_wr
+www.ndtvprofit.com###adslot320x75sticky
+www.ndtvprofit.com###jiosawan
+www.ndtvprofit.com##.ad-art_wap
+www.ndtvprofit.com##.ad-art_full-tbs
+www.ndtvprofit.com##.PfGtAp_cn
 www.news18.com###app_install_float
 www.news18.com##.brnw_strip
 www.news18.com##.electwrapmob
 www.news18.com##.play_games_floating
 www.newslaundry.com##.story-element-jsembed
 www.oliveboard.in##.openinapp
+www.omgubuntu.co.uk##.widget_text.widget
 www.outlookbusiness.com##.ads-indicator
 www.outlookindia.com##.hero-ads-banner
 www.outlookindia.com##.new-ads-res
