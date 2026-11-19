@@ -204,6 +204,7 @@ www.bollywoodshaadis.com##.artcl_ad_mob
 www.bollywoodshaadis.com##.wgt_text2
 www.businessinsider.com##.audio-player-container
 www.businessinsider.com##.post-video-recirc
+www.businessinsider.com##.preferred-sources-module
 www.businessinsider.com##.as-narrow.grid-lines.bottom-section
 www.businessinsider.com##.newsletter-dynamic
 www.businesstoday.in##.amp_top_ad
